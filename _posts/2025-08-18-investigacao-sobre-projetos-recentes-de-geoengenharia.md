@@ -89,3 +89,4 @@ A ênfase na geoengenharia não deve substituir políticas clássicas de transi�
 
 ## Patentes
 - [Verificar Patentes](/categories/geoengenharia/)
+
