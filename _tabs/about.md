@@ -5,132 +5,128 @@ title: Sobre Autor
 order: 10
 ---
 
-> Este espaço é destinado a publicação de pensamentos e reflexões.
-{: .prompt-tip }
-
-
 > Você deve ser a mudança que deseja ver no mundo.  
 > ~~ Mahatma Gandhi
+{: .prompt-tip }
 
-## Português
+# 🌎 Sobre o Portal de Patentes de Geoengenharia
 
-### Responsável
+Bem-vindo ao portal dedicado à listagem e análise das mais de 200 patentes de alteração do clima — a geoengenharia — e sua interface com debates contemporâneos, tecnologia, riscos e governança global. Aqui você encontra informações técnicas, históricas e críticas sobre as inovações climáticas que estão redesenhando o futuro da humanidade.
 
-Araguaci, bacharel em informática e especializado em desenvolvimento de sistemas e soluções para internet.
-Sou um analista de sistemas e desenvolvedor que transformou anos de freelancer em uma carreira em tempo integral. 
+***
 
-### 🔰 **Perfil:**
+## ⏳ Evolução Histórica da Geoengenharia
 
-Análise crítica, organização, disciplina, trabalho em equipe, preocupação com responsabilidade e pontualidade, busca incansável pela qualidade e criatividade.
+A manipulação deliberada do clima, antes restrita à ficção científica, tem uma longa trajetória documentada por patentes desde o início do século XX. As primeiras inovações eram simples, como a geração de neblinas artificiais ou a “semeadura de nuvens” para induzir chuva. Ao longo das décadas, as técnicas evoluíram para abordagens sofisticadas, como o uso de nanomateriais, inteligência artificial (IA) e drones autônomos para intervenções atmosféricas precisas.
 
-### 👨‍🎓 **Carreira:**
+- 📜 **Fase pioneira (anos 1920-1950):** Tecnologias mecânicas e químicas para criar nuvens e controlar neblinas.
+- ⚙️ **Era da expansão tecnológica (1950-2000):** Semeadura de nuvens, alteração da ionosfera e experimentos militares.
+- 🤖 **Século XXI — Otimização digital e urgência climática:** Uso de IA, sensores, satélites e plataformas espaciais tornam possível atuar em escala global com maior precisão e integração de dados.[1]
 
-Desde 1994, trabalhando na criação e desenvolvimento de sistemas, portais, páginas pessoais, websites e sistemas para internet e gerenciamento de processos e rotinas digitais. Especializado no desenvolvimento, análise e gestão de sistemas para atendimento ao cliente, Call Center, CRM, SAC, Helpdesk e Telemarketing. Atuando também com suporte ao cliente e administração remota de banco de dados e portais corporativos.
+***
 
-### 🎓 **Educação:**
+## 👥 Quem Faz Geoengenharia? Os Atores-Chave
 
-- 1994/1998 - Graduação. Bacharelado em Informática, Faculdades POSITIVO.
-- 1999/1999 - Especialização. Produção e Gestão da Informação, UNICENP.
-- 2003/2003 - Especialização. Software Livre / Linux. UFPR.
- 
-### 🔍 **Palavras Chaves:**
+A lista de patentes revela um ecossistema diverso de atores:
 
-- Desenvolvimento / Software 
-- VOIP / Call Center / Linux / Docker / WSL
-- Visual Basic / .NET / MSSQL Server / MySQL / PHP / Python / HTML / CSS 
-- Português / Inglês / Espanhol (learning)
-- Surf / Stand Up Paddle 
- 
+- 🏢 **Setor privado e inventores:** Empresas de tecnologia, energia, defesa, startups e inovadores individuais criam soluções comerciais visando tanto lucro quanto sustentabilidade. Exemplos vão de sistemas inteligentes de modificação do tempo a métodos industriais de captura de carbono.
+- 🏛️ **Governos e forças armadas:** Grandes nações investem em pesquisa para adaptação climática e defesa nacional, registrando patentes e financiando projetos experimentais de ampla escala.
+- 🎓 **Academia e filantropia:** Universidades de ponta e fundações apoiam pesquisas sobre riscos, ética e viabilidade. Esse tripé determina o ritmo e as estratégias da geoengenharia global.[2]
 
----
+***
 
-## English 
+## ⚙️ Como Funcionam as Patentes de Alteração de Clima
 
-Hello, I'm Araguaci, bachelor's degree in computer science and specialized in developing systems and solutions for the internet.
+As patentes documentam métodos inovadores para modificar processos atmosféricos e climáticos. Entre as principais estratégias:
 
-### 📝 **Introduction:**
+- 🌧️ **Semeadura de nuvens:** Dispersão de agentes químicos para aumentar precipitação ou reduzir eventos extremos. Exemplo: patentes de pulverização eletrostática ou uso de drones catalisadores.
+- ☁️ **Clareamento de nuvens marinhas:** Turbinas eólicas dispersam nanopartículas para aumentar o albedo, refletindo mais luz solar e reduzindo temperaturas regionais.
+- 🔬 **Reflexão solar (SRM):** Sistemas que lançam aerossóis na estratosfera bloqueando parte da radiação solar.
+- 🌊 **Modificação oceânica:** Remoção de CO₂ dos oceanos e produção integrada de hidrogênio verde, como em usinas recentes.
+- 🛰️ **Plataformas espaciais e IA:** Satélites e redes sensoras monitoram, simulam e ajustam intervenções em tempo real, reduzindo riscos operacionais e maximizando a eficiência.[3]
 
-This space is for the publication of ideas, opinions and thoughts. There is increasing censorship in the world and many services are subject to content review and moderation. In this way, this space is for personal use and registration free of moderation.
+***
 
-### 👨‍🎓 **Career:**
+## 💸 Economia & Mercado da Geoengenharia
 
-Since 1994, creation and development of systems, portals, personal pages, websites, and specialized systems for internet and websites for managing registrations and routines. Specialization in analysis and development of systems for customer service, CRM, SAC, Helpdesk & Telemarketing. Also acting with customer support and remote administration of database and corporate portals.
+O campo movimenta valores bilionários em custo de pesquisa, implantação e manutenção:
 
-### 🔰 **Profile:**
+- 💰 **Custo de intervenção:** Varía de milhões por experimentos locais a bilhões anuais para projetos globais de SRM.
+- 📈 **Climatetech:** O setor atrai capital de risco, fundos soberanos e grandes corporações interessados na proteção de ativos, agricultura, energia e seguros contra desastres.
+- 💸 **Riscos econômicos:** Incluem choque de terminação (interrupção abrupta de grandes projetos), formação de cartéis climáticos detendo patentes e dependência tecnológica sofisticada sem governança robusta.[4]
 
-Critical analysis, organization, discipline, teamwork, concern with responsibility and punctuality, tireless search for quality and creativity.
+***
+
+## ⚠️ Riscos e Desafios Éticos
+
+A tecnologia avança rápido, mas riscos e dilemas se acumulam:
+
+- 🛡️ **Impactos ambientais:** Intervenções podem alterar ecossistemas, afetar regiões distantes e gerar consequências imprevistas, seja na química marinha, atmosferas ou biodiversidade.
+- 🕵️ **Governança e precaução:** Decisões devem ser pautadas por transparência, regulação internacional rigorosa e simulações antes de qualquer implementação em larga escala.
+- ⚖️ **Desigualdade e poder:** Países com menor capacidade tecnológica podem sofrer impactos sem voz no processo, alimentando desigualdades e disputas diplomáticas.
+- 🧬 **Dependência e experimentação planetária:** Ao agir sem consenso, há risco de transformar o planeta em laboratório — com potenciais efeitos irreversíveis.
+- 👥 **Concentração de poder:** Quem detém a tecnologia pode tomar decisões que afetam todos, criando ameaças à soberania e autonomia nacional de Estados.[5][6]
+
+***
+
+## 🌱 Geoengenharia & Sustentabilidade: O Viés da Agenda 2030
+
+No âmbito dos Objetivos de Desenvolvimento Sustentável (ODS), a geoengenharia surge como solução tecnológica complementar para:
+
+- 🕊️ **ODS 13:** Combate à mudança do clima.
+- ⚡ **ODS 7:** Avanço em energia limpa, transição e eficiência.
+- 🌆 **ODS 11:** Adaptação de cidades frente a eventos extremos.
+ONGs, empresas e governos reforçam a necessidade de alinhamento transparente, equitativo e inclusivo dessas tecnologias aos princípios da Agenda 2030 — garantindo que o progresso não deixe ninguém para trás e busque justiça climática global.[7]
+
+***
+
+## 🏛️ Viés Conservador & Soberania das Nações
+
+Críticas e análises conservadoras alertam para:
+
+- 🇺🇳 **Risco à soberania:** A concentração de poder em poucos países ou alianças pode minar a autonomia das nações mais vulneráveis.
+- 💰 **ONGs e controle:** A atuação intensa de ONGs internacionais às vezes é vista como instrumento político-econômico do Norte Global para impor agendas e restringir o uso autônomo de recursos naturais.
+- ⚖️ **Princípio da precaução:** Investimento em geoengenharia não pode substituir esforços tradicionais de adaptação, mitigação e justiça socioambiental. Decisões precisam de amplo debate democrático, impedindo imposições tecnocráticas globais.[5]
+
+***
+
+## 📝 Compromisso do Portal
+
+- 🔍 **Listagem exclusiva:** Aqui, você encontra a principal base digital em português com mais de 200 patentes detalhadas, pesquisáveis e categorizadas por tecnologia, uso e fase de implementação.
+- 📰 **Artigos críticos e atualizados:** A equipe curadoria traz análises contextuais, simulações práticas e notícias globais sobre os rumos da geoengenharia.
+- 🌐 **Referência para pesquisadores, jornalistas e tomadores de decisão:** O portal integra debate técnico e multidisciplinar, incentivando o diálogo transparente, ético e inclusivo sobre o futuro do clima comum.
+
+***
+
+## 📚 Para saber mais…
+
+Explore os artigos recomendados, confira as listas de patentes por categoria ou consulte temas como:
+
+- [O que é geoengenharia otimizada?](/o-que-e-geoengenharia-otimizada/)
+- [Quem são os atores?](/quem-sao-os-atores-da-geoengenharia-otimizada/)
+- [Quando e como estas tecnologias nasceram?](/quando-a-evolucao-historica-da-geoengenharia/)
+- [Onde impactam mais?](/onde-o-mapa-global-da-geoengenharia/)
+- [Por que adotar (ou não) essa abordagem?](/porque-realizar-geoengenharia-otimizada/)
+- [Como funcionam na prática?](/como-funciona-a-geoengenharia-otimizada/)  
+- [Quanto custam — e quais riscos econômicos trazem?](/quanto-a-economia-da-geoengenharia/)
 
 
-### 🎓 **Graduation:**
+## 🌟 Resumo Visual
 
-- 1994/1998 - Graduation. Bachelor's Degree in Computer Science, POSITIVO Colleges.
-- 1999/1999 - Specialization. Production and Information Management, UNICENP.
-- 2003/2003 - Specialization. Free Software / Linux. UFPR.
+- ⏳ Histórica global, mas desigual.
+- 👥 Ecossistema diversificado de atores.
+- ⚙️ Soluções tecnológicas inovadoras.
+- 💸 Mercado bilionário, riscos econômicos.
+- ⚠️ Grandes dilemas éticos e ambientais.
+- 🌱 Integração com a Agenda 2030.
+- 🏛️ Debate intenso sobre soberania.
 
-### 🔍 **Keywords:**
+***
 
-- Development / Software 
-- VOIP / Call Center / Linux / Docker / WSL
-- Visual Basic / .NET / MSSQL Server / MySQL / PHP / Python / HTML / CSS 
-- Portuguese / English / Spanish (learning)
-- Surf / Stand Up Paddle 
+> _Este portal apoia o debate informado, plural e transparente sobre os caminhos da geoengenharia. Navegue, questione e colabore para pensar o clima do futuro!_
 
---- 
 
-## For everyone on earth
-
-<table style="overflow: hidden; border: none;"><tr><td valign="top" width="50%">
-✠ Que as gotas de chuva molhem suavemente o seu rosto.<br/>
-✠ Que o vento suave refresque seu espírito.<br/>
-✠ Que o sol ilumine o seu coração.<br/>
-✠ Que as tarefas do dia não sejam um peso nos seus ombros.<br/>
-✠ Que Deus envolva você no manto de seu amor.<br/>
-✠ Que a estrada se abra à sua frente.<br/>
-✠ Que o vento sopre levemente em suas costas.<br/>
-✠ Que o sol brilhe morno e suave em sua face.<br/>
-✠ Que a chuva caia de mansinho em seus campos.<br/>
-✠ Até que nos encontremos de novo...<br/>
-✠ Que Deus guarde você na palma de sua mão.
-</td><td valign="top" width="50%">
-✠ Let the raindrops gently wet your face.<br/>
-✠ May the gentle wind refresh his spirit.<br/>
-✠ May the sun light up your heart.<br/>
-✠ That the tasks of the day are not a burden on your shoulders.<br/>
-✠ May God wrap you in the mantle of his love.<br/>
-✠ Let the road open in front of you.<br/>
-✠ Let the wind blow lightly on your back.<br/>
-✠ May the sun shine warm and soft on your face.<br/>
-✠ May the rain fall softly on your fields.<br/>
-✠ Until we meet again...<br/>
-✠ May God keep you in the palm of his hand.
-</td></tr></table>
-
-## Links
-
-### Hobby Designer, Producer, Creator, Patreon and Hosting by Free Volunteering
-  
-  Uniting talents and strengthening education and sport in Santa Catarina
-
-  - [FLORIPA SURF CLUB SURF SCHOOL](http://floripasurfclub.com/)
-  - [FLORIPA SUP CLUB - STAND UP PADDLE](http://www.floripasupclub.com.br/)
-  - [CENTRAL DE AVENTURAS](http://centraldeaventuras.com.br/)
-  - [PROJETO SUP SOCIAL](https://supsocial.vercel.app/)
-  - [🌊 F.E.C.E.E.S.S. ☆ A.C.E.S. SC](https://escolasdesurf.org.br/)
-  - A.C.E.S. SC - Santa Catarina Association of Surf Schools SC
-    - [🏄 HOTSITE F.E.C.E.E.S.S. ☆ A.C.E.S. SC](http://feceess.escolasdesurf.org.br/)
-    - [🏄 Accredited Surf Schools](http://feceess.escolasdesurf.org.br/escolas/)
-
----
-
-<p>
-  <img width="100%" src ="https://github-readme-stats.vercel.app/api?username=araguaci&show_icons=true&count_private=true&theme=blue&hide_border=true&hide=issues,contribs&bg_color=FFFFFF00"/>
-  
-  <img width="100%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=araguaci&layout=compact&hide_border=true&theme=blue&bg_color=FFFFFF00&langs_count=6&hide=jupyter%20notebook,tex,css,php"/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=araguaci&theme=blue&hide_border=true&background=FFFFFF00"/>
-</p>
-
----
+## Autor
 
 [![Website](https://img.shields.io/endpoint?color=RGBA%2839%2C%20119%2C%20119%2C%201%29&label=artesdosul&url=https%3A%2F%2Fwww.artesdosul.com%2Fapi.php%3Fcallback%3Dweb)](https://www.artesdosul.com)
 [![X Org](https://img.shields.io/badge/X_Org-%40artesdosul-1d9bf0.svg)](https://x.com/artesdosul)
