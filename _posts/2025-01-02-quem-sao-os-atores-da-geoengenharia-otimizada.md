@@ -28,3 +28,5 @@ O principal risco associado a "Quem" desenvolve a geoengenharia reside nos confl
 
 ## 🎯 Conclusão
 A geoengenharia é impulsionada por um ecossistema diversificado, onde a busca por segurança, lucro e conhecimento se entrelaçam. A identidade desses atores revela que a questão não é apenas científica, mas profundamente política e econômica. Sem uma estrutura de governança internacional transparente e inclusiva, que defina responsabilidades e limites éticos, corremos o risco de que as ferramentas projetadas para salvar o planeta se tornem instrumentos de poder e desigualdade nas mãos de uma elite tecnológica e geopolítica.
+
+- [Verificar Patentes](/categories/geoengenharia/)

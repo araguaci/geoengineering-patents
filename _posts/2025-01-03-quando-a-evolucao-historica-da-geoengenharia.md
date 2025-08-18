@@ -34,3 +34,5 @@ O risco da evolução histórica da geoengenharia é a aceleração tecnológica
 
 ## 🎯 Conclusão
 A linha do tempo da geoengenharia é uma história da crescente ambição humana em controlar a natureza. De simples geradores de neblina a sistemas planetários gerenciados por IA, a evolução é inegável. O "Quando" nos ensina que o momento atual é crítico: estamos no limiar de uma era em que o controle climático em larga escala é tecnologicamente viável. Esta constatação torna o debate sobre sua governança não apenas importante, mas a discussão mais urgente do nosso tempo.
+
+- [Verificar Patentes](/categories/geoengenharia/)

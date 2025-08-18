@@ -27,3 +27,5 @@ Os mecanismos podem gerar riscos operacionais, como falhas técnicas em disposit
 
 ## 🎯 Conclusão
 A geoengenharia otimizada opera por meio de intervenções precisas e integradas, demonstrando potencial para gerenciamento climático eficaz. No entanto, sua execução demanda avanços contínuos em monitoramento e simulação para garantir segurança e eficácia.
+
+- [Verificar Patentes](/categories/geoengenharia/)

@@ -31,14 +31,7 @@ Finalmente, a simulação e análise indicam que geoengenharia é uma ferramenta
 ## ⚠️ Análise de Riscos
 Riscos incluem "choque de terminação" (aquecimento abrupto se SRM parar), impactos regionais desiguais (ex.: secas no Sahel), e dilemas éticos como violação de soberania via efeitos transfronteiriços. Modelagens mostram redução de biodiversidade e acidificação oceânica, com governança fraca levando a "moral hazard" (reduzindo esforços de emissões). Custos econômicos: bilhões anuais para SRM vs. trilhões em danos climáticos evitados, mas riscos geopolíticos de "cartéis" por nações detentoras de tecnologia.
 
-## 🏁 Conclusão
-Projetos recentes demonstram potencial para mitigar crises climáticas, mas análise revela necessidade real de investimentos para pesquisa inclusiva, contraposta a riscos de controle soberano. Governança global é essencial para equilibrar benefícios e equidade.
-
-## 📊 Simulação Baseada em Dados Confiáveis
-Usando dados IPCC-like (forçamento ~2-3 W/m² levando a 1-2°C aumento), simulei impacto hipotético de SRM reduzindo forçamento em 1 W/m² (~0.5-1°C mitigação). De 2025-2100: Média sem SRM: 1.11°C; com SRM: 0.74°C; redução: 0.37°C. Gráfico hipotético: Baseline sobe linearmente a ~2.25°C em 2075; SRM a ~1.5°C. Isso ilustra SRM como ponte temporária, mas não soluciona emissões raiz, baseado em relatórios UNEP/IPCC.
-
-## ⚖️ Necessidade Real vs Controle Soberano
-A necessidade de investimentos é real: Custos climáticos globais ~US$ trillhões/ano justificam bilhões em pesquisa para evitar contração econômica de 50% até 2070. Propaganda via ONGs como SilverLining promove ciência aberta para "segurança planetária", e criação de entidades como Degrees foca inclusão em países em desenvolvimento. No entanto, críticos como CIEL veem como distração, exacerbando desigualdades (ex.: África afetada por monsoons alterados), e forma de controle onde nações ricas (EUA/UK) dominam tecnologias, violando soberania via impactos transfronteiriços sem consentimento. Moratórias CBD/LC mostram resistência, sugerindo equilíbrio entre urgência climática e riscos geopolíticos.
+- [Verificar Patentes](/categories/geoengenharia/)
 
 ## 📚 Fontes
 1. [geoengineering](https://www.epa.gov/geoengineering/government-action)

@@ -28,3 +28,5 @@ O principal risco geopolítico de "Onde" é a desigualdade e o potencial de conf
 
 ## 🎯 Conclusão
 O mapa da geoengenharia revela uma profunda assimetria global. A inovação está concentrada, a implementação é localizada, mas o impacto é planetário. Responder à pergunta "Onde?" nos força a confrontar a necessidade urgente de um diálogo global e de uma estrutura de governança que garanta que as decisões sobre o nosso clima compartilhado sejam tomadas de forma equitativa, e não apenas pelos países onde as patentes são registradas.
+
+- [Verificar Patentes](/categories/geoengenharia/)
