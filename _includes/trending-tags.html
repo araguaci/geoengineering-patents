@@ -1,6 +1,6 @@
 <!-- The trending tags list -->
 
-{% assign MAX = 10 %} {% assign size_list = '' | split: '' %} {% assign tag_list
+{% assign MAX = 15 %} {% assign size_list = '' | split: '' %} {% assign tag_list
 = '' | split: '' %} {% for tag in site.tags %} {% assign size = tag | last |
 size %} {% assign size_list = size_list | push: size %} {% assign tag_str = tag
 | first | append: '::' | append: size %} {% assign tag_list = tag_list | push:
