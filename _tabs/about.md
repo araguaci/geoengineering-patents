@@ -102,13 +102,13 @@ Críticas e análises conservadoras alertam para:
 
 Explore os artigos recomendados, confira as listas de patentes por categoria ou consulte temas como:
 
-- [O que é geoengenharia otimizada?](/o-que-e-geoengenharia-otimizada/)
-- [Quem são os atores?](/quem-sao-os-atores-da-geoengenharia-otimizada/)
-- [Quando e como estas tecnologias nasceram?](/quando-a-evolucao-historica-da-geoengenharia/)
-- [Onde impactam mais?](/onde-o-mapa-global-da-geoengenharia/)
-- [Por que adotar (ou não) essa abordagem?](/porque-realizar-geoengenharia-otimizada/)
-- [Como funcionam na prática?](/como-funciona-a-geoengenharia-otimizada/)  
-- [Quanto custam — e quais riscos econômicos trazem?](/quanto-a-economia-da-geoengenharia/)
+- [O que é geoengenharia otimizada?](/posts/o-que-e-geoengenharia-otimizada/)
+- [Quem são os atores?](/posts/quem-sao-os-atores-da-geoengenharia-otimizada/)
+- [Quando e como estas tecnologias nasceram?](/posts/quando-a-evolucao-historica-da-geoengenharia/)
+- [Onde impactam mais?](/posts/onde-o-mapa-global-da-geoengenharia/)
+- [Por que adotar (ou não) essa abordagem?](/posts/porque-realizar-geoengenharia-otimizada/)
+- [Como funcionam na prática?](/posts/como-funciona-a-geoengenharia-otimizada/)  
+- [Quanto custam — e quais riscos econômicos trazem?](/posts/quanto-a-economia-da-geoengenharia/)
 
 
 ## 🌟 Resumo Visual
