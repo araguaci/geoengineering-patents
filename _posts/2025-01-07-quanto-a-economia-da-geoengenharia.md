@@ -29,4 +29,8 @@ Os riscos econômicos são tão significativos quanto os benefícios. O primeiro
 ## 🎯 Conclusão
 A economia da geoengenharia é uma faca de dois gumes. Por um lado, os incentivos financeiros para desenvolver tecnologias que protejam trilhões de dólares em ativos globais são imensos e aceleram a inovação. Por outro, esses mesmos incentivos podem levar a soluções apressadas, criar monopólios perigosos e desviar o foco da necessidade fundamental de reduzir as emissões de gases de efeito estufa. Responder à pergunta "Quanto?" revela que, sem uma regulação econômica global robusta, a busca por estabilizar o clima pode acabar por desestabilizar a economia mundial de maneiras novas e imprevisíveis.
 
+
+---- 
+
+## Patentes
 - [Verificar Patentes](/categories/geoengenharia/)

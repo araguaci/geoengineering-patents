@@ -1,7 +1,7 @@
 ---
-title: Investigação sobre Projetos Recentes de Geoengenharia
+title: "Geoengenharia: Projetos Recentes, Riscos e Implicações Globais"
 description: >
-  "Investigação identifica projetos geoengenharia 2024-2025 em SRM: UK engrossa gelo Ártico/clareia nuvens, testes CA controversos/cancelados, NOAA monitora. ONGs SilverLining promove pesquisa, CIEL alerta riscos/distração. Necessidade real de investimentos mitiga urgências climáticas, mas suscita preocupações soberania/desigualdades globais/controle por nações ricas. Simulação: redução ~0.37°C até 2100 via SRM (dados IPCC-like)."
+  "A geoengenharia avança com projetos inovadores, mas gera debates sobre riscos, custos, soberania e influência de ONGs, exigindo análise quanto à real necessidade e motivações políticas."
 date: 2025-08-18T15:19:40.340Z
 preview: ""
 tags: ['5w2h', 'geoengenharia']
@@ -11,37 +11,81 @@ image:
 faicon: fa-globe-americas
 ---
 
-# 🌍 Investigação sobre Projetos Recentes de Geoengenharia
+# 🌎 Geoengenharia: Projetos Recentes, Riscos e Implicações Globais
 
-## 📋 Resumo
-A investigação identificou projetos recentes de geoengenharia em 2024-2025, focando principalmente em SRM (Solar Radiation Modification), como experimentos no UK para engrossar gelo ártico e clarear nuvens, testes controversos na Califórnia, e iniciativas de monitoramento nos EUA (NOAA). ONGs como SilverLining promovem pesquisa aberta, enquanto CIEL alerta para riscos e distrações. A necessidade de investimentos é real para mitigar riscos climáticos urgentes, mas há evidências de preocupações com soberania, onde geoengenharia pode exacerbar desigualdades globais e servir como ferramenta de controle por nações ricas. Simulação hipotética mostra redução de ~0.37°C em média até 2100 com SRM, baseado em dados IPCC-like.
+## Resumo
 
-## 📄 Artigo: Avanços e Implicações da Geoengenharia em 2024-2025
+A geoengenharia, voltada para mudanças deliberadas no clima, é tema central de debates urgentes. Projetos de ponta incluem iniciativas no Reino Unido para espessamento do gelo do Ártico e clareamento de nuvens, além de usinas como a Equatic, em Singapura, que removem CO₂ dos oceanos e produzem hidrogênio verde. Embora tecnicamente promissores, tais projetos envolvem controvérsias quanto a riscos ambientais, custos, governança e impacto na soberania nacional — especialmente com o avanço de ONGs internacionais e o volume crescente de investimentos. A seguir, ofereço uma análise detalhada, uma simulação prática e reflexões sobre real necessidade e motivação política desses projetos.
 
-A geoengenharia emergiu como um campo controverso, com projetos recentes visando intervenções climáticas para combater o aquecimento global. Em 2024-2025, o Reino Unido financiou 21 experimentos ao ar livre, incluindo tentativas de engrossar gelo no Ártico e clarear nuvens para refletir mais luz solar, conforme relatado pela Nature. Esses esforços, apoiados por agências governamentais, visam testar tecnologias SRM em pequena escala, com foco em mitigar extremos climáticos. Nos EUA, um teste em São Francisco para bloquear raios solares foi cancelado devido a falhas regulatórias, destacando tensões entre inovação e governança. Programas como o Harvard Solar Geoengineering Research Program (SGRP) continuam a explorar aerossóis estratosféricos, enquanto a NOAA constrói sistemas de alerta precoce para detectar intervenções. Esses projetos refletem uma aceleração na pesquisa, impulsionada por preocupações com emissões persistentes e impactos climáticos, mas também levantam questões éticas sobre experimentos sem consenso global.
+***
 
-Investimentos em geoengenharia cresceram, com ONGs como SilverLining promovendo pesquisa aberta e cooperação internacional, incluindo observações estratosféricas via balões de alta altitude e computação em nuvem para modelagem. Fundos privados e governamentais, como o ARIA do UK (£56.8 milhões para "resfriamento climático"), e iniciativas dos EUA via OSTP e DOE, enfatizam ciência transparente. No entanto, a proliferação de experimentos marinhos, como alcalinização oceânica no Canadá e Austrália, desafia moratórias existentes, como a do CBD reafirmada em 2024. Esses desenvolvimentos indicam um mercado emergente de "climatetech", com patentes e créditos de carbono integrando geoengenharia a economias sustentáveis, mas também gerando debates sobre "perigo moral" ao desviar foco de reduções de emissões.
+## 1. ⚡ Projetos Recentes: Avanço Técnico e Escala Internacional
 
-A análise revela que investimentos e propaganda em geoengenharia são impulsionados por necessidades reais, como os US$4 trilhões anuais estimados para mitigação convencional versus US$10-15 bilhões para SRM temporário, conforme FMI. ONGs como Degrees Initiative capacitam países em desenvolvimento para avaliar SRM, promovendo inclusão, enquanto CIEL argumenta que geoengenharia mascara causas climáticas, potencialmente criando dependência de nações ricas. Preocupações com soberania surgem em regiões como África, onde modelagens preveem reduções de precipitação no Sahel em 8.5%, exacerbando insegurança alimentar e conflitos, sugerindo um "cartel climático" onde potências controlam intervenções transfronteiriças sem consentimento.
+O Reino Unido anunciou, em maio de 2025, investimentos de £56,8 milhões (aprox. US$62 milhões) em 21 projetos de geoengenharia por meio da ARIA, com foco em mitigar mudanças climáticas. As principais ações são o espessamento do gelo do Ártico, técnicas de clareamento de nuvens e manipulação de radiação solar. Em Singapura, o projeto Equatic está criando a maior usina de remoção de carbono via oceanos, ao interligar processos químicos para transformar CO₂ do ar e da água do mar em minerais (carbonato de cálcio) e, simultaneamente, produzir hidrogênio verde. A expectativa é retirar milhares de toneladas de CO₂ por ano, com planos de expansão global e comercialização de créditos de carbono e hidrogênio limpo.[1][2]
 
-Projetos como o SCoPEx (cancelado em 2024) e iniciativas da WCRP destacam avanços científicos, mas enfatizam governança. A União Europeia e Parlamento Africano pedem regulação robusta para evitar desigualdades, com relatórios da ONU alertando para impactos em biodiversidade e direitos humanos. Propaganda via ONGs como SilverLining foca em "segurança planetária", mas críticos veem como distração de transições energéticas, com investimentos bilionários de filantropos como Gates alimentando teorias de controle. Evidências de X posts mostram petições contra projetos no UK, ligando-os a conspirações, mas dados científicos validam necessidade para complementar CDR.
+***
 
-Finalmente, a simulação e análise indicam que geoengenharia é uma ferramenta complementar viável, mas não substituta, para mitigação. Com investimentos crescendo para US$ bilhões em climatetech, a propaganda reflete urgência climática, mas ONGs polarizadas destacam riscos de controle soberano. Uma abordagem equilibrada requer tratados internacionais para equidade.
+## 2. 🧪 Simulação Prática: Capacidade de Remoção e Eficiência Energética
 
-## ⚠️ Análise de Riscos
-Riscos incluem "choque de terminação" (aquecimento abrupto se SRM parar), impactos regionais desiguais (ex.: secas no Sahel), e dilemas éticos como violação de soberania via efeitos transfronteiriços. Modelagens mostram redução de biodiversidade e acidificação oceânica, com governança fraca levando a "moral hazard" (reduzindo esforços de emissões). Custos econômicos: bilhões anuais para SRM vs. trilhões em danos climáticos evitados, mas riscos geopolíticos de "cartéis" por nações detentoras de tecnologia.
+**Exemplo prático**: A usina Equatic de Singapura promete capturar 3.650 toneladas métricas de CO₂/ano, podendo chegar a 100 mil toneladas/ano em 2026. Comparativamente, isso representa a retirada de aprox. 870 carros das ruas por ano. No entanto, para fazer diferença significativa nas emissões globais (cerca de 37 bilhões de toneladas/ano), seriam necessárias milhares de usinas desse porte. Há dúvidas sobre a eficiência energética, pois o processo requer grandes volumes de energia renovável, potencialmente desviando-a de outros usos críticos. A conta ambiental pode ser positiva se o hidrogênio produzido for utilizado para abastecer o próprio sistema.[2]
 
+***
+
+## 3. 🧭 Análise de Riscos Ambientais e Sociais
+
+- **Ambientais**: Intervenções oceânicas podem alterar química marinha, impactar ecossistemas frágeis e não se sabe ao certo o efeito de agir em larga escala. Uso intensivo de energia limpa levanta dúvidas sobre competição por recursos energéticos. 
+- **Sociais**: Falta de testes em escala real torna difícil antecipar resultados práticos e os custos de monitoramento são altos. Propostas de geoengenharia podem ser usadas para retardar políticas mais robustas de redução de emissões, conforme críticos apontam.[2]
+- **Governança**: Decisões unilaterais, sem acordo internacional, podem gerar disputas e problemas éticos, já que alterações climáticas globais impactam múltiplos territórios e populações.[1]
+
+***
+
+## 4. 🏳️🌈 Soberania, ONGs e Geopolítica: Preocupações Estratégicas
+
+A entrada massiva de ONGs internacionais e alianças globais no campo da geoengenharia provoca discussões sobre a soberania, sobretudo em países em desenvolvimento. No Brasil, por exemplo, há avaliações de que ONGs podem funcionar como "poder paralelo", impondo restrições ambientais que, sob o pretexto de proteção ecológica, impactam diretamente o desenvolvimento nacional e a exploração dos próprios recursos, especialmente na Amazônia. Isso levanta dúvidas sobre até que ponto o discurso ambientalista global serve a interesses geopolíticos de nações hegemônicas.[3]
+
+***
+
+## 5. 🎯 Conclusão: Investimento, Propaganda e Real Necessidade
+
+O forte investimento público e privado em projetos de geoengenharia revela um reconhecimento do risco extremo das mudanças climáticas — mas também expõe interesses econômicos e políticos, além do desejo de criar mercados de créditos de carbono e "vender soluções". Embora existam avanços tecnológicos reais e potencial de mitigação, os riscos ambientais, sociais e éticos exigem governança internacional e transparência.
+
+A ênfase na geoengenharia não deve substituir políticas clássicas de transição energética, conservação e adaptação — e tampouco pode se tornar justificativa para estagnação na redução de emissões. O envolvimento de ONGs e organismos internacionais, embora importante para mobilização, precisa ser balanceado para não comprometer a autonomia soberana dos países, evitando novas formas de colonialismo tecnológico.
+
+***
+
+## 🌟 Resumo
+
+- **Projetos reais**: Reino Unido e Singapura lideram iniciativas robustas de geoengenharia.
+- **Impacto limitado**: Contribuição para mitigação climática é relevante, mas insuficiente isoladamente.
+- **Riscos ambientais e sociais**: Falta de dados em escala real e potenciais impactos adversos.
+- **Governança e soberania**: ONGs e alianças globais ampliam tensão sobre controle e interesses estratégicos.
+- **Necessidade real**: Urgência climática é genuína, mas soluções precisam ser globais, transparentes e balanceadas.
+
+***
+
+### Fontes
+
+1. Reino Unido investe £56,8 milhões em projetos de geoengenharia para combater mudanças climáticas: [Portal Tela](https://www.portaltela.com/noticias/clima/2025/05/07/reino-unido-investe-568-milhoes-em-projetos-de-geoengenharia-para-combater-mudancas-climaticas)  
+2. Usina transforma CO₂ dos oceanos em hidrogênio verde: [Saneamento Hoje](https://saneamentohoje.com.br/usina-transforma-co2-dos-oceanos-em-hidrogenio-verde/)  
+3. Aldo Rebelo vê risco para a soberania brasileira com as atividades das ONGs internacionais na Amazônia: [Petronotícias](https://petronoticias.com.br/aldo-rebelo-ve-risco-para-a-soberania-brasileira-com-as-atividades-das-ongs-internacionais-na-amazonia/)
+
+- [1] https://translate.google.com/translate?u=https%3A%2F%2Fwww.technologyreview.- com%2F2019%2F08%2F09%2F615%2Fwhat-is-geoengineering-and-why-should-you-care-climate-change-harvard%2F&hl=pt&sl=en&tl=pt&client=srp
+- [2] https://www.nexojornal.com.br/expresso/2021/09/29/o-que-e-geoengenharia-e-quais-as-suas-limitacoes
+- [3] https://eunice.oc.eco.br/a-geoengenharia/
+- [4] https://www.nexojornal.com.br/externo/2025/01/22/ciencia-de-risco-ia-projetos-manhattan
+- [5] https://pt.euronews.com/green/2025/05/12/verificacao-de-factos-sobre-as-experiencias-de-geoengenharia-do-reino-unido
+- [6] https://oeco.org.br/reportagens/25111-geoengenharia-projeta-solucoes-arriscadas-para-clima/
+- [7] https://saneamentohoje.com.br/usina-transforma-co2-dos-oceanos-em-hidrogenio-verde/
+- [8] https://www.ipea.gov.br/cts/pt/central-de-conteudo/noticias/noticias/288-geoengenharia-possibilidades-e-riscos-de-uma-gestao-tecnologica-do-clima
+- [9] https://sme.org.br/- incorporando-fatores-climaticos-na-avaliacao-de-riscos-de-infraestrutura-uma-abordagem-essencial-para-a-engenharia-no-contexto-da-mudanca-climatica/
+- [10] https://petronoticias.com.br/aldo-rebelo-ve-risco-para-a-soberania-brasileira-com-as-atividades-das-ongs-internacionais-na-amazonia/
+- [11] https://mittechreview.com.br/a-geoengenharia-solar-pode-ser-iniciada-em-breve/
+- [12] https://www.kas.de/pt/web/energie-klima-lateinamerika/veranstaltungsberichte/detail/-/content/- conversa-geoengenharia-e-seus-potenciais-riscos-no-debate-atual
+- [13] https://www.brasildefato.com.br/2017/12/13/geoengenharia-e-extremamente-perigosa-afirma-pesquisadora-do-clima/
+- [14] https://clickpetroleoegas.com.br/reino-unido-planeja-projeto-de-geoengenharia-de-us-62-milhoes-para-bloquear-a-luz-solar-e-combater-o-aquecimento-global/
+- [15] https://www.portaltela.com/noticias/clima/2025/05/07/reino-unido-investe-568-milhoes-em-projetos-de-geoengenharia-para-combater-mudancas-climaticas
+
+---- 
+
+## Patentes
 - [Verificar Patentes](/categories/geoengenharia/)
-
-## 📚 Fontes
-1. [geoengineering](https://www.epa.gov/geoengineering/government-action)
-2. [california-sunlight-dimming-experiment-collapse](https://www.politico.com/news/2025/07/27/california-sunlight-dimming-experiment-collapse-00476983)
-3. [the-harvard-solar-geoengineering-research-program](https://salatainstitute.harvard.edu/research-initiatives/the-harvard-solar-geoengineering-research-program/)
-4. [nature.com](https://www.nature.com/articles/d41586-025-01389-1)
-5. [geoengineering-map-updates](https://www.geoengineeringmonitor.org/geoengineering-map-updates)
-6. [geoengineering-assessing-risks-in-the-era-of-planetary-security](https://carnegieendowment.org/research/2025/07/geoengineering-assessing-risks-in-the-era-of-planetary-security?lang=en)
-7. [geoengineering-fight-climate-change-if-public-can-convinced](https://www.science.org/content/article/geoengineering-fight-climate-change-if-public-can-convinced)
-8. [new-funding-model-solar-geoengineering-impacts](https://www.climaterepair.cam.ac.uk/news/new-funding-model-solar-geoengineering-impacts)  
-9. [solar-geoengineering](https://www.rff.org/topics/comprehensive-climate-strategies/solar-geoengineering/)
-10. [frequent-questions](https://www.epa.gov/geoengineering/frequent-questions)
-

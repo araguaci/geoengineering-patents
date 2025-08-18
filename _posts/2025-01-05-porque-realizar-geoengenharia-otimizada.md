@@ -28,4 +28,8 @@ Apesar dos benefícios, riscos incluem dependência excessiva de tecnologias nã
 ## 🏁 Conclusão
 A geoengenharia otimizada é impulsionada por necessidades ambientais, econômicas e científicas urgentes, oferecendo uma via complementar para sustentabilidade. Sua adoção deve ser guiada por princípios éticos e colaboração global para maximizar impactos positivos.
 
+
+---- 
+
+## Patentes
 - [Verificar Patentes](/categories/geoengenharia/)

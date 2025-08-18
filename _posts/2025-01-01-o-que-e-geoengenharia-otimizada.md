@@ -29,4 +29,8 @@ Embora promissora, a geoengenharia otimizada apresenta riscos significativos, in
 ## 🏁 Conclusão
 Em síntese, a geoengenharia otimizada representa uma ferramenta poderosa para enfrentar desafios climáticos, mas requer governança ética e científica rigorosa para evitar consequências indesejadas. Sua implementação deve priorizar sustentabilidade e equidade internacional.
 
+
+---- 
+
+## Patentes
 - [Verificar Patentes](/categories/geoengenharia/)
