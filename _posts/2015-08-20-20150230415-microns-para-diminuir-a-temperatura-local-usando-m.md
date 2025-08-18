@@ -8,10 +8,10 @@ article_id: 20150230415
 description: >
   2015-08-20-materiais-diminuir
 website: https://www.freepatentsonline.com/20150230415.pdf  
-tags: ['geoengenharia', 'diminuir', 'temperatura', 'materiais']
 image:
-  path: 'assets/solid/thermometer-quarter.svg'
-faicon: fa-thermometer-quarter  
+  path: 'assets/solid/thermometer-half.svg'
+faicon: fa-thermometer-half  
+tags: ['análise', 'diminuir', 'geoengenharia', 'materiais', 'temperatura', 'usando']
 ---
 
 ## Detalhes
@@ -19,7 +19,7 @@ faicon: fa-thermometer-quarter
 - **Data**: 2015-08-20
 - **Descrição**: **Microns para diminuir a temperatura local usando materiais de alto albedo**
 - **Tópico**: materiais
-- **Tags**: <i class="fas fa-thermometer-quarter"></i>
+- **Tags**: <i class="fas fa-thermometer-half"></i>
   - diminuir
   - temperatura
   - materiais

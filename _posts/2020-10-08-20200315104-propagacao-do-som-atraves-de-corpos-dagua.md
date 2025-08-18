@@ -8,10 +8,10 @@ article_id: 20200315104
 description: >
   2020-10-08-água-propagação
 website: https://patentimages.storage.googleapis.com/9a/82/c3/fef9ba63231444/US20200315104A1.pdf  
-tags: ['geoengenharia', 'propagação', 'gerar', 'ar']
 image:
   path: 'assets/solid/water.svg'
 faicon: fa-water  
+tags: ['análise', 'ar', 'geoengenharia', 'gerar', 'propagação', 'água']
 ---
 
 ## Detalhes

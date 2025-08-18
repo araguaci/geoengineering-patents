@@ -8,10 +8,10 @@ article_id: 7434524
 description: >
   2008-10-14-aparelho-furacões
 website: https://www.freepatentsonline.com/7434524.pdf  
-tags: ['geoengenharia', 'furacões']
 image:
   path: 'assets/solid/wind.svg'
 faicon: fa-wind  
+tags: ['análise', 'aparelho', 'furacões', 'geoengenharia']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 20140145002
 description: >
   2014-05-29-sistema-formação
 website: https://www.freepatentsonline.com/20140145002.pdf  
-tags: ['geoengenharia', 'formação', 'nuvens', 'precipitação']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'formação', 'geoengenharia', 'nuvens', 'precipitação', 'sistema']
 ---
 
 ## Detalhes

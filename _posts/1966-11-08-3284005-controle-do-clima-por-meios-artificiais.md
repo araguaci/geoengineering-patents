@@ -8,10 +8,10 @@ article_id: 3284005
 description: >
   1966-11-08-controle-controle
 website: https://www.freepatentsonline.com/3284005.pdf  
-tags: ['geoengenharia', 'controle', 'clima', 'artificiais']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'artificiais', 'artificial', 'clima', 'controle', 'geoengenharia', 'meios']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 20200196539
 description: >
   2020-06-25-dispositivo-semeadura
 website: https://patentimages.storage.googleapis.com/24/9a/93/838f9232ef9d3a/US20200196539A1.pdf  
-tags: ['geoengenharia', 'semeadura', 'nuvem']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'dispositivo', 'geoengenharia', 'nuvem', 'semeadura']
 ---
 
 ## Detalhes

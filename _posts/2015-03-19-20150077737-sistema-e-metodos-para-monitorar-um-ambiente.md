@@ -8,10 +8,10 @@ article_id: 20150077737
 description: >
   2015-03-19-sistema-medição
 website: https://patentimages.storage.googleapis.com/c8/07/b6/cba9d8b4a96085/US20150077737A1.pdf  
-tags: ['geoengenharia', 'medição']
 image:
   path: 'assets/solid/eye.svg'
 faicon: fa-eye  
+tags: ['análise', 'geoengenharia', 'medição', 'métodos', 'sistema']
 ---
 
 ## Detalhes

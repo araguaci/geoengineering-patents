@@ -8,10 +8,10 @@ article_id: 10435165
 description: >
   2019-10-08-sistema-controle
 website: https://www.freepatentsonline.com/10435165.pdf  
-tags: ['geoengenharia', 'controle', 'aérea']
 image:
   path: 'assets/solid/plane.svg'
 faicon: fa-plane  
+tags: ['análise', 'aérea', 'controle', 'geoengenharia', 'sistema']
 ---
 
 ## Detalhes

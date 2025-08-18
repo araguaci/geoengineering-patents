@@ -8,10 +8,10 @@ article_id: 8825241
 description: >
   2014-09-02-carbono-carbono
 website: https://www.freepatentsonline.com/8825241.pdf  
-tags: ['geoengenharia', 'carbono', 'distribuição']
 image:
   path: 'assets/solid/ship.svg'
 faicon: fa-ship  
+tags: ['análise', 'atmosfera', 'carbono', 'distribuição', 'geoengenharia', 'ondas']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 20110174892
 description: >
   2011-07-21-aparelhos-modificação
 website: https://www.freepatentsonline.com/20110174892.pdf  
-tags: ['geoengenharia', 'modificação', 'atmosfera']
 image:
   path: 'assets/solid/bolt.svg'
 faicon: fa-bolt  
+tags: ['análise', 'aparelhos', 'atmosfera', 'clima', 'geoengenharia', 'modificação', 'métodos']
 ---
 
 ## Detalhes

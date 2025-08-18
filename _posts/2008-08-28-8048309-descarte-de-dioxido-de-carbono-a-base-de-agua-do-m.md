@@ -8,10 +8,10 @@ article_id: 8048309
 description: >
   2008-08-28-carbono-carbono
 website: http://www.freepatentsonline.com/8048309.html  
-tags: ['geoengenharia', 'carbono', 'água']
 image:
   path: 'assets/solid/water.svg'
 faicon: fa-water  
+tags: ['análise', 'base', 'carbono', 'geoengenharia', 'água']
 ---
 
 ## Detalhes

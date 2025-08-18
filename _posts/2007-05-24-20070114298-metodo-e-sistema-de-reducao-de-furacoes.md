@@ -8,10 +8,10 @@ article_id: 20070114298
 description: >
   2007-05-24-método-redução
 website: https://www.freepatentsonline.com/20070114298.pdf  
-tags: ['geoengenharia', 'redução', 'furacões']
 image:
   path: 'assets/solid/wind.svg'
 faicon: fa-wind  
+tags: ['análise', 'furacões', 'geoengenharia', 'método', 'redução', 'sistema']
 ---
 
 ## Detalhes

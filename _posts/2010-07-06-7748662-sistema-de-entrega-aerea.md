@@ -8,10 +8,10 @@ article_id: 7748662
 description: >
   2010-07-06-sistema-aérea
 website: https://www.freepatentsonline.com/7748662.pdf  
-tags: ['geoengenharia', 'aérea', 'distribuição']
 image:
   path: 'assets/solid/plane.svg'
 faicon: fa-plane  
+tags: ['análise', 'aérea', 'distribuição', 'geoengenharia', 'sistema']
 ---
 
 ## Detalhes

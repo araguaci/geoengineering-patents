@@ -8,10 +8,10 @@ article_id: 3795626
 description: >
   1974-03-05-processo-modificação
 website: http://www.google.com/patents/US3795626?printsec=abstract\&dq=3795626\&ei=GWhLUNT4Lomo8ATCnICACQ#v=onepage\&q=3795626\&f=false  
-tags: ['geoengenharia', 'modificação', 'climática']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'climática', 'geoengenharia', 'modificação', 'processo']
 ---
 
 ## Detalhes

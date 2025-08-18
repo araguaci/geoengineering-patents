@@ -8,10 +8,10 @@ article_id: 3630950
 description: >
   1971-12-28-composições-aerossóis
 website: http://www.google.com/patents/US3630950?printsec=abstract\&dq=3630950\&ei=9mhLUIy1LoSg8gTasYC4BQ#v=onepage\&q=3630950\&f=false  
-tags: ['geoengenharia', 'aerossóis', 'modificação', 'clima']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['aerossóis', 'análise', 'clima', 'climático', 'composições', 'controle', 'geoengenharia', 'geração', 'modificação', 'nuvens', 'processo']
 ---
 
 ## Detalhes

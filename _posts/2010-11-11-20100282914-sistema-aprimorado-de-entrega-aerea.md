@@ -8,10 +8,10 @@ article_id: 20100282914
 description: >
   2010-11-11-sistema-aérea
 website: https://www.freepatentsonline.com/20100282914.pdf  
-tags: ['geoengenharia', 'aérea', 'distribuição']
 image:
   path: 'assets/solid/plane.svg'
 faicon: fa-plane  
+tags: ['análise', 'aérea', 'distribuição', 'geoengenharia', 'sistema']
 ---
 
 ## Detalhes

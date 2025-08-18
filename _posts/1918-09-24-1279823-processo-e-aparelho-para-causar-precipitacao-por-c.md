@@ -8,10 +8,10 @@ article_id: 1279823
 description: >
   1918-09-24-processo-precipitação
 website: https://www.freepatentsonline.com/1279823.pdf  
-tags: ['geoengenharia', 'precipitação', 'partículas']
 image:
   path: 'assets/solid/cloud-rain.svg'
 faicon: fa-cloud-rain  
+tags: ['análise', 'aparelho', 'atmosfera', 'geoengenharia', 'partículas', 'precipitação', 'processo']
 ---
 
 ## Detalhes

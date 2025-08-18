@@ -8,10 +8,10 @@ article_id: 20110198407
 description: >
   2011-08-18-método-ciclones
 website: https://www.freepatentsonline.com/20110198407.pdf  
-tags: ['geoengenharia', 'ciclones', 'furacões']
 image:
   path: 'assets/solid/wind.svg'
 faicon: fa-wind  
+tags: ['análise', 'aparelho', 'ciclones', 'furacões', 'geoengenharia', 'método']
 ---
 
 ## Detalhes

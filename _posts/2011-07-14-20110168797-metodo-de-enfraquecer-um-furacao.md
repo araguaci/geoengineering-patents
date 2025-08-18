@@ -8,10 +8,10 @@ article_id: 20110168797
 description: >
   2011-07-14-método-furacões
 website: https://www.freepatentsonline.com/20110168797.pdf  
-tags: ['geoengenharia', 'furacões', 'diminuir']
 image:
   path: 'assets/solid/wind.svg'
 faicon: fa-wind  
+tags: ['análise', 'diminuir', 'furacões', 'geoengenharia', 'método']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 20220355925
 description: >
   2022-11-10-aparelho-aérea
 website: https://patentimages.storage.googleapis.com/3e/da/86/8f20d151fa367e/US20220355925A1.pdf  
-tags: ['geoengenharia', 'aérea']
 image:
   path: 'assets/solid/car.svg'
 faicon: fa-car  
+tags: ['análise', 'aparelho', 'aérea', 'geoengenharia']
 ---
 
 ## Detalhes

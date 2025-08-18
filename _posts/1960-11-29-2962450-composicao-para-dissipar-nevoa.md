@@ -8,10 +8,10 @@ article_id: 2962450
 description: >
   1960-11-29-composição-névoa
 website: https://www.freepatentsonline.com/2962450.pdf  
-tags: ['geoengenharia', 'névoa']
 image:
   path: 'assets/solid/smog.svg'
 faicon: fa-smog  
+tags: ['análise', 'composição', 'geoengenharia', 'névoa']
 ---
 
 ## Detalhes

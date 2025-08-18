@@ -8,10 +8,10 @@ article_id: 7965488
 description: >
   2007-11-09-métodos-aerossóis
 website: http://www.freepatentsonline.com/7965488.html  
-tags: ['geoengenharia', 'aerossóis', 'atmosfera']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['aerossóis', 'análise', 'atmosfera', 'geoengenharia', 'métodos']
 ---
 
 ## Detalhes

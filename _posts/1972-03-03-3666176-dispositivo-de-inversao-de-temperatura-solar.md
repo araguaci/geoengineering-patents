@@ -8,10 +8,10 @@ article_id: 3666176
 description: >
   1972-03-03-dispositivo-temperatura
 website: http://www.google.com/patents/US3666176?printsec=abstract\&dq=3666176\&ei=pGhLUKqPBofG9gSM54G4Aw#v=onepage\&q=3666176\&f=false  
-tags: ['geoengenharia', 'temperatura', 'solar']
 image:
   path: 'assets/solid/sun.svg'
 faicon: fa-sun  
+tags: ['análise', 'dispositivo', 'geoengenharia', 'solar', 'temperatura']
 ---
 
 ## Detalhes

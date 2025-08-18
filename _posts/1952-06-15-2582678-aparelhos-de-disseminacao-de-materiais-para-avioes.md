@@ -8,10 +8,10 @@ article_id: 2582678
 description: >
   1952-06-15-aparelhos-aérea
 website: http://www.google.com/patents/US2582678?printsec=abstract\&dq=2582678\&ei=MG5LUIOOGYrW9QSQ8oHIAQ#v=onepage\&q=2582678\&f=false  
-tags: ['geoengenharia', 'aérea']
 image:
   path: 'assets/solid/plane.svg'
 faicon: fa-plane  
+tags: ['análise', 'aparelhos', 'aérea', 'geoengenharia', 'materiais', 'material']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 3534906
 description: >
   1970-10-20-controle-controle
 website: http://www.google.com/patents/US3534906?printsec=abstract\&dq=3534906\&ei=NmtLUK76BoK29gS-4oDwDg#v=onepage\&q=3534906\&f=false  
-tags: ['geoengenharia', 'controle', 'partículas']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'atmosféricas', 'controle', 'geoengenharia', 'partículas']
 ---
 
 ## Detalhes

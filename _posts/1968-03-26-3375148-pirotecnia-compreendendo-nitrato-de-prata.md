@@ -8,10 +8,10 @@ article_id: 3375148
 description: >
   1968-03-26-composição-composições
 website: https://www.freepatentsonline.com/3375148.pdf  
-tags: ['geoengenharia', 'composições']
 image:
   path: 'assets/solid/flask.svg'
 faicon: fa-flask  
+tags: ['análise', 'composição', 'composições', 'geoengenharia']
 ---
 
 ## Detalhes

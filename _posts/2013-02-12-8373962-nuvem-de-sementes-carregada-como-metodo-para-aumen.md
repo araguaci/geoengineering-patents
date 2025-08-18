@@ -8,10 +8,10 @@ article_id: 8373962
 description: >
   2013-02-12-método-nuvem
 website: https://www.google.com/patents/US8373962  
-tags: ['geoengenharia', 'nuvem', 'partículas']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'ar', 'geoengenharia', 'método', 'nuvem', 'partículas']
 ---
 
 ## Detalhes

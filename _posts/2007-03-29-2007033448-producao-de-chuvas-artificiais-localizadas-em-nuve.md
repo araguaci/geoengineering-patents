@@ -8,10 +8,10 @@ article_id: 2007033448
 description: >
   2007-03-29-produção-chuva
 website: https://patentimages.storage.googleapis.com/7a/63/b1/106e9271dd3cfe/WO2007033448A1.pdf  
-tags: ['geoengenharia', 'chuva', 'artificiais']
 image:
   path: 'assets/solid/cloud-rain.svg'
 faicon: fa-cloud-rain  
+tags: ['análise', 'artificiais', 'artificial', 'chuva', 'geoengenharia', 'nuvens', 'produção']
 ---
 
 ## Detalhes

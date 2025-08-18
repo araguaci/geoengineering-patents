@@ -8,10 +8,10 @@ article_id: 3441214
 description: >
   1969-04-29-método-semeadura
 website: http://www.google.com/patents/US3441214?printsec=abstract\&dq=3441214\&ei=O2xLUP3pO5KM9ASnyYCAAw#v=onepage\&q=3441214\&f=false  
-tags: ['geoengenharia', 'semeadura', 'nuvens']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'aparelho', 'geoengenharia', 'método', 'nuvens', 'semeadura']
 ---
 
 ## Detalhes

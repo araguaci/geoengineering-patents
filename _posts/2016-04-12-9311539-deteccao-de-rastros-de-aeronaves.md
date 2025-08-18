@@ -8,10 +8,10 @@ article_id: 9311539
 description: >
   2016-04-12-medição-aérea
 website: https://www.freepatentsonline.com/9311539.pdf  
-tags: ['geoengenharia', 'aérea']
 image:
   path: 'assets/solid/plane.svg'
 faicon: fa-plane  
+tags: ['análise', 'aérea', 'geoengenharia', 'medição']
 ---
 
 ## Detalhes

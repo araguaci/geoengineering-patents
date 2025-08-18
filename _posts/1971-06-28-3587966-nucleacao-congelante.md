@@ -8,10 +8,10 @@ article_id: 3587966
 description: >
   1971-06-28-gelo-gelo
 website: http://www.google.com/patents/US3587966?printsec=abstract\&dq=3587966\&ei=6GpLUL_dL4r49QTTnICwBA#v=onepage\&q=3587966\&f=false  
-tags: ['geoengenharia', 'gelo']
 image:
   path: 'assets/solid/snowflake.svg'
 faicon: fa-snowflake  
+tags: ['análise', 'gelo', 'geoengenharia']
 ---
 
 ## Detalhes

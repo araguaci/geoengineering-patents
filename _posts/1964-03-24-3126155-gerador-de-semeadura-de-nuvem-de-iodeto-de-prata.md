@@ -8,10 +8,10 @@ article_id: 3126155
 description: >
   1964-03-24-gerador-semeadura
 website: http://www.google.com/patents/US3126155?printsec=abstract\&dq=3126155\&ei=MW1LUKOYKIbM9gS3kIGIBw#v=onepage\&q=3126155\&f=false  
-tags: ['geoengenharia', 'semeadura', 'nuvem']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'geoengenharia', 'gerador', 'nuvem', 'semeadura']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 20070158449
 description: >
   2007-07-12-sistema-controle
 website: https://www.freepatentsonline.com/20070158449.pdf  
-tags: ['geoengenharia', 'controle', 'furacões', 'tropicais']
 image:
   path: 'assets/solid/wind.svg'
 faicon: fa-wind  
+tags: ['análise', 'controle', 'furacões', 'geoengenharia', 'sistema', 'tropicais']
 ---
 
 ## Detalhes

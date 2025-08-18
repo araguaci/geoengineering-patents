@@ -8,10 +8,10 @@ article_id: 2550324
 description: >
   1951-04-24-processo-controle
 website: http://www.google.com/patents/US2550324?printsec=abstract\&dq=2550324\&ei=pm5LUNKKEJHi9gTxjoDoBg#v=onepage\&q=2550324\&f=false  
-tags: ['geoengenharia', 'controle', 'clima']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'clima', 'controle', 'geoengenharia', 'processo']
 ---
 
 ## Detalhes

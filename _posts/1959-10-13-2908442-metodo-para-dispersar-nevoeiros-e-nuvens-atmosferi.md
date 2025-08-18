@@ -8,10 +8,10 @@ article_id: 2908442
 description: >
   1959-10-13-método-dispersão
 website: http://www.google.com/patents/US2908442?printsec=abstract\&dq=2908442\&ei=bG1LUNibEYu-9QT20oCQCw#v=onepage\&q=2908442\&f=false  
-tags: ['geoengenharia', 'dispersão', 'nevoeiro', 'nuvens']
 image:
   path: 'assets/solid/smog.svg'
 faicon: fa-smog  
+tags: ['análise', 'atmosféricas', 'dispersão', 'geoengenharia', 'método', 'nevoeiro', 'nuvens']
 ---
 
 ## Detalhes

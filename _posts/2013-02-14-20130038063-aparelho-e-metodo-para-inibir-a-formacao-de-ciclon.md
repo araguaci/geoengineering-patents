@@ -8,10 +8,10 @@ article_id: 20130038063
 description: >
   2013-02-14-aparelho-formação
 website: https://www.freepatentsonline.com/20130038063.pdf  
-tags: ['geoengenharia', 'formação', 'ciclones']
 image:
   path: 'assets/solid/ban.svg'
 faicon: fa-ban  
+tags: ['análise', 'aparelho', 'ciclones', 'formação', 'geoengenharia', 'método', 'tropicais']
 ---
 
 ## Detalhes

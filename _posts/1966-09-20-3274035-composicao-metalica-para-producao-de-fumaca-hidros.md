@@ -8,10 +8,10 @@ article_id: 3274035
 description: >
   1966-09-20-composição-produção
 website: http://www.google.com/patents/US3274035?printsec=abstract\&dq=3274035\&ei=v2xLUOepCpSQ8wSo_YC4Bg#v=onepage\&q=3274035\&f=false  
-tags: ['geoengenharia', 'produção', 'fumaça']
 image:
   path: 'assets/solid/flask.svg'
 faicon: fa-flask  
+tags: ['análise', 'composição', 'fumaça', 'geoengenharia', 'produção']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 3751913
 description: >
   1973-08-14-sistema-base
 website: https://patentimages.storage.googleapis.com/84/64/b6/a0905d1ec4aaf3/US3751913.pdf  
-tags: ['geoengenharia', 'base']
 image:
   path: 'assets/solid/flask.svg'
 faicon: fa-flask  
+tags: ['análise', 'base', 'geoengenharia', 'sistema']
 ---
 
 ## Detalhes

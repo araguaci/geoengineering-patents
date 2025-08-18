@@ -8,10 +8,10 @@ article_id: 20220113450
 description: >
   2022-04-14-método-precipitação
 website: https://patentimages.storage.googleapis.com/bd/df/96/807e2b7e79b1e1/US20220113450A1.pdf  
-tags: ['geoengenharia', 'precipitação', 'artificial']
 image:
   path: 'assets/solid/calculator.svg'
 faicon: fa-calculator  
+tags: ['análise', 'artificial', 'geoengenharia', 'método', 'precipitação']
 ---
 
 ## Detalhes

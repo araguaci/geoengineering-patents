@@ -8,10 +8,10 @@ article_id: 3887580
 description: >
   1975-06-03-método-água
 website: https://www.freepatentsonline.com/3887580.pdf  
-tags: ['geoengenharia', 'água', 'nuvens', 'nevoeiro']
 image:
   path: 'assets/solid/snowflake.svg'
 faicon: fa-snowflake  
+tags: ['análise', 'geoengenharia', 'método', 'nevoeiro', 'nuvens', 'água']
 ---
 
 ## Detalhes

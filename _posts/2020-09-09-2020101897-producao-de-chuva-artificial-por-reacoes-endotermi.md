@@ -8,10 +8,10 @@ article_id: 2020101897
 description: >
   2020-09-09-produção-chuva
 website: https://patentimages.storage.googleapis.com/02/2d/9a/3d94972555e9b3/AU2020101897A4.pdf  
-tags: ['geoengenharia', 'chuva', 'artificial', 'sistema']
 image:
-  path: 'assets/solid/thunderstorm.svg'
-faicon: fa-thunderstorm  
+  path: 'assets/solid/bolt-lightning.svg'
+faicon: fa-bolt-lightning  
+tags: ['análise', 'artificial', 'chuva', 'controle', 'geoengenharia', 'meio', 'produção', 'sistema']
 ---
 
 ## Detalhes
@@ -19,7 +19,7 @@ faicon: fa-thunderstorm
 - **Data**: 2020-09-09
 - **Descrição**: **Produção de chuva artificial por reações endotérmicas de iniciação a laser de alta potência por meio de sistema de controle remoto de aeronave drone**
 - **Tópico**: produção
-- **Tags**: <i class="fas fa-thunderstorm"></i>
+- **Tags**: <i class="fas fa-bolt-lightning"></i>
   - chuva
   - artificial
   - sistema

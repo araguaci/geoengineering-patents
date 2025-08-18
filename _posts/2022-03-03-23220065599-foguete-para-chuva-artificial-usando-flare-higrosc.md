@@ -8,10 +8,10 @@ article_id: 23220065599
 description: >
   2022-03-03-chuva-chuva
 website: https://patentimages.storage.googleapis.com/55/78/2a/c39b11c43a2379/US20220065599A1.pdf  
-tags: ['geoengenharia', 'chuva', 'artificial']
 image:
   path: 'assets/solid/rocket.svg'
 faicon: fa-rocket  
+tags: ['análise', 'artificial', 'chuva', 'geoengenharia', 'usando']
 ---
 
 ## Detalhes

@@ -56,7 +56,7 @@ begin
 
     filename = "_posts/#{entry.published.strftime('%Y-%m-%d')}-#{entry.title.downcase.gsub(/\s+/, '-')}.md"
     FileUtils.mkdir_p(File.dirname(filename))
-    File.write(filename, "---\nlayout: post\ntitle: #{entry.title}\ndate: #{entry.published}\nwebsite: #{entry.url}\ncategories: [rss]\ntags: [rss]\nimage:\n  path: 'assets/solid/rss.svg'\nfaicon: fa-rss\n---\n\n#{body}\n\n[<i class='fas fa-link'></i>Link](#{entry.url})")
+    File.write(filename, "---\nlayout: page\ntitle: #{entry.title}\ndate: #{entry.published}\nwebsite: #{entry.url}\ncategories: [rss]\ntags: [rss]\nimage:\n  path: 'assets/solid/rss.svg'\nfaicon: fa-rss\n---\n\n#{body}\n\n[<i class='fas fa-link'></i>Link](#{entry.url})")
   end
   puts "Importação concluída. #{feed.entries.size} entradas processadas."
 rescue Feedjira::NoParserAvailable => e

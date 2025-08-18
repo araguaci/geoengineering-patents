@@ -8,10 +8,10 @@ article_id: 2480967
 description: >
   1949-09-06-dispositivo-aérea
 website: http://www.google.com/patents/US2480967?printsec=abstract\&dq=2480967\&ei=t25LUKj4OYiu9ASNwoDoAg#v=onepage\&q=2480967\&f=false  
-tags: ['geoengenharia', 'aérea']
 image:
   path: 'assets/solid/plane.svg'
 faicon: fa-plane  
+tags: ['análise', 'aérea', 'dispositivo', 'geoengenharia']
 ---
 
 ## Detalhes

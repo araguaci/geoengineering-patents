@@ -8,10 +8,10 @@ article_id: 20120267444
 description: >
   2012-10-25-aparelho-artificial
 website: https://www.freepatentsonline.com/20120267444.pdf  
-tags: ['geoengenharia', 'artificial', 'gelo']
 image:
   path: 'assets/solid/snowflake.svg'
 faicon: fa-snowflake  
+tags: ['análise', 'aparelho', 'artificial', 'gelo', 'geoengenharia', 'método']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 2881335
 description: >
   1959-04-07-geração-geração
 website: http://www.google.com/patents/US2881335?printsec=abstract\&dq=2881335\&ei=g21LUMLlOpCE8ATetoHYBQ#v=onepage\&q=2881335\&f=false  
-tags: ['geoengenharia', 'geração']
 image:
   path: 'assets/solid/bolt.svg'
 faicon: fa-bolt  
+tags: ['análise', 'geoengenharia', 'geração']
 ---
 
 ## Detalhes

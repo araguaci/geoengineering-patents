@@ -8,10 +8,10 @@ article_id: 20080203328
 description: >
   2008-08-28-redução-redução
 website: https://patentimages.storage.googleapis.com/6a/13/f9/43da921ae21312/US20080203328A1.pdf  
-tags: ['geoengenharia', 'redução', 'aquecimento']
 image:
   path: 'assets/solid/sun.svg'
 faicon: fa-sun  
+tags: ['análise', 'aquecimento', 'geoengenharia', 'redução', 'solar']
 ---
 
 ## Detalhes

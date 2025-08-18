@@ -8,10 +8,10 @@ article_id: 20140224894
 description: >
   2014-08-14-tempestades-tempestades
 website: https://www.freepatentsonline.com/20140224894.pdf  
-tags: ['geoengenharia', 'tempestades', 'usando']
 image:
   path: 'assets/solid/wind.svg'
 faicon: fa-wind  
+tags: ['análise', 'geoengenharia', 'tempestades', 'usando']
 ---
 
 ## Detalhes

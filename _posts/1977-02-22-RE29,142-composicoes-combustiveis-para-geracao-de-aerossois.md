@@ -8,10 +8,10 @@ article_id: RE29,142
 description: >
   1977-02-22-composições-aerossóis
 website: https://patents.google.com/patent/USRE29142E/en  
-tags: ['geoengenharia', 'aerossóis', 'modificação', 'clima']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['aerossóis', 'análise', 'clima', 'climático', 'composições', 'controle', 'geoengenharia', 'geração', 'modificação', 'nuvens', 'processo']
 ---
 
 ## Detalhes

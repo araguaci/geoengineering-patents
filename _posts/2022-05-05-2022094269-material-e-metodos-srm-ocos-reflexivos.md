@@ -8,10 +8,10 @@ article_id: 2022094269
 description: >
   2022-05-05-métodos-material
 website: https://patentimages.storage.googleapis.com/46/a9/7a/90a8269f166e98/WO2022094269A1.pdf  
-tags: ['geoengenharia', 'material', 'métodos']
 image:
-  path: 'assets/solid/plane-up.svg'
-faicon: fa-reflect  
+  path: 'assets/solid/sun.svg'
+faicon: fa-sun  
+tags: ['análise', 'geoengenharia', 'material', 'métodos']
 ---
 
 ## Detalhes
@@ -19,7 +19,7 @@ faicon: fa-reflect
 - **Data**: 2022-05-05
 - **Descrição**: **Material e métodos SRM ocos reflexivos**
 - **Tópico**: métodos
-- **Tags**: <i class="fas fa-plane-up"></i>
+- **Tags**: <i class="fas fa-sun"></i>
   - material
   - métodos
 - **Descrição EN**: Reflective Hollow Srm Material And Methods

@@ -8,10 +8,10 @@ article_id: 20070215946
 description: >
   2007-09-20-sistema-comunicações
 website: https://www.freepatentsonline.com/20070215946.pdf  
-tags: ['geoengenharia', 'comunicações', 'atmosfera']
 image:
   path: 'assets/solid/satellite-dish.svg'
 faicon: fa-satellite-dish  
+tags: ['análise', 'artificial', 'atmosfera', 'comunicações', 'geoengenharia', 'sistema']
 ---
 
 ## Detalhes

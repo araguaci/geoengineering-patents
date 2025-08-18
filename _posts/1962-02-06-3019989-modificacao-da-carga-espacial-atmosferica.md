@@ -8,10 +8,10 @@ article_id: 3019989
 description: >
   1962-02-06-modificação-modificação
 website: https://www.freepatentsonline.com/3019989.pdf  
-tags: ['geoengenharia', 'modificação', 'atmosférica']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'atmosférica', 'geoengenharia', 'modificação']
 ---
 
 ## Detalhes

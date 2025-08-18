@@ -8,10 +8,10 @@ article_id: 20190364748
 description: >
   2019-12-05-método-semeadura
 website: https://www.freepatentsonline.com/20190364748.pdf  
-tags: ['geoengenharia', 'semeadura', 'nuvens', 'água']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'ar', 'geoengenharia', 'método', 'nuvens', 'semeadura', 'sistema', 'água']
 ---
 
 ## Detalhes

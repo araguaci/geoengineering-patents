@@ -4,7 +4,7 @@ description: ""
 date: 2025-01-08T22:22:22.222Z
 preview: > 
   "A geoengenharia é uma intervenção climática em larga escala, impulsionada por inventores, corporações, governos e acadêmicos. O artigo mapeia essas forças motrizes, analisando interesses e agendas que moldam o futuro climático. "
-tags: ['5w2h', 'geoengenharia']
+tags: ['5w2h', 'geoengenharia', 'clima', 'soberania']
 categories: [5w2h]
 image:
   path: 'assets/solid/user.svg'

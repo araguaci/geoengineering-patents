@@ -8,10 +8,10 @@ article_id: 3445844
 description: >
   1969-05-20-sistema-radiação
 website: http://www.google.com/patents/US3445844?printsec=abstract\&dq=3445844\&ei=J2xLUJSwKIe29QSf9IGICQ#v=onepage\&q=3445844\&f=false  
-tags: ['geoengenharia', 'radiação', 'comunicações']
 image:
   path: 'assets/solid/satellite-dish.svg'
 faicon: fa-satellite-dish  
+tags: ['análise', 'comunicações', 'geoengenharia', 'radiação', 'sistema']
 ---
 
 ## Detalhes

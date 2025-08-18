@@ -8,10 +8,10 @@ article_id: 7655193
 description: >
   2010-02-02-aparelhos-carbono
 website: http://www.freepatentsonline.com/7655193.html  
-tags: ['geoengenharia', 'carbono']
 image:
   path: 'assets/solid/leaf.svg'
 faicon: fa-leaf  
+tags: ['análise', 'aparelhos', 'carbono', 'geoengenharia']
 ---
 
 ## Detalhes

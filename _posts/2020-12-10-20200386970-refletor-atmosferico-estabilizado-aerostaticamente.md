@@ -8,10 +8,10 @@ article_id: 20200386970
 description: >
   2020-12-10-atmosférica-atmosférica
 website: https://patentimages.storage.googleapis.com/e1/98/9b/03b16cc8dc2c6f/US20200386970A1.pdf  
-tags: ['geoengenharia', 'atmosférica', 'redução', 'solar']
 image:
   path: 'assets/solid/sun.svg'
 faicon: fa-sun  
+tags: ['análise', 'atmosférica', 'geoengenharia', 'redução', 'solar']
 ---
 
 ## Detalhes

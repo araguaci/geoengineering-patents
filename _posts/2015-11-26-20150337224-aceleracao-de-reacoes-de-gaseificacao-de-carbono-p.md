@@ -8,10 +8,10 @@ article_id: 20150337224
 description: >
   2015-11-26-ondas-ondas
 website: https://www.freepatentsonline.com/20150337224.pdf  
-tags: ['geoengenharia', 'ondas', 'carbono']
 image:
   path: 'assets/solid/wave-square.svg'
 faicon: fa-wave-square  
+tags: ['análise', 'carbono', 'geoengenharia', 'ondas']
 ---
 
 ## Detalhes

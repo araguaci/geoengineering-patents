@@ -8,10 +8,10 @@ article_id: 3896993
 description: >
   1975-07-29-processo-modificação
 website: http://www.google.com/patents/US3896993?printsec=abstract\&dq=3896993\&ei=ZGdLUMu6M4my9gT7g4H4Bg#v=onepage\&q=3896993\&f=false  
-tags: ['geoengenharia', 'modificação', 'neblina', 'nuvens']
 image:
   path: 'assets/solid/cloud-rain.svg'
 faicon: fa-cloud-rain  
+tags: ['análise', 'geoengenharia', 'modificação', 'neblina', 'nuvens', 'precipitação', 'processo']
 ---
 
 ## Detalhes

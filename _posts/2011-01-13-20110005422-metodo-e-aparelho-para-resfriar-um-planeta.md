@@ -8,10 +8,10 @@ article_id: 20110005422
 description: >
   2011-01-13-método-terra
 website: https://patentimages.storage.googleapis.com/66/71/18/0bde791d44cbb7/US20110005422A1.pdf  
-tags: ['geoengenharia', 'terra', 'temperatura']
 image:
-  path: 'assets/solid/thermometer-quarter.svg'
-faicon: fa-thermometer-quarter  
+  path: 'assets/solid/thermometer-half.svg'
+faicon: fa-thermometer-half  
+tags: ['análise', 'aparelho', 'geoengenharia', 'método', 'temperatura', 'terra']
 ---
 
 ## Detalhes
@@ -19,7 +19,7 @@ faicon: fa-thermometer-quarter
 - **Data**: 2011-01-13
 - **Descrição**: **Método e aparelho para resfriar um planeta**
 - **Tópico**: método
-- **Tags**: <i class="fas fa-thermometer-quarter"></i>
+- **Tags**: <i class="fas fa-thermometer-half"></i>
   - terra
   - temperatura
 - **Descrição EN**: Method And Apparatus For Cooling A Planet

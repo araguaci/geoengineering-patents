@@ -8,10 +8,10 @@ article_id: 20180217119
 description: >
   2018-08-02-processo-carbono
 website: https://www.freepatentsonline.com/20180217119.pdf  
-tags: ['geoengenharia', 'carbono', 'atmosférica']
 image:
   path: 'assets/solid/leaf.svg'
 faicon: fa-leaf  
+tags: ['análise', 'atmosférica', 'carbono', 'geoengenharia', 'método', 'processo']
 ---
 
 ## Detalhes

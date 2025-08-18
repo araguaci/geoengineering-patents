@@ -8,10 +8,10 @@ article_id: 2409201
 description: >
   1946-10-15-mistura-fumaça
 website: http://www.google.com/patents/US2409201?printsec=abstract\&dq=2409201\&ei=2G5LUNzLKojo8gSjtoHYDg#v=onepage\&q=2409201\&f=false  
-tags: ['geoengenharia', 'fumaça', 'mistura']
 image:
   path: 'assets/solid/smog.svg'
 faicon: fa-smog  
+tags: ['análise', 'fumaça', 'geoengenharia', 'mistura']
 ---
 
 ## Detalhes

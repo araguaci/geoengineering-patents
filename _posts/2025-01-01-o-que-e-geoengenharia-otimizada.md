@@ -4,7 +4,7 @@ description: ""
 date: 2025-01-09T22:22:22.222Z
 preview: > 
   "Geoengenharia otimizada é intervenção tecnológica no clima terrestre para mitigar aquecimento global, tempestades e secas, via semeadura de nuvens, aerossóis e modificação solar. Patentes priorizam eficiência, ex.: "Method of Geoengineering to Reduce Solar Radiation" (2022186970) bloqueia radiação com refletores."
-tags: ['5w2h', 'geoengenharia']
+tags: ['5w2h', 'geoengenharia', 'clima']
 categories: [5w2h]
 image:
   path: 'assets/solid/question-circle.svg'

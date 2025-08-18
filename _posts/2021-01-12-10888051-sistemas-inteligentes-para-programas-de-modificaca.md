@@ -8,10 +8,10 @@ article_id: 10888051
 description: >
   2021-01-12-sistemas-modificação
 website: https://www.freepatentsonline.com/10888051.pdf  
-tags: ['geoengenharia', 'modificação', 'climática']
 image:
   path: 'assets/solid/brain.svg'
 faicon: fa-brain  
+tags: ['análise', 'climática', 'geoengenharia', 'modificação', 'sistemas']
 ---
 
 ## Detalhes

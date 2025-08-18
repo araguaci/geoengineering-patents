@@ -8,10 +8,10 @@ article_id: 20100252648
 description: >
   2010-10-07-clima-clima
 website: https://www.freepatentsonline.com/20100252648.pdf  
-tags: ['geoengenharia', 'clima']
 image:
   path: 'assets/solid/microchip.svg'
 faicon: fa-microchip  
+tags: ['análise', 'clima', 'climático', 'geoengenharia']
 ---
 
 ## Detalhes

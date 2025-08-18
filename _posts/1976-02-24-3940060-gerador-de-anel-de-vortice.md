@@ -8,10 +8,10 @@ article_id: 3940060
 description: >
   1976-02-24-gerador-gerador
 website: https://patents.google.com/patent/US3940060A/en  
-tags: ['geoengenharia', 'gerador']
 image:
   path: 'assets/solid/ring.svg'
 faicon: fa-ring  
+tags: ['análise', 'geoengenharia', 'gerador']
 ---
 
 ## Detalhes

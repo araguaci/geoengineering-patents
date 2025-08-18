@@ -8,10 +8,10 @@ article_id: 1993316
 description: >
   1935-03-05-aparelho-produção
 website: https://www.freepatentsonline.com/1993316.pdf  
-tags: ['geoengenharia', 'produção', 'névoa']
 image:
   path: 'assets/solid/smog.svg'
 faicon: fa-smog  
+tags: ['análise', 'aparelho', 'geoengenharia', 'método', 'névoa', 'produção']
 ---
 
 ## Detalhes

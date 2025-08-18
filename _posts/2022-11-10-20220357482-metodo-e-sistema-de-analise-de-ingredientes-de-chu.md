@@ -8,10 +8,10 @@ article_id: 20220357482
 description: >
   2022-11-10-método-análise
 website: https://patentimages.storage.googleapis.com/60/6b/e3/b4415848fa80d6/US20220357482A1.pdf  
-tags: ['geoengenharia', 'análise', 'chuva', 'artificial']
 image:
   path: 'assets/solid/cloud-rain.svg'
 faicon: fa-cloud-rain  
+tags: ['análise', 'artificial', 'chuva', 'geoengenharia', 'método', 'nuvens', 'semeadura', 'sistema']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 20110049257
 description: >
   2011-03-03-método-modificação
 website: https://www.freepatentsonline.com/20110049257.pdf  
-tags: ['geoengenharia', 'modificação', 'atmosfera']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'aparelho', 'atmosfera', 'geoengenharia', 'modificação', 'método']
 ---
 
 ## Detalhes

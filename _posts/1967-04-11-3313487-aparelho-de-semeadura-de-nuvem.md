@@ -8,10 +8,10 @@ article_id: 3313487
 description: >
   1967-04-11-aparelho-semeadura
 website: http://www.google.com/patents/US3313487?printsec=abstract\&dq=3313487\&ei=mGxLUNyjJ4iK9QT334GoBg#v=onepage\&q=3313487\&f=false  
-tags: ['geoengenharia', 'semeadura', 'nuvem']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'aparelho', 'geoengenharia', 'nuvem', 'semeadura']
 ---
 
 ## Detalhes

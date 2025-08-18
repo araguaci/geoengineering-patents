@@ -8,10 +8,10 @@ article_id: 20140055876
 description: >
   2014-02-27-método-controle
 website: https://www.freepatentsonline.com/20140055876.pdf  
-tags: ['geoengenharia', 'controle', 'temperatura', 'superfície']
 image:
   path: 'assets/solid/thermometer.svg'
 faicon: fa-thermometer  
+tags: ['análise', 'controle', 'geoengenharia', 'método', 'superfície', 'temperatura', 'usando']
 ---
 
 ## Detalhes

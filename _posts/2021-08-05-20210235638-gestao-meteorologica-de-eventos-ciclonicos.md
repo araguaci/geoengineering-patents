@@ -8,10 +8,10 @@ article_id: 20210235638
 description: >
   2021-08-05-controle-ciclones
 website: https://patentimages.storage.googleapis.com/a8/72/9a/d930f4ffb1cead/US20210235638A1.pdf  
-tags: ['geoengenharia', 'ciclones']
 image:
   path: 'assets/solid/cloud-bolt.svg'
 faicon: fa-cloud-bolt  
+tags: ['análise', 'ciclones', 'controle', 'geoengenharia']
 ---
 
 ## Detalhes

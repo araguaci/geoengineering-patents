@@ -8,10 +8,10 @@ article_id: 1284982
 description: >
   1918-11-19-processo-chuva
 website: https://www.freepatentsonline.com/1284982.pdf  
-tags: ['geoengenharia', 'chuva']
 image:
   path: 'assets/solid/cloud-rain.svg'
 faicon: fa-cloud-rain  
+tags: ['análise', 'aparelho', 'chuva', 'geoengenharia', 'processo']
 ---
 
 ## Detalhes

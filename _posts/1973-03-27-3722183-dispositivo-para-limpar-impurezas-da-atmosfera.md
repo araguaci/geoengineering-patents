@@ -8,10 +8,10 @@ article_id: 3722183
 description: >
   1973-03-27-dispositivo-atmosfera
 website: http://www.google.com/patents/US3722183?printsec=abstract\&dq=3722183\&ei=cmhLUNfsEYOG8QTrm4CoDg#v=onepage\&q=3722183\&f=false  
-tags: ['geoengenharia', 'atmosfera']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'atmosfera', 'dispositivo', 'geoengenharia']
 ---
 
 ## Detalhes

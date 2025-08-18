@@ -8,10 +8,10 @@ article_id: 2527230
 description: >
   1950-10-24-método-formação
 website: https://www.freepatentsonline.com/2527230.pdf  
-tags: ['geoengenharia', 'formação', 'precipitação']
 image:
   path: 'assets/solid/snowflake.svg'
 faicon: fa-snowflake  
+tags: ['análise', 'formação', 'geoengenharia', 'método', 'precipitação']
 ---
 
 ## Detalhes

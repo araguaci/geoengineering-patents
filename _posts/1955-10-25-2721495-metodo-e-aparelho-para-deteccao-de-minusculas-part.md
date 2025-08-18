@@ -8,10 +8,10 @@ article_id: 2721495
 description: >
   1955-10-25-método-partículas
 website: http://www.google.com/patents/US2721495?printsec=abstract\&dq=2721495\&ei=vm1LUK3HJIaA9QSsu4CgDA#v=onepage\&q=2721495\&f=false  
-tags: ['geoengenharia', 'partículas', 'atmosfera']
 image:
   path: 'assets/solid/flask.svg'
 faicon: fa-flask  
+tags: ['análise', 'aparelho', 'atmosfera', 'geoengenharia', 'método', 'partículas']
 ---
 
 ## Detalhes

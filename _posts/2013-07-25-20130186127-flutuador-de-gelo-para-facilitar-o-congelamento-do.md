@@ -8,10 +8,10 @@ article_id: 20130186127
 description: >
   2013-07-25-gelo-gelo
 website: https://www.freepatentsonline.com/20130186127.pdf  
-tags: ['geoengenharia', 'gelo', 'superfície']
 image:
   path: 'assets/solid/snowflake.svg'
 faicon: fa-snowflake  
+tags: ['análise', 'gelo', 'geoengenharia', 'superfície', 'água']
 ---
 
 ## Detalhes

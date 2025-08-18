@@ -8,10 +8,10 @@ article_id: 8012453
 description: >
   2008-10-27-carbono-carbono
 website: http://www.freepatentsonline.com/8012453.html  
-tags: ['geoengenharia', 'carbono', 'produção']
 image:
   path: 'assets/solid/leaf.svg'
 faicon: fa-leaf  
+tags: ['análise', 'carbono', 'geoengenharia', 'produção']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 2903188
 description: >
   1956-04-02-controle-formação
 website: https://www.freepatentsonline.com/2903188.pdf  
-tags: ['geoengenharia', 'formação', 'ciclones', 'tropicais']
 image:
   path: 'assets/solid/wind.svg'
 faicon: fa-wind  
+tags: ['análise', 'ciclones', 'controle', 'formação', 'geoengenharia', 'tropicais']
 ---
 
 ## Detalhes

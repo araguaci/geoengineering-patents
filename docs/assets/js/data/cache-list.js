@@ -16,9 +16,9 @@ const include = [
   '/index.html',
   '/404.html',
   
-    '/5w2h/',
-  
     '/geoengenharia/',
+  
+    '/5w2h/',
   
     '/timeline/',
   

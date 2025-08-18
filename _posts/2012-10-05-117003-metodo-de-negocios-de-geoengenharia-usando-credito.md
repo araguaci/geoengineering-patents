@@ -8,10 +8,10 @@ article_id: 117003
 description: >
   2012-10-05-método-carbono
 website: http://patentscope.wipo.int/search/en/detail.jsf?docId=US73564228  
-tags: ['geoengenharia', 'carbono']
 image:
   path: 'assets/solid/dollar-sign.svg'
 faicon: fa-dollar-sign  
+tags: ['análise', 'carbono', 'geoengenharia', 'método', 'usando']
 ---
 
 ## Detalhes

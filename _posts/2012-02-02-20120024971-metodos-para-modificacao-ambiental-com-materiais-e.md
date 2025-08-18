@@ -8,10 +8,10 @@ article_id: 20120024971
 description: >
   2012-02-02-métodos-modificação
 website: https://www.freepatentsonline.com/20120024971.pdf  
-tags: ['geoengenharia', 'modificação', 'controle', 'materiais']
 image:
   path: 'assets/solid/globe.svg'
 faicon: fa-globe  
+tags: ['análise', 'climático', 'controle', 'geoengenharia', 'materiais', 'modificação', 'métodos']
 ---
 
 ## Detalhes

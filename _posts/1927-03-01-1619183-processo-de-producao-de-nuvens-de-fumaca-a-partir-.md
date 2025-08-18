@@ -8,10 +8,10 @@ article_id: 1619183
 description: >
   1927-03-01-processo-produção
 website: http://www.google.com/patents/US1619183?printsec=abstract\&dq=1619183\&ei=Xm9LUJCRCImQ9QS1-4GADg#v=onepage\&q=1619183\&f=false  
-tags: ['geoengenharia', 'produção', 'fumaça']
 image:
   path: 'assets/solid/plane.svg'
 faicon: fa-plane  
+tags: ['análise', 'fumaça', 'geoengenharia', 'nuvens', 'processo', 'produção']
 ---
 
 ## Detalhes

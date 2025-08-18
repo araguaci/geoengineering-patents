@@ -8,10 +8,10 @@ article_id: 3899144
 description: >
   1975-08-12-geração-geração
 website: https://patents.google.com/patent/US3899144A/en  
-tags: ['geoengenharia', 'geração']
 image:
   path: 'assets/solid/plane.svg'
 faicon: fa-plane  
+tags: ['análise', 'geoengenharia', 'geração']
 ---
 
 ## Detalhes

@@ -1,9 +1,9 @@
 ---
 title: Geoengenharia sob Perspectiva de Soberania Nacional e Viés Conservador
-description: ""
+description: "A geoengenharia levanta uma questão de soberania e poder. O controle do clima por poucas superpotências ameaça a autonomia de nações em desenvolvimento, que sofreriam com impactos desiguais, gerando um risco de graves conflitos geopolíticos."
 date: 2025-08-18T17:49:45.825Z
 preview: ""
-tags: ['5w2h', 'geoengenharia']
+tags: ['5w2h', 'geoengenharia', 'clima', 'soberania']
 categories: [5w2h]
 image:
   path: 'assets/solid/cloud-rain.svg'

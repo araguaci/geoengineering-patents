@@ -8,10 +8,10 @@ article_id: USRE29142
 description: >
   1973-05-22-composições-aerossóis
 website: http://www.google.com/patents/USRE29142?printsec=abstract\&dq=USRE29142\&ei=32hLUPP8D5OK9gSV5YHgCA#v=onepage\&q\&f=false  
-tags: ['geoengenharia', 'aerossóis', 'modificação', 'clima']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['aerossóis', 'análise', 'clima', 'climático', 'composições', 'controle', 'geoengenharia', 'geração', 'modificação', 'nuvens', 'processo']
 ---
 
 ## Detalhes

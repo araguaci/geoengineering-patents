@@ -8,10 +8,10 @@ article_id: 20200288651
 description: >
   2020-09-17-métodos-temperatura
 website: https://www.freepatentsonline.com/20200288651.pdf  
-tags: ['geoengenharia', 'temperatura', 'água', 'materiais']
 image:
-  path: 'assets/solid/thermometer-quarter.svg'
-faicon: fa-thermometer-quarter  
+  path: 'assets/solid/thermometer-half.svg'
+faicon: fa-thermometer-half  
+tags: ['análise', 'geoengenharia', 'materiais', 'métodos', 'temperatura', 'usando', 'água']
 ---
 
 ## Detalhes
@@ -19,7 +19,7 @@ faicon: fa-thermometer-quarter
 - **Data**: 2020-09-17
 - **Descrição**: **Métodos para resfriar a temperatura da água usando materiais de alto albedo**
 - **Tópico**: métodos
-- **Tags**: <i class="fas fa-thermometer-quarter"></i>
+- **Tags**: <i class="fas fa-thermometer-half"></i>
   - temperatura
   - água
   - materiais

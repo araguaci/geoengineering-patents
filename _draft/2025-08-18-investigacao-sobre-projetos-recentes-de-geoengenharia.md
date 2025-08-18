@@ -4,7 +4,7 @@ description: >
   "Investigação identifica projetos geoengenharia 2024-2025 em SRM: UK engrossa gelo Ártico/clareia nuvens, testes CA controversos/cancelados, NOAA monitora. ONGs SilverLining promove pesquisa, CIEL alerta riscos/distração. Necessidade real de investimentos mitiga urgências climáticas, mas suscita preocupações soberania/desigualdades globais/controle por nações ricas. Simulação: redução ~0.37°C até 2100 via SRM (dados IPCC-like)."
 date: 2025-08-18T15:19:40.340Z
 preview: ""
-tags: ['5w2h', 'geoengenharia']
+tags: ['5w2h', 'geoengenharia', 'soberania']
 categories: [5w2h]
 image:
   path: 'assets/solid/globe-americas.svg'

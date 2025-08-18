@@ -8,10 +8,10 @@ article_id: 8262314
 description: >
   2012-09-11-método-diminuir
 website: https://www.freepatentsonline.com/8262314.pdf  
-tags: ['geoengenharia', 'diminuir', 'tempestades', 'furacões']
 image:
   path: 'assets/solid/wind.svg'
 faicon: fa-wind  
+tags: ['análise', 'diminuir', 'furacões', 'geoengenharia', 'método', 'tempestades', 'tropicais']
 ---
 
 ## Detalhes

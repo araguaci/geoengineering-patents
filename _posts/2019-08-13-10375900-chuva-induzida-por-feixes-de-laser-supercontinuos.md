@@ -8,10 +8,10 @@ article_id: 10375900
 description: >
   2019-08-13-chuva-chuva
 website: https://www.freepatentsonline.com/10375900.pdf  
-tags: ['geoengenharia', 'chuva']
 image:
   path: 'assets/solid/cloud-rain.svg'
 faicon: fa-cloud-rain  
+tags: ['análise', 'chuva', 'geoengenharia']
 ---
 
 ## Detalhes

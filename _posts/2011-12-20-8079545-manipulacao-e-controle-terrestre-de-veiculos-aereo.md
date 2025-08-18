@@ -8,10 +8,10 @@ article_id: 8079545
 description: >
   2011-12-20-controle-controle
 website: https://patents.google.com/patent/US8079545B2/en  
-tags: ['geoengenharia', 'controle', 'aérea']
 image:
   path: 'assets/solid/plane.svg'
 faicon: fa-plane  
+tags: ['análise', 'aérea', 'controle', 'geoengenharia']
 ---
 
 ## Detalhes

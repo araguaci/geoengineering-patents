@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: EPA Head Lee Zeldin Doing Climate Engineering Awareness Damage Control
 date: 2025-07-10 23:05:31 UTC
 website: https://geoengineeringwatch.org/epa-head-lee-zeldin-doing-climate-engineering-awareness-damage-control/

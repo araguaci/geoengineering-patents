@@ -8,10 +8,10 @@ article_id: 10433408
 description: >
   2019-10-01-métodos-atmosféricas
 website: https://patentimages.storage.googleapis.com/28/8c/88/9404582da18d50/US10433408.pdf  
-tags: ['geoengenharia', 'atmosféricas']
 image:
   path: 'assets/solid/wind.svg'
 faicon: fa-wind  
+tags: ['análise', 'atmosféricas', 'geoengenharia', 'métodos']
 ---
 
 ## Detalhes

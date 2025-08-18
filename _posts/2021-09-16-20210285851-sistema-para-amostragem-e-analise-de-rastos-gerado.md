@@ -8,10 +8,10 @@ article_id: 20210285851
 description: >
   2021-09-16-sistema-análise
 website: https://www.freepatentsonline.com/20210285851.pdf  
-tags: ['geoengenharia', 'análise', 'aérea']
 image:
   path: 'assets/solid/plane.svg'
 faicon: fa-plane  
+tags: ['análise', 'aérea', 'geoengenharia', 'sistema']
 ---
 
 ## Detalhes

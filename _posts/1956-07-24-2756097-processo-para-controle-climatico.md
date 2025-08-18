@@ -8,10 +8,10 @@ article_id: 2756097
 description: >
   1956-07-24-processo-controle
 website: https://www.freepatentsonline.com/2756097.pdf  
-tags: ['geoengenharia', 'controle', 'clima']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'clima', 'climático', 'controle', 'geoengenharia', 'processo']
 ---
 
 ## Detalhes

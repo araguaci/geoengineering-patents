@@ -8,10 +8,10 @@ article_id: 2173756
 description: >
   1939-09-19-processo-produção
 website: https://www.freepatentsonline.com/2173756.pdf  
-tags: ['geoengenharia', 'produção', 'névoa']
 image:
   path: 'assets/solid/smog.svg'
 faicon: fa-smog  
+tags: ['análise', 'geoengenharia', 'neblina', 'névoa', 'processo', 'produção']
 ---
 
 ## Detalhes

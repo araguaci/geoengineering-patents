@@ -8,10 +8,10 @@ article_id: 3545677
 description: >
   1970-12-08-método-propagação
 website: http://www.google.com/patents/US3545677?printsec=abstract\&dq=3545677\&ei=JGtLUIXyLYLu9ATNqoGIAg#v=onepage\&q=3545677\&f=false  
-tags: ['geoengenharia', 'propagação', 'nuvem']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'geoengenharia', 'método', 'nuvem', 'propagação']
 ---
 
 ## Detalhes

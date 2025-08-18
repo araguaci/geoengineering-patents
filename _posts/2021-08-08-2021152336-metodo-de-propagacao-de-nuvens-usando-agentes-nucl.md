@@ -8,10 +8,10 @@ article_id: 2021152336
 description: >
   2021-08-08-método-propagação
 website: https://patentimages.storage.googleapis.com/19/93/c4/42b08e5c06bada/WO2021152336A1.pdf  
-tags: ['geoengenharia', 'propagação', 'nuvens', 'gelo']
 image:
   path: 'assets/solid/snowflake.svg'
 faicon: fa-snowflake  
+tags: ['análise', 'gelo', 'geoengenharia', 'método', 'nuvens', 'propagação', 'usando']
 ---
 
 ## Detalhes

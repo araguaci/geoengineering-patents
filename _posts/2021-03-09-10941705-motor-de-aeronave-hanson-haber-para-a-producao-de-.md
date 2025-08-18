@@ -8,10 +8,10 @@ article_id: 10941705
 description: >
   2021-03-09-produção-produção
 website: https://www.freepatentsonline.com/10941705.pdf  
-tags: ['geoengenharia', 'produção', 'radiação', 'solar']
 image:
   path: 'assets/solid/plane.svg'
 faicon: fa-plane  
+tags: ['análise', 'atmosférica', 'geoengenharia', 'meio', 'produção', 'radiação', 'solar']
 ---
 
 ## Detalhes

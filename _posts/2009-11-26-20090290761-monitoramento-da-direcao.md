@@ -8,10 +8,10 @@ article_id: 20090290761
 description: >
   2009-11-26-medição-ar
 website: https://www.freepatentsonline.com/20090290761.pdf  
-tags: ['geoengenharia', 'ar', 'medição']
 image:
   path: 'assets/solid/wind.svg'
 faicon: fa-wind  
+tags: ['análise', 'ar', 'geoengenharia', 'medição', 'usando']
 ---
 
 ## Detalhes

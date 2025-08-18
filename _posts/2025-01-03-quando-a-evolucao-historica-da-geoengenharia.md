@@ -4,7 +4,7 @@ description: >
   "Geoengenharia, controle climático outrora ficção científica, tem longa história tecnológica via patentes. Análise cronológica revela antiguidade e aceleração na sofisticação, traçando desde origens rudimentares até era da IA, respondendo "Quando?"."
 date: 2025-01-7T22:22:22.222Z
 preview: ""
-tags: ['5w2h', 'geoengenharia']
+tags: ['5w2h', 'geoengenharia', 'clima', 'drone', 'ética']
 categories: [5w2h]
 image:
   path: 'assets/solid/calendar.svg'

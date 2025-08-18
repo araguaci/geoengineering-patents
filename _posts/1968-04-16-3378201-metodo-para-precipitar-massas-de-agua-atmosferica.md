@@ -8,10 +8,10 @@ article_id: 3378201
 description: >
   1968-04-16-método-precipitação
 website: https://www.freepatentsonline.com/3378201.pdf  
-tags: ['geoengenharia', 'precipitação', 'água']
 image:
   path: 'assets/solid/cloud-rain.svg'
 faicon: fa-cloud-rain  
+tags: ['análise', 'atmosférica', 'geoengenharia', 'método', 'precipitação', 'água']
 ---
 
 ## Detalhes

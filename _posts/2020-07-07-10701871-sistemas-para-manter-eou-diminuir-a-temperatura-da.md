@@ -8,10 +8,10 @@ article_id: 10701871
 description: >
   2020-07-07-sistemas-temperatura
 website: https://www.freepatentsonline.com/10701871.pdf  
-tags: ['geoengenharia', 'temperatura', 'diminuir', 'água']
 image:
-  path: 'assets/solid/thermometer-quarter.svg'
-faicon: fa-thermometer-quarter  
+  path: 'assets/solid/thermometer-half.svg'
+faicon: fa-thermometer-half  
+tags: ['análise', 'diminuir', 'geoengenharia', 'materiais', 'sistemas', 'temperatura', 'usando', 'água']
 ---
 
 ## Detalhes
@@ -19,7 +19,7 @@ faicon: fa-thermometer-quarter
 - **Data**: 2020-07-07
 - **Descrição**: **Sistemas para manter e/ou diminuir a temperatura da água usando materiais de alto albedo**
 - **Tópico**: sistemas
-- **Tags**: <i class="fas fa-thermometer-quarter"></i>
+- **Tags**: <i class="fas fa-thermometer-half"></i>
   - temperatura
   - diminuir
   - água

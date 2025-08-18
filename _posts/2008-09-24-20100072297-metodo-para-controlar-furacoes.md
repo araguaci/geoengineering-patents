@@ -8,10 +8,10 @@ article_id: 20100072297
 description: >
   2008-09-24-método-controle
 website: https://patents.google.com/patent/US20100072297A1/en  
-tags: ['geoengenharia', 'controle', 'furacões']
 image:
   path: 'assets/solid/wind.svg'
 faicon: fa-wind  
+tags: ['análise', 'controle', 'furacões', 'geoengenharia', 'método']
 ---
 
 ## Detalhes

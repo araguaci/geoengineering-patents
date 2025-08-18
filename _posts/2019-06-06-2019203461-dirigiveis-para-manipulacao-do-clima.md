@@ -8,10 +8,10 @@ article_id: 2019203461
 description: >
   2019-06-06-clima-clima
 website: https://patentimages.storage.googleapis.com/9b/63/20/f044beb98a3c79/AU2019203461A1.pdf  
-tags: ['geoengenharia', 'clima']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'clima', 'geoengenharia']
 ---
 
 ## Detalhes

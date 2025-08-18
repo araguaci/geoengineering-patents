@@ -8,10 +8,10 @@ article_id: 2011073650
 description: >
   2011-06-23-sistema-distribuição
 website: https://patentimages.storage.googleapis.com/f0/b3/bc/e3f54db063c2b9/WO2011073650A1.pdf  
-tags: ['geoengenharia', 'distribuição', 'atmosférica']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'atmosférica', 'distribuição', 'geoengenharia', 'sistema']
 ---
 
 ## Detalhes

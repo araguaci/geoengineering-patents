@@ -8,10 +8,10 @@ article_id: 3813875
 description: >
   1974-06-04-sistema-nuvens
 website: https://patents.google.com/patent/US3813875A/en  
-tags: ['geoengenharia', 'nuvens', 'atmosfera']
 image:
   path: 'assets/solid/rocket.svg'
 faicon: fa-rocket  
+tags: ['análise', 'atmosfera', 'geoengenharia', 'nuvens', 'sistema']
 ---
 
 ## Detalhes

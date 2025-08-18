@@ -8,10 +8,10 @@ article_id: 3994976
 description: >
   2022-05-11-aparelho-semeadura
 website: https://patentimages.storage.googleapis.com/54/13/8b/40755a298ebdea/EP3994976A1.pdf  
-tags: ['geoengenharia', 'semeadura', 'nuvem']
 image:
   path: 'assets/solid/spray-can.svg'
 faicon: fa-spray-can  
+tags: ['análise', 'aparelho', 'geoengenharia', 'nuvem', 'semeadura']
 ---
 
 ## Detalhes

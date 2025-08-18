@@ -4,7 +4,7 @@ description: >
   "A geoengenharia avança com projetos inovadores, mas gera debates sobre riscos, custos, soberania e influência de ONGs, exigindo análise quanto à real necessidade e motivações políticas."
 date: 2025-08-18T15:19:40.340Z
 preview: ""
-tags: ['5w2h', 'geoengenharia']
+tags: ['5w2h', 'geoengenharia', 'soberania', 'clima', 'soberania']
 categories: [5w2h]
 image:
   path: 'assets/solid/globe-americas.svg'

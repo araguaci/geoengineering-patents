@@ -8,10 +8,10 @@ article_id: 3858805
 description: >
   1975-01-07-gelo-gelo
 website: https://www.freepatentsonline.com/3858805.pdf  
-tags: ['geoengenharia', 'gelo']
 image:
   path: 'assets/solid/snowflake.svg'
 faicon: fa-snowflake  
+tags: ['análise', 'gelo', 'geoengenharia']
 ---
 
 ## Detalhes

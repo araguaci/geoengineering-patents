@@ -8,10 +8,10 @@ article_id: 20110101124
 description: >
   2011-05-05-sistema-redução
 website: https://www.freepatentsonline.com/20110101124.pdf  
-tags: ['geoengenharia', 'redução', 'furacões']
 image:
   path: 'assets/solid/wind.svg'
 faicon: fa-wind  
+tags: ['análise', 'furacões', 'geoengenharia', 'método', 'redução', 'sistema']
 ---
 
 ## Detalhes

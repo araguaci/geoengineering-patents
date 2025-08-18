@@ -8,10 +8,10 @@ article_id: 20130008365
 description: >
   2013-01-10-sistema-diminuir
 website: https://www.freepatentsonline.com/20130008365.pdf  
-tags: ['geoengenharia', 'diminuir', 'tempestades', 'furacões']
 image:
   path: 'assets/solid/wind.svg'
 faicon: fa-wind  
+tags: ['análise', 'diminuir', 'furacões', 'geoengenharia', 'método', 'sistema', 'tempestades', 'tropicais']
 ---
 
 ## Detalhes

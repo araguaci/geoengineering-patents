@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Orchestrating Biblical Floods, 90 Second Alert
 date: 2025-07-06 20:41:29 UTC
 website: https://geoengineeringwatch.org/orchestrating-biblical-floods-90-second-alert/

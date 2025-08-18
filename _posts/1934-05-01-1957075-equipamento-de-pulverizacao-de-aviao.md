@@ -8,10 +8,10 @@ article_id: 1957075
 description: >
   1934-05-01-dispositivo-aérea
 website: http://www.google.com/patents/US1957075?printsec=abstract\&dq=1957075\&ei=CW9LUOH8E4Wa9gS_sYHoCQ#v=onepage\&q=1957075\&f=false  
-tags: ['geoengenharia', 'aérea']
 image:
   path: 'assets/solid/plane.svg'
 faicon: fa-plane  
+tags: ['análise', 'aérea', 'dispositivo', 'geoengenharia']
 ---
 
 ## Detalhes

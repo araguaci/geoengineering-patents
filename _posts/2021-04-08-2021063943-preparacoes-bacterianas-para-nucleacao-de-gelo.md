@@ -8,10 +8,10 @@ article_id: 2021063943
 description: >
   2021-04-08-gelo-gelo
 website: https://patentimages.storage.googleapis.com/a0/c2/c6/1904a69157bb67/WO2021063943A1.pdf  
-tags: ['geoengenharia', 'gelo']
 image:
   path: 'assets/solid/snowflake.svg'
 faicon: fa-snowflake  
+tags: ['análise', 'gelo', 'geoengenharia']
 ---
 
 ## Detalhes

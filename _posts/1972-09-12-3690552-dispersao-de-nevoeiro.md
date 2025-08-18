@@ -8,10 +8,10 @@ article_id: 3690552
 description: >
   1972-09-12-dispersão-dispersão
 website: https://www.freepatentsonline.com/3690552.pdf  
-tags: ['geoengenharia', 'dispersão', 'nevoeiro']
 image:
   path: 'assets/solid/smog.svg'
 faicon: fa-smog  
+tags: ['análise', 'dispersão', 'geoengenharia', 'nevoeiro']
 ---
 
 ## Detalhes

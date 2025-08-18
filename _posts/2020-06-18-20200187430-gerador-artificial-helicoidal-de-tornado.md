@@ -8,10 +8,10 @@ article_id: 20200187430
 description: >
   2020-06-18-gerador-artificial
 website: https://www.freepatentsonline.com/20200187430.pdf  
-tags: ['geoengenharia', 'artificial', 'gerador']
 image:
   path: 'assets/solid/wind.svg'
 faicon: fa-wind  
+tags: ['análise', 'artificial', 'geoengenharia', 'gerador']
 ---
 
 ## Detalhes

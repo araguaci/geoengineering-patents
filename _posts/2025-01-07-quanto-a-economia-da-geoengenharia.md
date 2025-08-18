@@ -4,7 +4,7 @@ description: >
   "Geoengenharia envolve custos bilionários em SRM e semeadura de nuvens, mas previne trilhões em danos climáticos via patentes como "Method of Geoengineering to Reduce Solar Radiation" (2022186970). Atrai investimentos em climatetech para agricultura e seguros. Riscos: choque de terminação, cartéis e moral hazard. Exige regulação global para equilibrar inovação e estabilidade econômica."
 date: 2025-01-03T22:22:22.222Z
 preview: ""
-tags: ['5w2h', 'geoengenharia']
+tags: ['5w2h', 'geoengenharia', 'clima', 'ética']
 categories: [5w2h]
 image:
   path: 'assets/solid/dollar-sign.svg'

@@ -8,10 +8,10 @@ article_id: 2052626
 description: >
   1936-09-01-método-dispersão
 website: https://www.freepatentsonline.com/2052626.pdf  
-tags: ['geoengenharia', 'dispersão', 'nevoeiro']
 image:
   path: 'assets/solid/smog.svg'
 faicon: fa-smog  
+tags: ['análise', 'dispersão', 'geoengenharia', 'método', 'nevoeiro']
 ---
 
 ## Detalhes

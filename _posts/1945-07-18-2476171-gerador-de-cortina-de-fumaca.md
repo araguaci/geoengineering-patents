@@ -8,10 +8,10 @@ article_id: 2476171
 description: >
   1945-07-18-gerador-fumaça
 website: http://www.google.com/patents/US2476171?printsec=abstract\&dq=2476171\&ei=yG5LUNzjF4Gg9QTkvYGoBA#v=onepage\&q=2476171\&f=false  
-tags: ['geoengenharia', 'fumaça', 'gerador']
 image:
   path: 'assets/solid/smog.svg'
 faicon: fa-smog  
+tags: ['análise', 'fumaça', 'geoengenharia', 'gerador']
 ---
 
 ## Detalhes

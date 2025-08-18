@@ -8,10 +8,10 @@ article_id: 20110204159
 description: >
   2011-08-25-sistema-clima
 website: https://patentimages.storage.googleapis.com/24/ab/29/057adc08eb904f/US20110204159A1.pdf  
-tags: ['geoengenharia', 'clima']
 image:
   path: 'assets/solid/satellite.svg'
 faicon: fa-satellite  
+tags: ['análise', 'clima', 'climático', 'geoengenharia', 'sistema', 'usando']
 ---
 
 ## Detalhes

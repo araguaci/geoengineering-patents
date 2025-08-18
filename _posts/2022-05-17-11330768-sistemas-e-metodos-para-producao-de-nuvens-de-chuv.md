@@ -8,10 +8,10 @@ article_id: 11330768
 description: >
   2022-05-17-sistemas-produção
 website: https://patentimages.storage.googleapis.com/d5/2c/a3/8342d842386712/US11330768.pdf  
-tags: ['geoengenharia', 'produção', 'nuvens', 'chuva']
 image:
   path: 'assets/solid/cloud-rain.svg'
 faicon: fa-cloud-rain  
+tags: ['análise', 'chuva', 'geoengenharia', 'métodos', 'nuvens', 'produção', 'sistemas']
 ---
 
 ## Detalhes

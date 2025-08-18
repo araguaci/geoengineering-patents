@@ -8,10 +8,10 @@ article_id: 20200261939
 description: >
   2020-08-20-aparelho-gerar
 website: https://www.freepatentsonline.com/20200261939.pdf  
-tags: ['geoengenharia', 'gerar', 'aerossol']
 image:
   path: 'assets/solid/flask.svg'
 faicon: fa-flask  
+tags: ['aerossol', 'análise', 'aparelho', 'geoengenharia', 'gerar']
 ---
 
 ## Detalhes

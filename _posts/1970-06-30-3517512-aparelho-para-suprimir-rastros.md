@@ -8,10 +8,10 @@ article_id: 3517512
 description: >
   1970-06-30-aparelho-suprimir
 website: https://www.freepatentsonline.com/3517512.pdf  
-tags: ['geoengenharia', 'suprimir']
 image:
   path: 'assets/solid/plane.svg'
 faicon: fa-plane  
+tags: ['análise', 'aparelho', 'geoengenharia', 'suprimir']
 ---
 
 ## Detalhes

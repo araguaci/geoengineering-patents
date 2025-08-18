@@ -8,10 +8,10 @@ article_id: 20130015260
 description: >
   2013-01-17-ondas-ondas
 website: https://patentimages.storage.googleapis.com/d4/3f/d7/480e7d77dcc8bc/US20130015260A1.pdf  
-tags: ['geoengenharia', 'ondas', 'modificação', 'climática']
 image:
   path: 'assets/solid/bolt.svg'
 faicon: fa-bolt  
+tags: ['análise', 'ar', 'climática', 'dispositivo', 'geoengenharia', 'modificação', 'ondas', 'produção', 'sistema']
 ---
 
 ## Detalhes

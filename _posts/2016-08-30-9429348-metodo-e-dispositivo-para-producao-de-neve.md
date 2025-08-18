@@ -8,10 +8,10 @@ article_id: 9429348
 description: >
   2016-08-30-método-produção
 website: https://www.freepatentsonline.com/9429348.pdf  
-tags: ['geoengenharia', 'produção', 'neve']
 image:
   path: 'assets/solid/snowflake.svg'
 faicon: fa-snowflake  
+tags: ['análise', 'dispositivo', 'geoengenharia', 'método', 'neve', 'produção']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 3769107
 description: >
   1973-10-30-composição-fumaça
 website: http://www.google.com/patents/US3769107?printsec=abstract\&dq=3769107\&ei=XmhLUKnpFYX68gTnjoGIBA#v=onepage\&q=3769107\&f=false  
-tags: ['geoengenharia', 'fumaça', 'geração']
 image:
   path: 'assets/solid/flask.svg'
 faicon: fa-flask  
+tags: ['análise', 'base', 'composição', 'fumaça', 'geoengenharia', 'geração']
 ---
 
 ## Detalhes

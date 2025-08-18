@@ -8,10 +8,10 @@ article_id: 1892132
 description: >
   1932-12-27-dispositivo-aérea
 website: http://www.google.com/patents/US1892132?printsec=abstract\&dq=1892132\&ei=L29LULjPEIWo8gS9m4GIAg#v=onepage\&q=1892132\&f=false  
-tags: ['geoengenharia', 'aérea']
 image:
   path: 'assets/solid/plane.svg'
 faicon: fa-plane  
+tags: ['análise', 'aérea', 'dispositivo', 'geoengenharia']
 ---
 
 ## Detalhes

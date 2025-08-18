@@ -8,10 +8,10 @@ article_id: 20210352856
 description: >
   2021-11-18-sistema-aérea
 website: https://www.freepatentsonline.com/20210352856.pdf  
-tags: ['geoengenharia', 'aérea', 'modificação', 'climática']
 image:
   path: 'assets/solid/cloud-bolt.svg'
 faicon: fa-cloud-bolt  
+tags: ['análise', 'aérea', 'climática', 'geoengenharia', 'modificação', 'sistema']
 ---
 
 ## Detalhes

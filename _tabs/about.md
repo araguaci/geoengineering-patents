@@ -1,7 +1,7 @@
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
-title: Sobre Autor
+title: Sobre Projeto
 order: 10
 ---
 

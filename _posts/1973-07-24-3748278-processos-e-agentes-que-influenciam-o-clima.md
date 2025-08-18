@@ -8,10 +8,10 @@ article_id: 3748278
 description: >
   1973-07-24-processo-clima
 website: https://www.freepatentsonline.com/3748278.pdf  
-tags: ['geoengenharia', 'clima']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'clima', 'geoengenharia', 'processo']
 ---
 
 ## Detalhes

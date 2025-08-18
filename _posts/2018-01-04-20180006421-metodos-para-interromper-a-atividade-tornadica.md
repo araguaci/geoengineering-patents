@@ -8,10 +8,10 @@ article_id: 20180006421
 description: >
   2018-01-04-métodos-tempestades
 website: https://www.freepatentsonline.com/20180006421.pdf  
-tags: ['geoengenharia', 'tempestades']
 image:
   path: 'assets/solid/wind.svg'
 faicon: fa-wind  
+tags: ['análise', 'geoengenharia', 'métodos', 'tempestades']
 ---
 
 ## Detalhes

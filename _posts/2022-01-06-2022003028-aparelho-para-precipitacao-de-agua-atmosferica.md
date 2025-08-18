@@ -8,10 +8,10 @@ article_id: 2022003028
 description: >
   2022-01-06-aparelho-precipitação
 website: https://patentimages.storage.googleapis.com/c3/e1/9c/d2f7c04e0e1ece/WO2022003028A1.pdf  
-tags: ['geoengenharia', 'precipitação', 'água']
 image:
   path: 'assets/solid/tint.svg'
 faicon: fa-tint  
+tags: ['análise', 'aparelho', 'atmosférica', 'geoengenharia', 'precipitação', 'água']
 ---
 
 ## Detalhes

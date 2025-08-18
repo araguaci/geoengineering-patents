@@ -8,10 +8,10 @@ article_id: 20210329852
 description: >
   2021-10-28-método-ciclones
 website: https://patentimages.storage.googleapis.com/40/af/03/f37ceeea537811/US20210329852A1.pdf  
-tags: ['geoengenharia', 'ciclones', 'tropicais', 'dispersão']
 image:
   path: 'assets/solid/wind.svg'
 faicon: fa-wind  
+tags: ['análise', 'ciclones', 'dispersão', 'formação', 'geoengenharia', 'método', 'tropicais']
 ---
 
 ## Detalhes

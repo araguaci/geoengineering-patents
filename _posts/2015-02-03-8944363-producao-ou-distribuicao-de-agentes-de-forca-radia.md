@@ -8,10 +8,10 @@ article_id: 8944363
 description: >
   2015-02-03-produção-produção
 website: https://www.freepatentsonline.com/8944363.pdf  
-tags: ['geoengenharia', 'produção', 'distribuição']
 image:
   path: 'assets/solid/radiation.svg'
 faicon: fa-radiation  
+tags: ['análise', 'distribuição', 'geoengenharia', 'produção']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 3234357
 description: >
   1966-02-08-dispositivo-fumaça
 website: http://www.google.com/patents/US3234357?printsec=abstract\&dq=3234357\&ei=0WxLUIarG5GO9AS404HACg#v=onepage\&q=3234357\&f=false  
-tags: ['geoengenharia', 'fumaça']
 image:
   path: 'assets/solid/smog.svg'
 faicon: fa-smog  
+tags: ['análise', 'dispositivo', 'fumaça', 'geoengenharia', 'produção']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 3785557
 description: >
   1974-01-15-sistema-propagação
 website: http://www.google.com/patents/US3785557?printsec=abstract\&dq=3785557\&ei=LWhLULu8EYXK9gTw7YAw#v=onepage\&q=3785557\&f=false  
-tags: ['geoengenharia', 'propagação', 'nuvem']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'geoengenharia', 'nuvem', 'propagação', 'sistema']
 ---
 
 ## Detalhes

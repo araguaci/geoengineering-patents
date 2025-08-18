@@ -8,10 +8,10 @@ article_id: 2614083
 description: >
   1952-10-14-mistura-fumaça
 website: http://www.google.com/patents/US2614083?printsec=abstract\&dq=2614083\&ei=821LUMiJOYa09QSqgIG4Cg#v=onepage\&q=2614083\&f=false  
-tags: ['geoengenharia', 'fumaça', 'mistura']
 image:
   path: 'assets/solid/smog.svg'
 faicon: fa-smog  
+tags: ['análise', 'fumaça', 'geoengenharia', 'mistura']
 ---
 
 ## Detalhes

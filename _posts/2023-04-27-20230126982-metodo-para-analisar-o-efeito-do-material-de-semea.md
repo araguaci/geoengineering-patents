@@ -8,10 +8,10 @@ article_id: 20230126982
 description: >
   2023-04-27-método-semeadura
 website: https://patentimages.storage.googleapis.com/40/7b/ea/29a5ac5c7a36b8/US20230126982A1.pdf  
-tags: ['geoengenharia', 'semeadura', 'aerossol', 'análise']
 image:
   path: 'assets/solid/cloud-rain.svg'
 faicon: fa-cloud-rain  
+tags: ['aerossol', 'análise', 'ar', 'geoengenharia', 'material', 'meio', 'método', 'nuvens', 'semeadura']
 ---
 
 ## Detalhes

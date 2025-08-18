@@ -8,10 +8,10 @@ article_id: 20200288650
 description: >
   2020-09-17-formação-furacões
 website: https://patentimages.storage.googleapis.com/a2/09/58/3203f31778eae4/US20200288650A1.pdf  
-tags: ['geoengenharia', 'furacões', 'diminuir', 'terra']
 image:
   path: 'assets/solid/satellite.svg'
 faicon: fa-satellite  
+tags: ['análise', 'diminuir', 'formação', 'furacões', 'geoengenharia', 'terra']
 ---
 
 ## Detalhes

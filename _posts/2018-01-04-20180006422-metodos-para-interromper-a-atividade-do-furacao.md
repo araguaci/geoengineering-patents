@@ -8,10 +8,10 @@ article_id: 20180006422
 description: >
   2018-01-04-métodos-furacões
 website: https://www.freepatentsonline.com/20180006422.pdf  
-tags: ['geoengenharia', 'furacões']
 image:
   path: 'assets/solid/wind.svg'
 faicon: fa-wind  
+tags: ['análise', 'furacões', 'geoengenharia', 'métodos']
 ---
 
 ## Detalhes

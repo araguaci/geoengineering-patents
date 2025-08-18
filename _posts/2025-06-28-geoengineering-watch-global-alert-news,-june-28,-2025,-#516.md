@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Geoengineering Watch Global Alert News, June 28, 2025, #516
 date: 2025-06-28 23:57:09 UTC
 website: https://geoengineeringwatch.org/geoengineering-watch-global-alert-news-june-28-2025-516/

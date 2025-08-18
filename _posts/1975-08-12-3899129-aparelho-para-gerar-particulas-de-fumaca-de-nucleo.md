@@ -8,10 +8,10 @@ article_id: 3899129
 description: >
   1975-08-12-aparelho-gerar
 website: https://patents.google.com/patent/US3899129A/en  
-tags: ['geoengenharia', 'gerar', 'partículas', 'gelo']
 image:
   path: 'assets/solid/snowflake.svg'
 faicon: fa-snowflake  
+tags: ['análise', 'aparelho', 'climática', 'fumaça', 'gelo', 'geoengenharia', 'gerar', 'modificação', 'partículas']
 ---
 
 ## Detalhes

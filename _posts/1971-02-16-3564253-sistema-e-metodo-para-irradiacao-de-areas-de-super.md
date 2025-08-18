@@ -8,10 +8,10 @@ article_id: 3564253
 description: >
   1971-02-16-sistema-superfície
 website: http://www.google.com/patents/US3564253?printsec=abstract\&dq=3564253\&ei=B2tLUNjPC4Hs8gSH_IHgBQ#v=onepage\&q=3564253\&f=false  
-tags: ['geoengenharia', 'superfície']
 image:
   path: 'assets/solid/globe.svg'
 faicon: fa-globe  
+tags: ['análise', 'geoengenharia', 'método', 'sistema', 'superfície']
 ---
 
 ## Detalhes

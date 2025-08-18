@@ -8,10 +8,10 @@ article_id: 3595477
 description: >
   1971-07-27-método-dispersão
 website: https://www.freepatentsonline.com/3595477.pdf  
-tags: ['geoengenharia', 'dispersão', 'névoa']
 image:
   path: 'assets/solid/smog.svg'
 faicon: fa-smog  
+tags: ['análise', 'composições', 'dispersão', 'geoengenharia', 'método', 'névoa']
 ---
 
 ## Detalhes

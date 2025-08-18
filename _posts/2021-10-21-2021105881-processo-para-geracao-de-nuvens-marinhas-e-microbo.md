@@ -8,10 +8,10 @@ article_id: 2021105881
 description: >
   2021-10-21-processo-geração
 website: https://patentimages.storage.googleapis.com/8a/fd/83/53516b1249d3a1/AU2021105881A4.pdf  
-tags: ['geoengenharia', 'geração', 'nuvens']
 image:
   path: 'assets/solid/water.svg'
 faicon: fa-water  
+tags: ['análise', 'geoengenharia', 'geração', 'nuvens', 'processo']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 20100074390
 description: >
   2010-03-25-método-modificação
 website: https://www.freepatentsonline.com/20100074390.pdf  
-tags: ['geoengenharia', 'modificação', 'climática', 'vapor']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'climática', 'geoengenharia', 'gerador', 'modificação', 'método', 'vapor']
 ---
 
 ## Detalhes

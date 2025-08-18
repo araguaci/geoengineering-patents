@@ -1,6 +1,6 @@
 ---
 title: As 12 Camadas
-tags: [filosofia, personalidade, carater]
+tags: [filosofia, personalidade, carater, 'ética']
 categories: [sabedoria]
 ---
 

@@ -8,10 +8,10 @@ article_id: 9715039
 description: >
   2017-07-25-sistema-propagação
 website: https://www.freepatentsonline.com/9715039.pdf  
-tags: ['geoengenharia', 'propagação', 'nuvens']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'aparelho', 'geoengenharia', 'nuvens', 'propagação', 'sistema']
 ---
 
 ## Detalhes

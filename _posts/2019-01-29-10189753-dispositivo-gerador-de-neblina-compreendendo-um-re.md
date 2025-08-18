@@ -8,10 +8,10 @@ article_id: 10189753
 description: >
   2019-01-29-dispositivo-neblina
 website: https://www.freepatentsonline.com/10189753.pdf  
-tags: ['geoengenharia', 'neblina', 'gerar']
 image:
   path: 'assets/solid/smog.svg'
 faicon: fa-smog  
+tags: ['análise', 'dispositivo', 'geoengenharia', 'gerador', 'gerar', 'meios', 'neblina']
 ---
 
 ## Detalhes

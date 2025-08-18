@@ -8,10 +8,10 @@ article_id: 8402736
 description: >
   2013-03-26-método-suprimir
 website: https://www.freepatentsonline.com/8402736.pdf  
-tags: ['geoengenharia', 'suprimir', 'aparelho']
 image:
   path: 'assets/solid/plane.svg'
 faicon: fa-plane  
+tags: ['análise', 'aparelho', 'geoengenharia', 'método', 'suprimir']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 3174150
 description: >
   1965-03-16-sistema-ondas
 website: http://www.google.com/patents/US3174150?printsec=abstract\&dq=3174150\&ei=6WxLULHqBYKc9gTgqYD4BA#v=onepage\&q=3174150\&f=false  
-tags: ['geoengenharia', 'ondas']
 image:
   path: 'assets/solid/satellite-dish.svg'
 faicon: fa-satellite-dish  
+tags: ['análise', 'geoengenharia', 'ondas', 'sistema']
 ---
 
 ## Detalhes

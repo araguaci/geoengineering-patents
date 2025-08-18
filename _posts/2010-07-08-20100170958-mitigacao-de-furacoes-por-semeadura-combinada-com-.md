@@ -8,10 +8,10 @@ article_id: 20100170958
 description: >
   2010-07-08-semeadura-semeadura
 website: https://www.freepatentsonline.com/20100170958.pdf  
-tags: ['geoengenharia', 'semeadura', 'furacões']
 image:
   path: 'assets/solid/wind.svg'
 faicon: fa-wind  
+tags: ['análise', 'furacões', 'geoengenharia', 'semeadura']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 20170217587
 description: >
   2017-08-03-sistemas-modificação
 website: https://www.freepatentsonline.com/20170217587.pdf  
-tags: ['geoengenharia', 'modificação', 'climática']
 image:
   path: 'assets/solid/truck.svg'
 faicon: fa-truck  
+tags: ['análise', 'climática', 'geoengenharia', 'modificação', 'sistemas']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 3601312
 description: >
   1971-08-24-métodos-precipitação
 website: http://www.google.com/patents/US3601312?printsec=abstract\&dq=3601312\&ei=P2pLUOLLHZTS8wS4moCoAg#v=onepage\&q=3601312\&f=false  
-tags: ['geoengenharia', 'precipitação', 'artificial', 'vapor']
 image:
   path: 'assets/solid/cloud-rain.svg'
 faicon: fa-cloud-rain  
+tags: ['análise', 'artificial', 'atmosfera', 'aérea', 'geoengenharia', 'métodos', 'precipitação', 'vapor', 'água']
 ---
 
 ## Detalhes

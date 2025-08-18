@@ -8,10 +8,10 @@ article_id: 3432208
 description: >
   1967-11-07-dispositivo-partículas
 website: http://www.google.com/patents/US3432208?printsec=abstract\&dq=3432208\&ei=TWxLULLWBoaS9gSInYDgCw#v=onepage\&q=3432208\&f=false  
-tags: ['geoengenharia', 'partículas']
 image:
   path: 'assets/solid/flask.svg'
 faicon: fa-flask  
+tags: ['análise', 'dispositivo', 'geoengenharia', 'partículas']
 ---
 
 ## Detalhes

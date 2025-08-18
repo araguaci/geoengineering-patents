@@ -8,10 +8,10 @@ article_id: 1225521
 description: >
   1915-09-04-processo-ar
 website: http://www.freepatentsonline.com/1225521.html  
-tags: ['geoengenharia', 'ar']
 image:
   path: 'assets/solid/skull-crossbones.svg'
 faicon: fa-skull-crossbones  
+tags: ['análise', 'ar', 'geoengenharia', 'processo']
 ---
 
 ## Detalhes

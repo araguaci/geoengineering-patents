@@ -8,10 +8,10 @@ article_id: 3608820
 description: >
   1971-09-20-atmosféricas-atmosféricas
 website: http://www.google.com/patents/US3608820?printsec=abstract\&dq=3608820\&ei=DWpLUMuWEoOC9gTz-IDQCQ#v=onepage\&q=3608820\&f=false  
-tags: ['geoengenharia', 'atmosféricas', 'distribuição']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'atmosféricas', 'distribuição', 'geoengenharia', 'materiais']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 3300721
 description: >
   1967-01-24-comunicações-comunicações
 website: http://www.google.com/patents/US3300721?printsec=abstract\&dq=3300721\&ei=rGxLUNf9BITi8gSRzIHYDQ#v=onepage\&q=3300721\&f=false  
-tags: ['geoengenharia', 'comunicações', 'meios']
 image:
   path: 'assets/solid/satellite-dish.svg'
 faicon: fa-satellite-dish  
+tags: ['análise', 'comunicações', 'geoengenharia', 'meios']
 ---
 
 ## Detalhes

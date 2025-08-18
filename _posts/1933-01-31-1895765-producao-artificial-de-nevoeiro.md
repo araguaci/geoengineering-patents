@@ -8,10 +8,10 @@ article_id: 1895765
 description: >
   1933-01-31-produção-artificial
 website: https://www.freepatentsonline.com/1895765.pdf  
-tags: ['geoengenharia', 'artificial', 'nevoeiro']
 image:
   path: 'assets/solid/smog.svg'
 faicon: fa-smog  
+tags: ['análise', 'artificial', 'geoengenharia', 'nevoeiro', 'produção']
 ---
 
 ## Detalhes

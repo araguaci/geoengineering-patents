@@ -33,10 +33,23 @@ tail_includes:
         </span>
       {% endif %}
 
+      {% if page.website %} 
+        <span class="float-right">
+          {{ site.data.locales[lang].post.website }}
+          {% if page.website_icon %}
+            <i class="fas fa-{{ page.website_icon }}"></i>
+          {% else %}
+            <i class="fas fa-link"></i>
+          {% endif %}
+          <a target="_blank" href="{{ page.website }}"> acessar...</a>
+        </span>
+      {% endif %}
+
       {% if page.image %}
         {% capture src %}src="{{ page.image.path | default: page.image }}"{% endcapture %}
         {% capture class %}class="preview-img{% if page.image.no_bg %}{{ ' no-bg' }}{% endif %}"{% endcapture %}
-        {% capture alt %}alt="{{ page.image.alt | xml_escape | default: "Preview Image" }}"{% endcapture %}
+        <!-- aragua -->
+        <!-- {% capture alt %}alt="{{ page.image.alt | xml_escape | default: "Preview Image" }}"{% endcapture %} -->
 
         {% if page.image.lqip %}
           {%- capture lqip -%}lqip="{{ page.image.lqip }}"{%- endcapture -%}
@@ -95,7 +108,10 @@ tail_includes:
     </div>
   </header>
 
-  <div class="content">
+  <div class="content">    
+    {% if page.website %}
+      <iframe src="{{ page.website }}" width="100%" height="600px" style="border:none;" title="Visualizador de PDF Embutido"></iframe>
+    {% endif %}
     {{ content }}
   </div>
 

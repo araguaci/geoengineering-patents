@@ -8,10 +8,10 @@ article_id: 2871344
 description: >
   1959-01-27-sistema-comunicações
 website: https://patentimages.storage.googleapis.com/dc/14/c2/a1ee133c97a3aa/US2871344.pdf  
-tags: ['geoengenharia', 'comunicações']
 image:
   path: 'assets/solid/satellite-dish.svg'
 faicon: fa-satellite-dish  
+tags: ['análise', 'comunicações', 'geoengenharia', 'sistema']
 ---
 
 ## Detalhes

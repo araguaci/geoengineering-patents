@@ -8,10 +8,10 @@ article_id: 2352677
 description: >
   1944-07-04-produção-artificial
 website: https://www.freepatentsonline.com/2352677.pdf  
-tags: ['geoengenharia', 'artificial', 'nevoeiro']
 image:
   path: 'assets/solid/smog.svg'
 faicon: fa-smog  
+tags: ['análise', 'artificial', 'geoengenharia', 'nevoeiro', 'produção']
 ---
 
 ## Detalhes

@@ -4,7 +4,7 @@ description: >
   "Geoengenharia é global, mas desigual em pesquisa, desenvolvimento e implementação. Artigo analisa "Onde?": geografia de poder, inovação e vulnerabilidade, mapeando centros de patentes, locais de experimentos e regiões afetadas por tecnologias climáticas."
 date: 2025-01-06T22:22:22.222Z
 preview: ""
-tags: ['5w2h', 'geoengenharia']
+tags: ['5w2h', 'geoengenharia', 'clima']
 categories: [5w2h]
 image:
   path: 'assets/solid/location-dot.svg'

@@ -8,10 +8,10 @@ article_id: 20230149876
 description: >
   2023-05-18-partículas-partículas
 website: https://patentimages.storage.googleapis.com/10/ce/18/4d09148910f163/US20230149876A1.pdf  
-tags: ['geoengenharia', 'partículas', 'métodos']
 image:
   path: 'assets/solid/flask.svg'
 faicon: fa-flask  
+tags: ['análise', 'geoengenharia', 'métodos', 'partículas']
 ---
 
 ## Detalhes

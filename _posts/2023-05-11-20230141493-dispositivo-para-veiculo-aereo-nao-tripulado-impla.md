@@ -8,10 +8,10 @@ article_id: 20230141493
 description: >
   2023-05-11-dispositivo-chuva
 website: https://patentimages.storage.googleapis.com/a0/8f/f6/e7a75b87e5edb1/US20230141493A1.pdf  
-tags: ['geoengenharia', 'chuva', 'dispositivo']
 image:
-  path: 'assets/solid/cloud-rain.svg'
-faicon: fa-cloud-rain  
+  path: 'assets/solid/plane-departure.svg'
+faicon: fa-plane-departure  
+tags: ['análise', 'chuva', 'dispositivo', 'geoengenharia']
 ---
 
 ## Detalhes
@@ -19,7 +19,7 @@ faicon: fa-cloud-rain
 - **Data**: 2023-05-11
 - **Descrição**: **Dispositivo para veículo aéreo não tripulado implantar uma bomba catalítica de chuva**
 - **Tópico**: dispositivo
-- **Tags**: <i class="fas fa-cloud-rain"></i>
+- **Tags**: <i class="fas fa-plane-departure"></i>
   - chuva
   - dispositivo
 - **Descrição EN**: Device For Unmanned Aerial Vehicle To Deploy A Rainfall Catalytic Bomb

@@ -8,10 +8,10 @@ article_id: 2730402
 description: >
   1956-01-10-dispositivo-dispersão
 website: http://www.google.com/patents/US2730402?printsec=abstract\&dq=2730402\&ei=rG1LUJ_yOI_m8QSl3IHICQ#v=onepage\&q=2730402\&f=false  
-tags: ['geoengenharia', 'dispersão']
 image:
   path: 'assets/solid/spray-can.svg'
 faicon: fa-spray-can  
+tags: ['análise', 'dispersão', 'dispositivo', 'geoengenharia']
 ---
 
 ## Detalhes

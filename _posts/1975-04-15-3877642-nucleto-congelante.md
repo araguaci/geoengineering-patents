@@ -8,10 +8,10 @@ article_id: 3877642
 description: >
   1975-04-15-gelo-gelo
 website: http://www.google.com/patents/US3877642?printsec=abstract\&dq=3877642\&ei=1mdLUI-dEYro8QTOpIDICg#v=onepage\&q=3877642\&f=false  
-tags: ['geoengenharia', 'gelo']
 image:
   path: 'assets/solid/snowflake.svg'
 faicon: fa-snowflake  
+tags: ['análise', 'gelo', 'geoengenharia']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 3835293
 description: >
   1974-09-10-aparelho-gerar
 website: http://www.google.com/patents/US3835293?printsec=abstract\&dq=3835293\&ei=sWdLUKDcEY-E9QTR4YCgCA#v=onepage\&q=3835293\&f=false  
-tags: ['geoengenharia', 'gerar', 'vapor']
 image:
   path: 'assets/solid/bolt.svg'
 faicon: fa-bolt  
+tags: ['análise', 'aparelho', 'aquecimento', 'geoengenharia', 'gerar', 'vapor']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 20210153442
 description: >
   2021-05-27-sistemas-nuvens
 website: https://www.freepatentsonline.com/20210153442.pdf  
-tags: ['geoengenharia', 'nuvens', 'chuva']
 image:
   path: 'assets/solid/cloud-rain.svg'
 faicon: fa-cloud-rain  
+tags: ['análise', 'chuva', 'geoengenharia', 'métodos', 'nuvens', 'sistemas']
 ---
 
 ## Detalhes

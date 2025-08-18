@@ -8,10 +8,10 @@ article_id: 3915379
 description: >
   1975-10-28-método-controle
 website: https://www.freepatentsonline.com/3915379.pdf  
-tags: ['geoengenharia', 'controle', 'clima']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'clima', 'controle', 'geoengenharia', 'método']
 ---
 
 ## Detalhes

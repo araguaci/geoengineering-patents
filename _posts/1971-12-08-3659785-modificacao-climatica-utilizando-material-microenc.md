@@ -8,10 +8,10 @@ article_id: 3659785
 description: >
   1971-12-08-modificação-modificação
 website: http://www.google.com/patents/US3659785?printsec=abstract\&dq=3659785\&ei=tmhLUIP2DY6c8QS_7YD4CA#v=onepage\&q=3659785\&f=false  
-tags: ['geoengenharia', 'modificação', 'material']
 image:
   path: 'assets/solid/flask.svg'
 faicon: fa-flask  
+tags: ['análise', 'climática', 'geoengenharia', 'material', 'modificação']
 ---
 
 ## Detalhes

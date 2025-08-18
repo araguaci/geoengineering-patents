@@ -8,10 +8,10 @@ article_id: 201300043322
 description: >
   2013-02-21-processo-redução
 website: https://www.freepatentsonline.com/20130043322.pdf  
-tags: ['geoengenharia', 'redução', 'ciclones', 'tropicais']
 image:
   path: 'assets/solid/wind.svg'
 faicon: fa-wind  
+tags: ['análise', 'aparelhos', 'ciclones', 'geoengenharia', 'processo', 'redução', 'tropicais']
 ---
 
 ## Detalhes

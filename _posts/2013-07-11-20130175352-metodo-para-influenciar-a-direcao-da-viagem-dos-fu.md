@@ -8,10 +8,10 @@ article_id: 20130175352
 description: >
   2013-07-11-método-furacões
 website: https://www.freepatentsonline.com/20130175352.pdf  
-tags: ['geoengenharia', 'furacões']
 image:
   path: 'assets/solid/wind.svg'
 faicon: fa-wind  
+tags: ['análise', 'furacões', 'geoengenharia', 'método']
 ---
 
 ## Detalhes

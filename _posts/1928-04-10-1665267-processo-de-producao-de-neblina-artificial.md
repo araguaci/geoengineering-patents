@@ -8,10 +8,10 @@ article_id: 1665267
 description: >
   1928-04-10-processo-produção
 website: http://www.google.com/patents/US1665267?printsec=abstract\&dq=1665267\&ei=TW9LUP-OGIGC8QTAl4G4BQ#v=onepage\&q=1665267\&f=false  
-tags: ['geoengenharia', 'produção', 'artificiais']
 image:
   path: 'assets/solid/smog.svg'
 faicon: fa-smog  
+tags: ['análise', 'artificiais', 'artificial', 'geoengenharia', 'neblina', 'processo', 'produção']
 ---
 
 ## Detalhes

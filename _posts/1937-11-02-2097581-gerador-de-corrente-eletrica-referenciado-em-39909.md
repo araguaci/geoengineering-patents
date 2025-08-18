@@ -8,10 +8,10 @@ article_id: 2097581
 description: >
   1937-11-02-gerador-gerador
 website: http://www.google.com/patents/US2097581?printsec=abstract\&dq=2097581\&ei=-m5LUO6pOImu8ASTl4GYBg#v=onepage\&q=2097581\&f=false  
-tags: ['geoengenharia', 'gerador']
 image:
   path: 'assets/solid/bolt.svg'
 faicon: fa-bolt  
+tags: ['análise', 'geoengenharia', 'gerador']
 ---
 
 ## Detalhes

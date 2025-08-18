@@ -8,10 +8,10 @@ article_id: 10314249
 description: >
   2019-06-11-sistemas-chuva
 website: https://www.freepatentsonline.com/10314249.pdf  
-tags: ['geoengenharia', 'chuva']
 image:
   path: 'assets/solid/cloud-rain.svg'
 faicon: fa-cloud-rain  
+tags: ['análise', 'chuva', 'geoengenharia', 'métodos', 'sistemas']
 ---
 
 ## Detalhes

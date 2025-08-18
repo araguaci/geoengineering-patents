@@ -8,10 +8,10 @@ article_id: 3046168
 description: >
   1962-07-24-produção-fumaça
 website: https://www.freepatentsonline.com/3046168.pdf  
-tags: ['geoengenharia', 'fumaça']
 image:
   path: 'assets/solid/smog.svg'
 faicon: fa-smog  
+tags: ['análise', 'fumaça', 'geoengenharia', 'produção']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 3882393
 description: >
   1975-05-06-sistema-comunicações
 website: http://www.google.com/patents/US3882393?printsec=abstract\&dq=3882393\&ei=gWdLUKG1L5KK9ATE3oHQAg#v=onepage\&q=3882393\&f=false  
-tags: ['geoengenharia', 'comunicações']
 image:
   path: 'assets/solid/satellite-dish.svg'
 faicon: fa-satellite-dish  
+tags: ['análise', 'comunicações', 'geoengenharia', 'sistema']
 ---
 
 ## Detalhes

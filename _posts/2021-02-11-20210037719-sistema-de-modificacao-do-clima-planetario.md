@@ -8,10 +8,10 @@ article_id: 20210037719
 description: >
   2021-02-11-sistema-modificação
 website: https://www.freepatentsonline.com/20210037719.pdf  
-tags: ['geoengenharia', 'modificação', 'clima']
 image:
   path: 'assets/solid/globe.svg'
 faicon: fa-globe  
+tags: ['análise', 'clima', 'geoengenharia', 'modificação', 'sistema']
 ---
 
 ## Detalhes

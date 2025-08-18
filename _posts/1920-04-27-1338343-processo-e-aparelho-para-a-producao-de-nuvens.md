@@ -8,10 +8,10 @@ article_id: 1338343
 description: >
   1920-04-27-processo-produção
 website: http://www.google.com/patents/US1338343?printsec=abstract\&dq=1338343\&ei=Xm9LUJCRCImQ9QS1-4GADg#v=onepage\&q=1338343\&f=false  
-tags: ['geoengenharia', 'produção', 'nuvens', 'artificiais']
 image:
   path: 'assets/solid/smog.svg'
 faicon: fa-smog  
+tags: ['análise', 'aparelho', 'artificiais', 'artificial', 'geoengenharia', 'nuvens', 'processo', 'produção']
 ---
 
 ## Detalhes

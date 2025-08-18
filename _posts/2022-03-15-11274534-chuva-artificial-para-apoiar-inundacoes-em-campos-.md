@@ -8,10 +8,10 @@ article_id: 11274534
 description: >
   2022-03-15-chuva-chuva
 website: https://www.freepatentsonline.com/11274534.pdf  
-tags: ['geoengenharia', 'chuva', 'artificial']
 image:
   path: 'assets/solid/cloud-rain.svg'
 faicon: fa-cloud-rain  
+tags: ['análise', 'artificial', 'chuva', 'geoengenharia']
 ---
 
 ## Detalhes

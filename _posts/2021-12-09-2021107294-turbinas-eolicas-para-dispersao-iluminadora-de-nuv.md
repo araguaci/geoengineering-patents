@@ -8,10 +8,10 @@ article_id: 2021107294
 description: >
   2021-12-09-dispersão-dispersão
 website: https://patentimages.storage.googleapis.com/ed/9c/89/9554bd5887cbaf/AU2021107294A4.pdf  
-tags: ['geoengenharia', 'dispersão', 'nuvens']
 image:
   path: 'assets/solid/wind.svg'
 faicon: fa-wind  
+tags: ['análise', 'dispersão', 'geoengenharia', 'nuvens']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 2527231
 description: >
   1950-10-24-método-geração
 website: https://www.freepatentsonline.com/2527231.pdf  
-tags: ['geoengenharia', 'geração', 'fumaça']
 image:
   path: 'assets/solid/smog.svg'
 faicon: fa-smog  
+tags: ['análise', 'fumaça', 'geoengenharia', 'geração', 'método']
 ---
 
 ## Detalhes

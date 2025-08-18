@@ -8,10 +8,10 @@ article_id: 20230117390
 description: >
   2023-04-20-sistema-tempestades
 website: https://patentimages.storage.googleapis.com/3f/ee/2e/433ceb94d6b529/US20230117390A1.pdf  
-tags: ['geoengenharia', 'tempestades', 'furacões', 'ciclones']
 image:
   path: 'assets/solid/wind.svg'
 faicon: fa-wind  
+tags: ['análise', 'ciclones', 'furacões', 'geoengenharia', 'método', 'sistema', 'tempestades']
 ---
 
 ## Detalhes

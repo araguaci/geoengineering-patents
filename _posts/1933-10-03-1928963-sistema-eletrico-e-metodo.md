@@ -8,10 +8,10 @@ article_id: 1928963
 description: >
   1933-10-03-sistema-sistema
 website: http://www.google.com/patents/US1928963?printsec=abstract\&dq=1928963\&ei=H29LUMLuEYW29QSVmoCICA#v=onepage\&q=1928963\&f=false  
-tags: ['geoengenharia', 'sistema', 'método']
 image:
   path: 'assets/solid/bolt.svg'
 faicon: fa-bolt  
+tags: ['análise', 'geoengenharia', 'método', 'sistema']
 ---
 
 ## Detalhes

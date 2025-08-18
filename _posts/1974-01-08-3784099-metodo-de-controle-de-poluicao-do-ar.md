@@ -8,10 +8,10 @@ article_id: 3784099
 description: >
   1974-01-08-método-controle
 website: http://www.google.com/patents/US3784099?printsec=abstract\&dq=3784099\&ei=SmhLUK3lO5OY9QSM0YHwBw#v=onepage\&q=3784099\&f=false  
-tags: ['geoengenharia', 'controle', 'ar']
 image:
   path: 'assets/solid/smog.svg'
 faicon: fa-smog  
+tags: ['análise', 'ar', 'controle', 'geoengenharia', 'método']
 ---
 
 ## Detalhes

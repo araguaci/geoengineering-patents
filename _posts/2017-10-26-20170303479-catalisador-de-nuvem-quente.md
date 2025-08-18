@@ -8,10 +8,10 @@ article_id: 20170303479
 description: >
   2017-10-26-método-nuvem
 website: https://www.freepatentsonline.com/20170303479.pdf  
-tags: ['geoengenharia', 'nuvem']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'geoengenharia', 'método', 'nuvem']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 3994437
 description: >
   1976-11-30-distribuição-distribuição
 website: https://patents.google.com/patent/US3994437A/en  
-tags: ['geoengenharia', 'distribuição']
 image:
   path: 'assets/solid/broadcast-tower.svg'
 faicon: fa-broadcast-tower  
+tags: ['análise', 'distribuição', 'geoengenharia']
 ---
 
 ## Detalhes

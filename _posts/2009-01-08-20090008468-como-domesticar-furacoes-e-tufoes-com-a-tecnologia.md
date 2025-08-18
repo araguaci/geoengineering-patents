@@ -8,10 +8,10 @@ article_id: 20090008468
 description: >
   2009-01-08-método-furacões
 website: https://www.freepatentsonline.com/20090008468.pdf  
-tags: ['geoengenharia', 'furacões']
 image:
   path: 'assets/solid/wind.svg'
 faicon: fa-wind  
+tags: ['análise', 'furacões', 'geoengenharia', 'método']
 ---
 
 ## Detalhes

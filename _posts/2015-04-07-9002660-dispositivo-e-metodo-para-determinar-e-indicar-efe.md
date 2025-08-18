@@ -8,10 +8,10 @@ article_id: 9002660
 description: >
   2015-04-07-dispositivo-clima
 website: https://www.freepatentsonline.com/9002660.pdf  
-tags: ['geoengenharia', 'clima', 'método']
 image:
   path: 'assets/solid/plane.svg'
 faicon: fa-plane  
+tags: ['análise', 'clima', 'dispositivo', 'geoengenharia', 'método']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 20230050373
 description: >
   2023-02-16-sistema-modificar
 website: https://patentimages.storage.googleapis.com/55/02/a4/41c9165eec5521/US20230050373A1.pdf  
-tags: ['geoengenharia', 'modificar', 'clima']
 image:
   path: 'assets/solid/bolt.svg'
 faicon: fa-bolt  
+tags: ['análise', 'clima', 'geoengenharia', 'modificar', 'sistema']
 ---
 
 ## Detalhes

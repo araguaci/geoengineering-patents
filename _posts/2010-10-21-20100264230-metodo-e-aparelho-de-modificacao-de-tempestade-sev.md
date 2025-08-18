@@ -8,10 +8,10 @@ article_id: 20100264230
 description: >
   2010-10-21-método-modificação
 website: https://patentimages.storage.googleapis.com/c3/12/3d/45ce46fc444607/US20100264230A1.pdf  
-tags: ['geoengenharia', 'modificação', 'tempestades']
 image:
   path: 'assets/solid/wind.svg'
 faicon: fa-wind  
+tags: ['análise', 'aparelho', 'geoengenharia', 'modificação', 'método', 'tempestades']
 ---
 
 ## Detalhes

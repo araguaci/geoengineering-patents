@@ -8,10 +8,10 @@ article_id: 2963975
 description: >
   1960-12-13-semeadura-semeadura
 website: http://www.google.com/patents/US2963975?printsec=abstract\&dq=2963975\&ei=R21LULSTKYTY8gTL6YDgCA#v=onepage\&q=2963975\&f=false  
-tags: ['geoengenharia', 'semeadura', 'nuvens']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'carbono', 'geoengenharia', 'nuvens', 'semeadura']
 ---
 
 ## Detalhes

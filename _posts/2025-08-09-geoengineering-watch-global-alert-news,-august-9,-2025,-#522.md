@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Geoengineering Watch Global Alert News, August 9, 2025, #522
 date: 2025-08-09 21:24:37 UTC
 website: https://geoengineeringwatch.org/geoengineering-watch-global-alert-news-august-9-2025-522/

@@ -8,10 +8,10 @@ article_id: 3410489
 description: >
   1968-11-12-sistema-aérea
 website: http://www.google.com/patents/US3410489?printsec=abstract\&dq=3410489\&ei=cWxLUOvME46a9QTLy4GoAw#v=onepage\&q=3410489\&f=false  
-tags: ['geoengenharia', 'aérea']
 image:
   path: 'assets/solid/plane.svg'
 faicon: fa-plane  
+tags: ['análise', 'aérea', 'geoengenharia', 'sistema']
 ---
 
 ## Detalhes

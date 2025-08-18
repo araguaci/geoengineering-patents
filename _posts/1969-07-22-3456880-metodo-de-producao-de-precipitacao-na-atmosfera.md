@@ -8,10 +8,10 @@ article_id: 3456880
 description: >
   1969-07-22-método-produção
 website: http://www.google.com/patents/US3456880?printsec=abstract\&dq=3456880\&ei=D2xLUNOgJYK29gS-4oDwDg#v=onepage\&q=3456880\&f=false  
-tags: ['geoengenharia', 'produção', 'precipitação']
 image:
   path: 'assets/solid/cloud-rain.svg'
 faicon: fa-cloud-rain  
+tags: ['análise', 'atmosfera', 'geoengenharia', 'método', 'precipitação', 'produção']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 9589473
 description: >
   2017-03-07-método-semeadura
 website: https://www.freepatentsonline.com/9589473.pdf  
-tags: ['geoengenharia', 'semeadura']
 image:
   path: 'assets/solid/map.svg'
 faicon: fa-map  
+tags: ['análise', 'geoengenharia', 'método', 'semeadura', 'sistema']
 ---
 
 ## Detalhes

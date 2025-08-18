@@ -8,10 +8,10 @@ article_id: WO2020148644A1
 description: >
   2020-07-23-composição-gelo
 website: https://patents.google.com/patent/WO2020148644A1/en  
-tags: ['geoengenharia', 'gelo', 'composição']
 image:
   path: 'assets/solid/snowflake.svg'
 faicon: fa-snowflake  
+tags: ['análise', 'composição', 'gelo', 'geoengenharia']
 ---
 
 ## Detalhes

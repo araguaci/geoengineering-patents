@@ -8,10 +8,10 @@ article_id: 3338476
 description: >
   1967-08-29-dispositivo-aerossol
 website: http://www.google.com/patents/US3338476?printsec=abstract\&dq=3338476\&ei=hGxLUNnOM4is8ATY74DwDQ#v=onepage\&q=3338476\&f=false  
-tags: ['geoengenharia', 'aerossol']
 image:
   path: 'assets/solid/flask.svg'
 faicon: fa-flask  
+tags: ['aerossol', 'análise', 'aquecimento', 'dispositivo', 'geoengenharia']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 7520237
 description: >
   2009-04-21-sistema-furacões
 website: https://www.freepatentsonline.com/7520237.pdf  
-tags: ['geoengenharia', 'furacões']
 image:
   path: 'assets/solid/ban.svg'
 faicon: fa-ban  
+tags: ['análise', 'furacões', 'geoengenharia', 'método', 'sistema']
 ---
 
 ## Detalhes

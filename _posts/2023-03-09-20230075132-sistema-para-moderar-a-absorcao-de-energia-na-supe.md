@@ -8,10 +8,10 @@ article_id: 20230075132
 description: >
   2023-03-09-sistema-controle
 website: https://patentimages.storage.googleapis.com/9d/a2/7f/4f714496d58274/US20230075132A1.pdf  
-tags: ['geoengenharia', 'controle', 'superfície', 'clima']
 image:
   path: 'assets/solid/globe.svg'
 faicon: fa-globe  
+tags: ['análise', 'clima', 'climático', 'controle', 'geoengenharia', 'sistema', 'superfície', 'terra']
 ---
 
 ## Detalhes

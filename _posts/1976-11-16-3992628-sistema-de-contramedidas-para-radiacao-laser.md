@@ -8,10 +8,10 @@ article_id: 3992628
 description: >
   1976-11-16-sistema-radiação
 website: https://patents.google.com/patent/US3992628A/en  
-tags: ['geoengenharia', 'radiação']
 image:
   path: 'assets/solid/radiation.svg'
 faicon: fa-radiation  
+tags: ['análise', 'geoengenharia', 'radiação', 'sistema']
 ---
 
 ## Detalhes

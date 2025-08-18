@@ -8,10 +8,10 @@ article_id: 20100127224
 description: >
   2010-05-27-aerossol-aerossol
 website: https://www.freepatentsonline.com/20100127224.pdf  
-tags: ['geoengenharia', 'aerossol', 'atmosférica', 'aquecimento']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['aerossol', 'análise', 'aquecimento', 'atmosférica', 'geoengenharia']
 ---
 
 ## Detalhes

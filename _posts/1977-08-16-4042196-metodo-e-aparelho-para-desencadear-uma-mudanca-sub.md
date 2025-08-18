@@ -8,10 +8,10 @@ article_id: 4042196
 description: >
   1977-08-16-método-terra
 website: https://patents.google.com/patent/US4042196A/en  
-tags: ['geoengenharia', 'terra', 'modificar']
 image:
   path: 'assets/solid/globe.svg'
 faicon: fa-globe  
+tags: ['análise', 'aparelho', 'geoengenharia', 'modificar', 'método', 'terra']
 ---
 
 ## Detalhes

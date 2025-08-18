@@ -1,9 +1,9 @@
 ---
 title: "Geoengenharia sob o Viés da Agenda 2030: Integração aos ODS"
-description: ""
+description: "A geoengenharia é apontada como ferramenta para a Agenda 2030 da ONU, buscando atingir metas como o ODS 13 (combate à mudança climática), ODS 7 (energia limpa) e ODS 11 (cidades sustentáveis), através de tecnologias para mitigar o aquecimento global."
 date: 2025-08-18T17:57:46.210Z
 preview: ""
-tags: ['5w2h', 'geoengenharia']
+tags: ['5w2h', 'geoengenharia', 'clima', 'ética']
 categories: [5w2h]
 image:
   path: 'assets/solid/cloud-rain.svg'

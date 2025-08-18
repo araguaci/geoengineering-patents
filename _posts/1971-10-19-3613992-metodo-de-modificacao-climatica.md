@@ -8,10 +8,10 @@ article_id: 3613992
 description: >
   1971-10-19-método-modificação
 website: http://www.google.com/patents/US3613992?printsec=abstract\&dq=3613992\&ei=EWlLUJ60OIfk9ASnj4DwBw#v=onepage\&q=3613992\&f=false  
-tags: ['geoengenharia', 'modificação']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'climática', 'geoengenharia', 'modificação', 'método']
 ---
 
 ## Detalhes

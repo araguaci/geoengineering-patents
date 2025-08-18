@@ -8,10 +8,10 @@ article_id: 3056556
 description: >
   1962-10-02-método-clima
 website: https://www.freepatentsonline.com/3056556.pdf  
-tags: ['geoengenharia', 'clima']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'clima', 'geoengenharia', 'método']
 ---
 
 ## Detalhes

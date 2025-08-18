@@ -8,10 +8,10 @@ article_id: 20210329922
 description: >
   2021-10-28-métodos-carbono
 website: https://patentimages.storage.googleapis.com/87/ce/40/ce0fdc19a93173/US20210329922A1.pdf  
-tags: ['geoengenharia', 'carbono', 'composições']
 image:
   path: 'assets/solid/leaf.svg'
 faicon: fa-leaf  
+tags: ['análise', 'carbono', 'composições', 'geoengenharia', 'métodos']
 ---
 
 ## Detalhes

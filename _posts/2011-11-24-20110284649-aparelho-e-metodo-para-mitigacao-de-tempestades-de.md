@@ -8,10 +8,10 @@ article_id: 20110284649
 description: >
   2011-11-24-aparelho-tempestades
 website: https://www.freepatentsonline.com/20110284649.pdf  
-tags: ['geoengenharia', 'tempestades']
 image:
   path: 'assets/solid/wind.svg'
 faicon: fa-wind  
+tags: ['análise', 'aparelho', 'geoengenharia', 'método', 'tempestades']
 ---
 
 ## Detalhes

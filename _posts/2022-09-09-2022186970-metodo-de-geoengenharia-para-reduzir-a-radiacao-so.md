@@ -8,10 +8,10 @@ article_id: 2022186970
 description: >
   2022-09-09-método-redução
 website: https://patentimages.storage.googleapis.com/63/47/4e/fc1b42eb4e5884/WO2022186970A1.pdf  
-tags: ['geoengenharia', 'redução', 'radiação', 'solar']
 image:
   path: 'assets/solid/sun.svg'
 faicon: fa-sun  
+tags: ['análise', 'geoengenharia', 'método', 'radiação', 'redução', 'solar']
 ---
 
 ## Detalhes

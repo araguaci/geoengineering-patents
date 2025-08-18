@@ -8,10 +8,10 @@ article_id: 3788543
 description: >
   1974-01-29-gerador-partículas
 website: https://www.freepatentsonline.com/3788543.pdf  
-tags: ['geoengenharia', 'partículas', 'tamanho']
 image:
   path: 'assets/solid/flask.svg'
 faicon: fa-flask  
+tags: ['análise', 'geoengenharia', 'gerador', 'partículas', 'tamanho']
 ---
 
 ## Detalhes

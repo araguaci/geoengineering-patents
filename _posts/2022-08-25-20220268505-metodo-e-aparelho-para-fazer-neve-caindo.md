@@ -8,10 +8,10 @@ article_id: 20220268505
 description: >
   2022-08-25-método-neve
 website: https://patentimages.storage.googleapis.com/da/13/04/b4220808f8bbba/US20220268505A1.pdf  
-tags: ['geoengenharia', 'neve', 'aparelho']
 image:
   path: 'assets/solid/snowflake.svg'
 faicon: fa-snowflake  
+tags: ['análise', 'aparelho', 'geoengenharia', 'método', 'neve']
 ---
 
 ## Detalhes

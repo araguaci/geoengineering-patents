@@ -8,10 +8,10 @@ article_id: 9924640
 description: >
   2018-03-27-atmosfera-modificar
 website: https://patentimages.storage.googleapis.com/25/87/73/cc0cc4bbbfb22d/US9924640.pdf  
-tags: ['geoengenharia', 'modificar', 'atmosfera']
 image:
   path: 'assets/solid/sun.svg'
 faicon: fa-sun  
+tags: ['análise', 'atmosfera', 'dispersão', 'geoengenharia', 'modificar', 'solar']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 3802971
 description: >
   1974-04-09-mistura-modificação
 website: https://www.freepatentsonline.com/3802971.pdf  
-tags: ['geoengenharia', 'modificação', 'mistura']
 image:
   path: 'assets/solid/flask.svg'
 faicon: fa-flask  
+tags: ['análise', 'climática', 'geoengenharia', 'mistura', 'modificação']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 2835530
 description: >
   1958-05-20-processo-atmosférica
 website: https://www.freepatentsonline.com/2835530.pdf  
-tags: ['geoengenharia', 'atmosférica', 'nevoeiro']
 image:
   path: 'assets/solid/tint.svg'
 faicon: fa-tint  
+tags: ['análise', 'atmosférica', 'geoengenharia', 'nevoeiro', 'processo']
 ---
 
 ## Detalhes

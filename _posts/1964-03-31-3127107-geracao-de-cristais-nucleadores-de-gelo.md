@@ -8,10 +8,10 @@ article_id: 3127107
 description: >
   1964-03-31-geração-geração
 website: http://www.google.com/patents/US3127107?printsec=abstract\&dq=3127107\&ei=Hm1LUN69PIf28wSozYDoCQ#v=onepage\&q=3127107\&f=false  
-tags: ['geoengenharia', 'geração', 'gelo']
 image:
   path: 'assets/solid/snowflake.svg'
 faicon: fa-snowflake  
+tags: ['análise', 'gelo', 'geoengenharia', 'geração']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 1358084
 description: >
   1920-11-09-método-produção
 website: https://www.freepatentsonline.com/1358084.pdf  
-tags: ['geoengenharia', 'produção', 'neblina']
 image:
   path: 'assets/solid/smog.svg'
 faicon: fa-smog  
+tags: ['análise', 'geoengenharia', 'método', 'neblina', 'produção']
 ---
 
 ## Detalhes

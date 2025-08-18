@@ -8,10 +8,10 @@ article_id: 3418184
 description: >
   1968-12-24-fumaça-fumaça
 website: https://www.freepatentsonline.com/3418184.pdf  
-tags: ['geoengenharia', 'fumaça']
 image:
   path: 'assets/solid/smog.svg'
 faicon: fa-smog  
+tags: ['análise', 'fumaça', 'geoengenharia']
 ---
 
 ## Detalhes

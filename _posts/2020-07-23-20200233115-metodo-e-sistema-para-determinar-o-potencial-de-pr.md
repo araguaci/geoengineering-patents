@@ -8,10 +8,10 @@ article_id: 20200233115
 description: >
   2020-07-23-método-propagação
 website: https://www.freepatentsonline.com/20200233115.pdf  
-tags: ['geoengenharia', 'propagação', 'nuvens']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'geoengenharia', 'método', 'nuvens', 'propagação', 'sistema']
 ---
 
 ## Detalhes

@@ -8,10 +8,10 @@ article_id: 4009828
 description: >
   1977-03-01-nuvens-nuvens
 website: https://www.freepatentsonline.com/4009828.pdf  
-tags: ['geoengenharia', 'nuvens']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'geoengenharia', 'nuvens']
 ---
 
 ## Detalhes

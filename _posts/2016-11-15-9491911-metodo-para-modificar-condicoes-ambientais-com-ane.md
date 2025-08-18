@@ -8,10 +8,10 @@ article_id: 9491911
 description: >
   2016-11-15-método-modificar
 website: https://patentimages.storage.googleapis.com/09/44/9b/8edd8cb8066599/US9491911.pdf  
-tags: ['geoengenharia', 'modificar', 'material']
 image:
   path: 'assets/solid/magnet.svg'
 faicon: fa-magnet  
+tags: ['análise', 'geoengenharia', 'material', 'modificar', 'método']
 ---
 
 ## Detalhes

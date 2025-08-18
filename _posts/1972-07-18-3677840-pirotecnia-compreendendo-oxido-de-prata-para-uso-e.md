@@ -8,10 +8,10 @@ article_id: 3677840
 description: >
   1972-07-18-modificação-modificação
 website: http://www.google.com/patents/US3677840?printsec=abstract\&dq=3677840\&ei=kGhLUIHjAYim8gTr0oGQAQ#v=onepage\&q=3677840\&f=false  
-tags: ['geoengenharia', 'modificação', 'climática']
 image:
   path: 'assets/solid/flask.svg'
 faicon: fa-flask  
+tags: ['análise', 'climática', 'geoengenharia', 'modificação']
 ---
 
 ## Detalhes

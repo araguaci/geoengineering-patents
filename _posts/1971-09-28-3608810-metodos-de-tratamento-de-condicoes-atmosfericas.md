@@ -8,10 +8,10 @@ article_id: 3608810
 description: >
   1971-09-28-métodos-atmosféricas
 website: http://www.google.com/patents/US3608810?printsec=abstract\&dq=3608810\&ei=JmpLUJjBLpHo8wSv9IGwBA#v=onepage\&q=3608810\&f=false  
-tags: ['geoengenharia', 'atmosféricas']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'atmosféricas', 'geoengenharia', 'métodos']
 ---
 
 ## Detalhes

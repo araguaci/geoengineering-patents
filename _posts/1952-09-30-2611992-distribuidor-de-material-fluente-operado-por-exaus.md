@@ -8,10 +8,10 @@ article_id: 2611992
 description: >
   1952-09-30-distribuição-distribuição
 website: https://www.freepatentsonline.com/2611992.pdf  
-tags: ['geoengenharia', 'distribuição']
 image:
   path: 'assets/solid/plane.svg'
 faicon: fa-plane  
+tags: ['análise', 'distribuição', 'geoengenharia', 'material']
 ---
 
 ## Detalhes

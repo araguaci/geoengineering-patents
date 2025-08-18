@@ -8,10 +8,10 @@ article_id: 3131131
 description: >
   1964-04-28-mistura-mistura
 website: http://www.google.com/patents/US3131131?printsec=abstract\&dq=3131131\&ei=_mxLUKf0DYym8ASA4YH4Bw#v=onepage\&q=3131131\&f=false  
-tags: ['geoengenharia', 'mistura']
 image:
   path: 'assets/solid/flask.svg'
 faicon: fa-flask  
+tags: ['análise', 'geoengenharia', 'mistura']
 ---
 
 ## Detalhes

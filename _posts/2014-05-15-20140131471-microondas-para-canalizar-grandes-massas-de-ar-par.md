@@ -8,10 +8,10 @@ article_id: 20140131471
 description: >
   2014-05-15-ondas-ondas
 website: https://www.freepatentsonline.com/20140131471.pdf  
-tags: ['geoengenharia', 'ondas', 'ar', 'modificação']
 image:
   path: 'assets/solid/wave-square.svg'
 faicon: fa-wave-square  
+tags: ['análise', 'ar', 'climática', 'geoengenharia', 'modificação', 'ondas']
 ---
 
 ## Detalhes

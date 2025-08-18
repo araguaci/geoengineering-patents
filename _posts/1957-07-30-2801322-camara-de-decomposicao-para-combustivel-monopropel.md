@@ -8,10 +8,10 @@ article_id: 2801322
 description: >
   1957-07-30-composição-composição
 website: http://www.google.com/patents/US2801322?printsec=abstract\&dq=2801322\&ei=lW1LUOL0Co-89gSLkYGgCw#v=onepage\&q=2801322\&f=false  
-tags: ['geoengenharia', 'composição']
 image:
   path: 'assets/solid/flask.svg'
 faicon: fa-flask  
+tags: ['análise', 'composição', 'geoengenharia']
 ---
 
 ## Detalhes

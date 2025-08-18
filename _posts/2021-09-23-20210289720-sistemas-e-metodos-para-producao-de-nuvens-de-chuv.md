@@ -8,10 +8,10 @@ article_id: 20210289720
 description: >
   2021-09-23-sistemas-produção
 website: https://www.freepatentsonline.com/20210289720.pdf  
-tags: ['geoengenharia', 'produção', 'nuvens']
 image:
   path: 'assets/solid/cloud-rain.svg'
 faicon: fa-cloud-rain  
+tags: ['análise', 'chuva', 'geoengenharia', 'métodos', 'nuvens', 'produção', 'sistemas']
 ---
 
 ## Detalhes

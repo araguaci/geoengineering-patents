@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Geoengineering Watch Global Alert News, July 12, 2025, #518
 date: 2025-07-12 23:38:23 UTC
 website: https://geoengineeringwatch.org/geoengineering-watch-global-alert-news-july-12-2025-518/

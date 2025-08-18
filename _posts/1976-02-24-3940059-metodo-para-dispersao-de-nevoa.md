@@ -8,10 +8,10 @@ article_id: 3940059
 description: >
   1976-02-24-método-dispersão
 website: https://www.scribd.com/document/428429472/Us-3940059  
-tags: ['geoengenharia', 'dispersão', 'névoa']
 image:
   path: 'assets/solid/smog.svg'
 faicon: fa-smog  
+tags: ['análise', 'dispersão', 'geoengenharia', 'método', 'névoa']
 ---
 
 ## Detalhes

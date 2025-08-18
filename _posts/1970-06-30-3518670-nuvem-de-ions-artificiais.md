@@ -8,10 +8,10 @@ article_id: 3518670
 description: >
   1970-06-30-nuvem-artificiais
 website: http://www.google.com/patents/US3518670?printsec=abstract\&dq=3518670\&ei=SWtLUKuuCIiE8ASkhIGYDw#v=onepage\&q=3518670\&f=false  
-tags: ['geoengenharia', 'artificiais', 'nuvem']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'artificiais', 'artificial', 'geoengenharia', 'nuvem']
 ---
 
 ## Detalhes

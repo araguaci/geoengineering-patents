@@ -8,10 +8,10 @@ article_id: 8439278
 description: >
   2013-05-14-aparelho-produção
 website: https://www.freepatentsonline.com/8439278.pdf  
-tags: ['geoengenharia', 'produção', 'vapor', 'chuva']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'aparelho', 'artificial', 'chuva', 'geoengenharia', 'método', 'produção', 'vapor', 'água']
 ---
 
 ## Detalhes

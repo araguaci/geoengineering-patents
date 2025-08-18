@@ -8,10 +8,10 @@ article_id: 7645326
 description: >
   2010-01-12-ondas-ondas
 website: http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2\&Sect2=HITOFF\&p=1\&u=/netahtml/search-bool.html\&r=3\&f=G\&l=50\&co1=AND\&d=ptxt\&s1=5003186\&OS=5003186\&RS=5003186  
-tags: ['geoengenharia', 'ondas']
 image:
   path: 'assets/solid/tags.svg'
 faicon: fa-tags  
+tags: ['análise', 'geoengenharia', 'ondas']
 ---
 
 ## Detalhes

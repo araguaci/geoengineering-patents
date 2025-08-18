@@ -8,10 +8,10 @@ article_id: 2986360
 description: >
   1962-05-30-dispositivo-aérea
 website: http://www.google.com/patents/US2986360?printsec=abstract\&dq=2986360\&ei=Wm1LUPSTLI-O8wSfooGgBQ#v=onepage\&q=2986360\&f=false  
-tags: ['geoengenharia', 'aérea']
 image:
   path: 'assets/solid/plane.svg'
 faicon: fa-plane  
+tags: ['análise', 'aérea', 'dispositivo', 'geoengenharia']
 ---
 
 ## Detalhes

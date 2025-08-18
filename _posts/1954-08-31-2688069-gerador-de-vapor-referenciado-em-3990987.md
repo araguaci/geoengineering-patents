@@ -8,10 +8,10 @@ article_id: 2688069
 description: >
   1954-08-31-gerador-vapor
 website: http://www.google.com/patents/US2688069?printsec=abstract\&dq=2688069\&ei=021LUOutJ4-W8gTah4HYDA#v=onepage\&q=2688069\&f=false  
-tags: ['geoengenharia', 'vapor']
 image:
   path: 'assets/solid/cloud.svg'
 faicon: fa-cloud  
+tags: ['análise', 'geoengenharia', 'gerador', 'vapor']
 ---
 
 ## Detalhes

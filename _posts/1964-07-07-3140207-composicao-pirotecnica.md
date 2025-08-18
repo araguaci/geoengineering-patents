@@ -8,10 +8,10 @@ article_id: 3140207
 description: >
   1964-07-07-composição-composição
 website: https://www.freepatentsonline.com/3140207.pdf  
-tags: ['geoengenharia', 'composição']
 image:
   path: 'assets/solid/flask.svg'
 faicon: fa-flask  
+tags: ['análise', 'composição', 'geoengenharia']
 ---
 
 ## Detalhes

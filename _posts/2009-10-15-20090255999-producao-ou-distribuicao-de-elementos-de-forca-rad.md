@@ -8,10 +8,10 @@ article_id: 20090255999
 description: >
   2009-10-15-produção-produção
 website: https://patentimages.storage.googleapis.com/54/89/0a/cc842b77b2bf04/US20090255999A1.pdf  
-tags: ['geoengenharia', 'produção', 'radiação']
 image:
   path: 'assets/solid/radiation.svg'
 faicon: fa-radiation  
+tags: ['análise', 'distribuição', 'geoengenharia', 'produção', 'radiação']
 ---
 
 ## Detalhes

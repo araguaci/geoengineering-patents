@@ -8,10 +8,10 @@ article_id: 3808595
 description: >
   1974-04-30-sistema-distribuição
 website: http://www.google.com/patents/US3808595?printsec=abstract\&dq=3808595\&ei=B2hLULOsOoKs8ATWoYHgCw#v=onepage\&q=3808595\&f=false  
-tags: ['geoengenharia', 'distribuição']
 image:
   path: 'assets/solid/plane.svg'
 faicon: fa-plane  
+tags: ['análise', 'distribuição', 'geoengenharia', 'sistema']
 ---
 
 ## Detalhes

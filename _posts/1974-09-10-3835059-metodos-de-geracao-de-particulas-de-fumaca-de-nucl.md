@@ -8,10 +8,10 @@ article_id: 3835059
 description: >
   1974-09-10-métodos-geração
 website: http://www.google.com/patents/US3835059?printsec=abstract\&dq=3835059\&ei=1mdLUI-dEYro8QTOpIDICg#v=onepage\&q=3835059\&f=false  
-tags: ['geoengenharia', 'geração', 'partículas', 'gelo']
 image:
   path: 'assets/solid/snowflake.svg'
 faicon: fa-snowflake  
+tags: ['análise', 'aparelhos', 'climática', 'fumaça', 'gelo', 'geoengenharia', 'geração', 'modificação', 'métodos', 'partículas']
 ---
 
 ## Detalhes
