@@ -28,6 +28,17 @@ Os mecanismos podem gerar riscos operacionais, como falhas técnicas em disposit
 ## 🎯 Conclusão
 A geoengenharia otimizada opera por meio de intervenções precisas e integradas, demonstrando potencial para gerenciamento climático eficaz. No entanto, sua execução demanda avanços contínuos em monitoramento e simulação para garantir segurança e eficácia.
 
+## 📚 5W2H
+
+5W2H é um checklist para planejar tarefas. Ele usa sete perguntas para garantir clareza: O Quê (What), Porquê (Why), Quem (Who), Onde (Where), Quando (When), Como (How) e Quanto (How much)
+
+- [O que é geoengenharia otimizada?](/posts/o-que-e-geoengenharia-otimizada/)
+- [Quem são os atores?](/posts/quem-sao-os-atores-da-geoengenharia-otimizada/)
+- [Quando e como estas tecnologias nasceram?](/posts/quando-a-evolucao-historica-da-geoengenharia/)
+- [Onde impactam mais?](/posts/onde-o-mapa-global-da-geoengenharia/)
+- [Por que adotar (ou não) essa abordagem?](/posts/porque-realizar-geoengenharia-otimizada/)
+- ~~Como funcionam na prática?~~
+- [Quanto custam — e quais riscos econômicos trazem?](/posts/quanto-a-economia-da-geoengenharia/)
 
 ---- 
 

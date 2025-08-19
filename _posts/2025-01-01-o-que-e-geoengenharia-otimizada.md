@@ -9,7 +9,6 @@ categories: [5w2h]
 image:
   path: 'assets/solid/question-circle.svg'
 faicon: fa-question-circle  
-website: /categories/geoengenharia/
 ---
 
 # O Que é Geoengenharia Otimizada? 🌍
@@ -29,6 +28,17 @@ Embora promissora, a geoengenharia otimizada apresenta riscos significativos, in
 ## 🏁 Conclusão
 Em síntese, a geoengenharia otimizada representa uma ferramenta poderosa para enfrentar desafios climáticos, mas requer governança ética e científica rigorosa para evitar consequências indesejadas. Sua implementação deve priorizar sustentabilidade e equidade internacional.
 
+## 📚 5W2H
+
+5W2H é um checklist para planejar tarefas. Ele usa sete perguntas para garantir clareza: O Quê (What), Porquê (Why), Quem (Who), Onde (Where), Quando (When), Como (How) e Quanto (How much)
+
+- ~~O que é geoengenharia otimizada~~
+- [Quem são os atores?](/posts/quem-sao-os-atores-da-geoengenharia-otimizada/)
+- [Quando e como estas tecnologias nasceram?](/posts/quando-a-evolucao-historica-da-geoengenharia/)
+- [Onde impactam mais?](/posts/onde-o-mapa-global-da-geoengenharia/)
+- [Por que adotar (ou não) essa abordagem?](/posts/porque-realizar-geoengenharia-otimizada/)
+- [Como funcionam na prática?](/posts/como-funciona-a-geoengenharia-otimizada/)  
+- [Quanto custam — e quais riscos econômicos trazem?](/posts/quanto-a-economia-da-geoengenharia/)
 
 ---- 
 

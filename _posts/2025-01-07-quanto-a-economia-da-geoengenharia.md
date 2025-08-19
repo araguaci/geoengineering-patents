@@ -29,6 +29,17 @@ Os riscos econômicos são tão significativos quanto os benefícios. O primeiro
 ## 🎯 Conclusão
 A economia da geoengenharia é uma faca de dois gumes. Por um lado, os incentivos financeiros para desenvolver tecnologias que protejam trilhões de dólares em ativos globais são imensos e aceleram a inovação. Por outro, esses mesmos incentivos podem levar a soluções apressadas, criar monopólios perigosos e desviar o foco da necessidade fundamental de reduzir as emissões de gases de efeito estufa. Responder à pergunta "Quanto?" revela que, sem uma regulação econômica global robusta, a busca por estabilizar o clima pode acabar por desestabilizar a economia mundial de maneiras novas e imprevisíveis.
 
+## 📚 5W2H
+
+5W2H é um checklist para planejar tarefas. Ele usa sete perguntas para garantir clareza: O Quê (What), Porquê (Why), Quem (Who), Onde (Where), Quando (When), Como (How) e Quanto (How much)
+
+- [O que é geoengenharia otimizada?](/posts/o-que-e-geoengenharia-otimizada/)
+- [Quem são os atores?](/posts/quem-sao-os-atores-da-geoengenharia-otimizada/)
+- [Quando e como estas tecnologias nasceram?](/posts/quando-a-evolucao-historica-da-geoengenharia/)
+- [Onde impactam mais?](/posts/onde-o-mapa-global-da-geoengenharia/)
+- [Por que adotar (ou não) essa abordagem?](/posts/porque-realizar-geoengenharia-otimizada/)
+- [Como funcionam na prática?](/posts/como-funciona-a-geoengenharia-otimizada/)  
+- ~~Quanto custam — e quais riscos econômicos trazem?~~
 
 ---- 
 

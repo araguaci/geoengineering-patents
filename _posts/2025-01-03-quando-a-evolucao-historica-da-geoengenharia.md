@@ -35,6 +35,17 @@ O risco da evolução histórica da geoengenharia é a aceleração tecnológica
 ## 🎯 Conclusão
 A linha do tempo da geoengenharia é uma história da crescente ambição humana em controlar a natureza. De simples geradores de neblina a sistemas planetários gerenciados por IA, a evolução é inegável. O "Quando" nos ensina que o momento atual é crítico: estamos no limiar de uma era em que o controle climático em larga escala é tecnologicamente viável. Esta constatação torna o debate sobre sua governança não apenas importante, mas a discussão mais urgente do nosso tempo.
 
+## 📚 5W2H
+
+5W2H é um checklist para planejar tarefas. Ele usa sete perguntas para garantir clareza: O Quê (What), Porquê (Why), Quem (Who), Onde (Where), Quando (When), Como (How) e Quanto (How much)
+
+- [O que é geoengenharia otimizada?](/posts/o-que-e-geoengenharia-otimizada/)
+- [Quem são os atores?](/posts/quem-sao-os-atores-da-geoengenharia-otimizada/)
+- ~~Quando e como estas tecnologias nasceram?~~
+- [Onde impactam mais?](/posts/onde-o-mapa-global-da-geoengenharia/)
+- [Por que adotar (ou não) essa abordagem?](/posts/porque-realizar-geoengenharia-otimizada/)
+- [Como funcionam na prática?](/posts/como-funciona-a-geoengenharia-otimizada/)  
+- [Quanto custam — e quais riscos econômicos trazem?](/posts/quanto-a-economia-da-geoengenharia/)
 
 ---- 
 

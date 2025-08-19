@@ -29,6 +29,17 @@ O principal risco geopolítico de "Onde" é a desigualdade e o potencial de conf
 ## 🎯 Conclusão
 O mapa da geoengenharia revela uma profunda assimetria global. A inovação está concentrada, a implementação é localizada, mas o impacto é planetário. Responder à pergunta "Onde?" nos força a confrontar a necessidade urgente de um diálogo global e de uma estrutura de governança que garanta que as decisões sobre o nosso clima compartilhado sejam tomadas de forma equitativa, e não apenas pelos países onde as patentes são registradas.
 
+## 📚 5W2H
+
+5W2H é um checklist para planejar tarefas. Ele usa sete perguntas para garantir clareza: O Quê (What), Porquê (Why), Quem (Who), Onde (Where), Quando (When), Como (How) e Quanto (How much)
+
+- [O que é geoengenharia otimizada?](/posts/o-que-e-geoengenharia-otimizada/)
+- [Quem são os atores?](/posts/quem-sao-os-atores-da-geoengenharia-otimizada/)
+- [Quando e como estas tecnologias nasceram?](/posts/quando-a-evolucao-historica-da-geoengenharia/)
+- ~~Onde impactam mais?~~
+- [Por que adotar (ou não) essa abordagem?](/posts/porque-realizar-geoengenharia-otimizada/)
+- [Como funcionam na prática?](/posts/como-funciona-a-geoengenharia-otimizada/)  
+- [Quanto custam — e quais riscos econômicos trazem?](/posts/quanto-a-economia-da-geoengenharia/)
 
 ---- 
 

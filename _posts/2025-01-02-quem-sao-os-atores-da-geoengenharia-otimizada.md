@@ -29,6 +29,17 @@ O principal risco associado a "Quem" desenvolve a geoengenharia reside nos confl
 ## 🎯 Conclusão
 A geoengenharia é impulsionada por um ecossistema diversificado, onde a busca por segurança, lucro e conhecimento se entrelaçam. A identidade desses atores revela que a questão não é apenas científica, mas profundamente política e econômica. Sem uma estrutura de governança internacional transparente e inclusiva, que defina responsabilidades e limites éticos, corremos o risco de que as ferramentas projetadas para salvar o planeta se tornem instrumentos de poder e desigualdade nas mãos de uma elite tecnológica e geopolítica.
 
+## 📚 5W2H
+
+5W2H é um checklist para planejar tarefas. Ele usa sete perguntas para garantir clareza: O Quê (What), Porquê (Why), Quem (Who), Onde (Where), Quando (When), Como (How) e Quanto (How much)
+
+- [O que é geoengenharia otimizada?](/posts/o-que-e-geoengenharia-otimizada/)
+- ~~Quem são os atores?~~
+- [Quando e como estas tecnologias nasceram?](/posts/quando-a-evolucao-historica-da-geoengenharia/)
+- [Onde impactam mais?](/posts/onde-o-mapa-global-da-geoengenharia/)
+- [Por que adotar (ou não) essa abordagem?](/posts/porque-realizar-geoengenharia-otimizada/)
+- [Como funcionam na prática?](/posts/como-funciona-a-geoengenharia-otimizada/)  
+- [Quanto custam — e quais riscos econômicos trazem?](/posts/quanto-a-economia-da-geoengenharia/)
 
 ---- 
 

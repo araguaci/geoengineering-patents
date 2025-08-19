@@ -98,9 +98,9 @@ Críticas e análises conservadoras alertam para:
 
 ***
 
-## 📚 Para saber mais…
+## 📚 5W2H - Para saber mais… 
 
-Explore os artigos recomendados, confira as listas de patentes por categoria ou consulte temas como:
+5W2H é um checklist para planejar tarefas. Ele usa sete perguntas para garantir clareza: O Quê (What), Porquê (Why), Quem (Who), Onde (Where), Quando (When), Como (How) e Quanto (How much)
 
 - [O que é geoengenharia otimizada?](/posts/o-que-e-geoengenharia-otimizada/)
 - [Quem são os atores?](/posts/quem-sao-os-atores-da-geoengenharia-otimizada/)
@@ -120,6 +120,11 @@ Explore os artigos recomendados, confira as listas de patentes por categoria ou 
 - ⚠️ Grandes dilemas éticos e ambientais.
 - 🌱 Integração com a Agenda 2030.
 - 🏛️ Debate intenso sobre soberania.
+
+---- 
+
+## Patentes
+- [Verificar Patentes](/categories/geoengenharia/)
 
 ***
 

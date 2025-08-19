@@ -28,7 +28,18 @@ Apesar dos benefícios, riscos incluem dependência excessiva de tecnologias nã
 ## 🏁 Conclusão
 A geoengenharia otimizada é impulsionada por necessidades ambientais, econômicas e científicas urgentes, oferecendo uma via complementar para sustentabilidade. Sua adoção deve ser guiada por princípios éticos e colaboração global para maximizar impactos positivos.
 
+## 📚 5W2H
 
+5W2H é um checklist para planejar tarefas. Ele usa sete perguntas para garantir clareza: O Quê (What), Porquê (Why), Quem (Who), Onde (Where), Quando (When), Como (How) e Quanto (How much)
+
+- [O que é geoengenharia otimizada?](/posts/o-que-e-geoengenharia-otimizada/)
+- [Quem são os atores?](/posts/quem-sao-os-atores-da-geoengenharia-otimizada/)
+- [Quando e como estas tecnologias nasceram?](/posts/quando-a-evolucao-historica-da-geoengenharia/)
+- [Onde impactam mais?](/posts/onde-o-mapa-global-da-geoengenharia/)
+- ~~Por que adotar (ou não) essa abordagem?~~
+- [Como funcionam na prática?](/posts/como-funciona-a-geoengenharia-otimizada/)  
+- [Quanto custam — e quais riscos econômicos trazem?](/posts/quanto-a-economia-da-geoengenharia/)
+ 
 ---- 
 
 ## Patentes
