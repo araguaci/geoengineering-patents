@@ -17,3 +17,4 @@ end
 
 gem 'feedjira'
 gem 'fileutils'
+gem 'wdm'

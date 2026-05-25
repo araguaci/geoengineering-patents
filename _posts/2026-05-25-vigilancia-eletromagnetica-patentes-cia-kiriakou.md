@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Da Geoengenharia à Vigilância: Cinco Patentes que Documentam a Origem Tecnológica do que a CIA já Sabe Fazer"
-date: 2025-05-25 00:00:00 -0300
+date: 2026-05-25 00:00:00 -0300
 description: >-
   Análise cruzada de cinco patentes do repositório que demonstram como as tecnologias
   de modificação climática e sensoriamento remoto evoluíram para as capacidades de

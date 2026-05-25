@@ -22,6 +22,10 @@ const include = [
   
     '/timeline/',
   
+    '/destaques/',
+  
+    '/vigilancia/',
+  
     '/pinect/',
   
     '/categories/',
