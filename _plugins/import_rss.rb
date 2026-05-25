@@ -7,6 +7,20 @@ require 'open-uri'  # Adicionado para fetching páginas
 
 feed_url = 'https://geoengineeringwatch.org/feed/'  # Feed válido
 
+def yaml_quote(value)
+  string = value.to_s
+  string = string.gsub('\\', '\\\\').gsub('"', '\\"')
+  "\"#{string}\""
+end
+
+def slugify(text)
+  text.to_s.downcase
+      .gsub(/[^a-z0-9\s-]/, '')
+      .gsub(/\s+/, '-')
+      .gsub(/-+/, '-')
+      .gsub(/\A-|-\z/, '')
+end
+
 def fetch_content(url, max_redirects = 5)
   raise ArgumentError, 'Muitos redirecionamentos' if max_redirects == 0
   uri = URI(url)
@@ -54,9 +68,24 @@ begin
     body += full_details if full_details  # Adiciona detalhes completos
     body = entry.summary if body.empty?  # Fallback se nada disponível
 
-    filename = "_posts/#{entry.published.strftime('%Y-%m-%d')}-#{entry.title.downcase.gsub(/\s+/, '-')}.md"
+    slug = slugify(entry.title)
+    slug = 'rss-entry' if slug.empty?
+    filename = "_posts/#{entry.published.strftime('%Y-%m-%d')}-#{slug}.md"
     FileUtils.mkdir_p(File.dirname(filename))
-    File.write(filename, "---\nlayout: page\ntitle: #{entry.title}\ndate: #{entry.published}\nwebsite: #{entry.url}\ncategories: [rss]\ntags: [rss]\nimage:\n  path: 'assets/solid/rss.svg'\nfaicon: fa-rss\n---\n\n#{body}\n\n[<i class='fas fa-link'></i>Link](#{entry.url})")
+    front_matter = <<~YAML
+      ---
+      layout: page
+      title: #{yaml_quote(entry.title)}
+      date: #{entry.published}
+      website: #{yaml_quote(entry.url)}
+      categories: [rss]
+      tags: [rss]
+      image:
+        path: 'assets/solid/rss.svg'
+      faicon: fa-rss
+      ---
+    YAML
+    File.write(filename, "#{front_matter}\n#{body}\n\n[<i class='fas fa-link'></i>Link](#{entry.url})")
   end
   puts "Importação concluída. #{feed.entries.size} entradas processadas."
 rescue Feedjira::NoParserAvailable => e
