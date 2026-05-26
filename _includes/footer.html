@@ -23,7 +23,16 @@
   </p>
 
   <p>
-    <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgeoengenharia.vercel.app%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgeoengenharia.vercel.app%2F&countColor=%23263759" /></a>
+    {%- assign visitor_path = site.url | uri_escape -%}
+    <a href="https://visitorbadge.io/status?path={{ visitor_path }}">
+      <img
+        src="https://api.visitorbadge.io/api/combined?path={{ visitor_path }}&label=VISITORS&labelColor=%23555&countColor=%23263759&style=default&labelStyle=upper"
+        alt="Contador de visitantes"
+        loading="lazy"
+        width="132"
+        height="28"
+      />
+    </a>
   </p>
   <p>
     {%- capture _platform -%}
