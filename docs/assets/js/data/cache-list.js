@@ -26,6 +26,8 @@ const include = [
   
     '/vigilancia/',
   
+    '/POLITICA-EDITORIAL-PADRAO-FORENSE/',
+  
     '/pinect/',
   
     '/categories/',
