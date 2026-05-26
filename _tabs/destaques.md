@@ -31,7 +31,7 @@ Curadoria dos **12 artigos mais relevantes** deste repositório — selecionados
 
 <article class="col">
   <a href="/posts/full-spectrum-dominance-lawfare-brasil-sintese/" class="post-preview card h-100 border-0 shadow-sm text-decoration-none">
-    <img src="/assets/img/posts/fsd-brasil-cover.png" class="card-img-top" alt="Full-Spectrum Dominance Brasil" loading="lazy">
+    <img src="/assets/img/posts/fsd-brasil-cover.webp" class="card-img-top" alt="Full-Spectrum Dominance Brasil" loading="lazy">
     <div class="card-body d-flex flex-column">
       <span class="badge rounded-pill bg-danger align-self-start mb-2">CRÍTICO</span>
       <h2 class="card-title h5 text-body">Full-Spectrum Dominance: Lawfare Brasileiro</h2>
@@ -55,7 +55,7 @@ Curadoria dos **12 artigos mais relevantes** deste repositório — selecionados
 
 <article class="col">
   <a href="/posts/us5800481-excitacao-termica-ressonancias-sensoriais/" class="post-preview card h-100 border-0 shadow-sm text-decoration-none">
-    <img src="/assets/img/patents/sensory-resonance.png" class="card-img-top" alt="US5800481" loading="lazy">
+    <img src="/assets/img/patents/sensory-resonance.webp" class="card-img-top" alt="US5800481" loading="lazy">
     <div class="card-body d-flex flex-column">
       <span class="badge rounded-pill bg-danger align-self-start mb-2">CRÍTICO</span>
       <h2 class="card-title h5 text-body">US5800481 · Ressonâncias Sensoriais (1998)</h2>
@@ -67,7 +67,7 @@ Curadoria dos **12 artigos mais relevantes** deste repositório — selecionados
 
 <article class="col">
   <a href="/posts/us20130015260-microwave-radar-armamento/" class="post-preview card h-100 border-0 shadow-sm text-decoration-none">
-    <img src="/assets/img/patents/electromagnetic-pulse.png" class="card-img-top" alt="US20130015260" loading="lazy">
+    <img src="/assets/img/patents/electromagnetic-pulse.webp" class="card-img-top" alt="US20130015260" loading="lazy">
     <div class="card-body d-flex flex-column">
       <span class="badge rounded-pill bg-danger align-self-start mb-2">CRÍTICO</span>
       <h2 class="card-title h5 text-body">US20130015260 · Microondas/Radar/EMP (2013)</h2>
@@ -79,7 +79,7 @@ Curadoria dos **12 artigos mais relevantes** deste repositório — selecionados
 
 <article class="col">
   <a href="/posts/fsd-dominio-informacional-censura-plataformas/" class="post-preview card h-100 border-0 shadow-sm text-decoration-none">
-    <img src="/assets/img/posts/fsd-informacional-cover.png" class="card-img-top" alt="FSD informacional" loading="lazy">
+    <img src="/assets/img/posts/fsd-informacional-cover.webp" class="card-img-top" alt="FSD informacional" loading="lazy">
     <div class="card-body d-flex flex-column">
       <span class="badge rounded-pill bg-warning text-dark align-self-start mb-2">ALTO</span>
       <h2 class="card-title h5 text-body">FSD Domínio Informacional</h2>
@@ -91,7 +91,7 @@ Curadoria dos **12 artigos mais relevantes** deste repositório — selecionados
 
 <article class="col">
   <a href="/posts/fsd-dominio-financeiro-brasil/" class="post-preview card h-100 border-0 shadow-sm text-decoration-none">
-    <img src="/assets/img/posts/fsd-financeiro-cover.png" class="card-img-top" alt="FSD financeiro" loading="lazy">
+    <img src="/assets/img/posts/fsd-financeiro-cover.webp" class="card-img-top" alt="FSD financeiro" loading="lazy">
     <div class="card-body d-flex flex-column">
       <span class="badge rounded-pill bg-warning text-dark align-self-start mb-2">ALTO</span>
       <h2 class="card-title h5 text-body">FSD Domínio Financeiro</h2>
@@ -103,7 +103,7 @@ Curadoria dos **12 artigos mais relevantes** deste repositório — selecionados
 
 <article class="col">
   <a href="/posts/fsd-dominio-psicologico-lobaczewski-nlp/" class="post-preview card h-100 border-0 shadow-sm text-decoration-none">
-    <img src="/assets/img/posts/fsd-psicologico-cover.png" class="card-img-top" alt="FSD psicológico" loading="lazy">
+    <img src="/assets/img/posts/fsd-psicologico-cover.webp" class="card-img-top" alt="FSD psicológico" loading="lazy">
     <div class="card-body d-flex flex-column">
       <span class="badge rounded-pill bg-warning text-dark align-self-start mb-2">ALTO</span>
       <h2 class="card-title h5 text-body">FSD Domínio Psicológico</h2>
@@ -115,7 +115,7 @@ Curadoria dos **12 artigos mais relevantes** deste repositório — selecionados
 
 <article class="col">
   <a href="/posts/us7645326-rfid-manipulacao-ambiental-iot/" class="post-preview card h-100 border-0 shadow-sm text-decoration-none">
-    <img src="/assets/img/patents/rfid-environment.png" class="card-img-top" alt="US7645326" loading="lazy">
+    <img src="/assets/img/patents/rfid-environment.webp" class="card-img-top" alt="US7645326" loading="lazy">
     <div class="card-body d-flex flex-column">
       <span class="badge rounded-pill bg-warning text-dark align-self-start mb-2">ALTO</span>
       <h2 class="card-title h5 text-body">US7645326 · RFID e IoT (2010)</h2>
@@ -127,7 +127,7 @@ Curadoria dos **12 artigos mais relevantes** deste repositório — selecionados
 
 <article class="col">
   <a href="/posts/us20150077737-sistema-monitoramento-ambiental/" class="post-preview card h-100 border-0 shadow-sm text-decoration-none">
-    <img src="/assets/img/patents/environment-monitoring.png" class="card-img-top" alt="US20150077737" loading="lazy">
+    <img src="/assets/img/patents/environment-monitoring.webp" class="card-img-top" alt="US20150077737" loading="lazy">
     <div class="card-body d-flex flex-column">
       <span class="badge rounded-pill bg-warning text-dark align-self-start mb-2">ALTO</span>
       <h2 class="card-title h5 text-body">US20150077737 · Monitoramento Ambiental (2015)</h2>
@@ -139,7 +139,7 @@ Curadoria dos **12 artigos mais relevantes** deste repositório — selecionados
 
 <article class="col">
   <a href="/posts/us20070215946-plasma-ionizado-comunicacoes-rf/" class="post-preview card h-100 border-0 shadow-sm text-decoration-none">
-    <img src="/assets/img/patents/ionized-plasma.png" class="card-img-top" alt="US20070215946" loading="lazy">
+    <img src="/assets/img/patents/ionized-plasma.webp" class="card-img-top" alt="US20070215946" loading="lazy">
     <div class="card-body d-flex flex-column">
       <span class="badge rounded-pill bg-warning text-dark align-self-start mb-2">ALTO</span>
       <h2 class="card-title h5 text-body">US20070215946 · Plasma Ionizado (2007)</h2>
