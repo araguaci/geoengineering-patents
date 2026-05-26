@@ -257,3 +257,43 @@ em:is([data-theme=dark] *) {
     text-align: justify;
 }
 
+.destaques-grid {
+  .destaque-card {
+    background: var(--card-bg);
+    overflow: hidden;
+
+    .destaque-card-media {
+      display: block;
+      overflow: hidden;
+      aspect-ratio: 16 / 9;
+      background-color: var(--img-bg);
+      background-position: center;
+      background-size: cover;
+      background-repeat: no-repeat;
+    }
+
+    .destaque-card-media--icon {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: var(--card-hovor-bg);
+
+      img {
+        width: auto;
+        height: auto;
+        max-width: 35%;
+        max-height: 55%;
+        object-fit: contain;
+      }
+    }
+
+    .card-body {
+      position: relative;
+    }
+
+    .card-title a:hover {
+      color: var(--link-color) !important;
+    }
+  }
+}
+
