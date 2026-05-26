@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Vigilância Eletromagnética
+title: Vigilância 
 icon: fas fa-broadcast-tower
 order: 6
 image:
