@@ -78,7 +78,7 @@ Cada um desses dispositivos emite sinais de radiofrequência que se refletem nos
 |---|---|---|
 | [US7645326](/posts/us7645326-rfid-manipulacao-ambiental-iot/) | 2010 | Mapeamento ambiental por RFID |
 | Wi-Fi Sensing (MIT CSAIL) | 2013 | Detecção de movimento através de paredes por Wi-Fi |
-| RF-Pose (MIT) | 2018 | Estimativa de pose humana via sinais Wi-Fi |
+| [RF-Pose (MIT)](/posts/mit-rf-pose-estimativa-pose-humana-wifi/) | 2018 | Estimativa de pose humana via sinais Wi-Fi |
 | Passive Wi-Fi Radar | 2020+ | Mapeamento de múltiplas pessoas em tempo real |
 
 A trajetória é linear e documentada. A patente [US7645326](/posts/us7645326-rfid-manipulacao-ambiental-iot/) está na origem desta linha de desenvolvimento.
@@ -111,6 +111,7 @@ A patente [US7645326](/posts/us7645326-rfid-manipulacao-ambiental-iot/) demonstr
 
 ## Análises e referências cruzadas
 
+- [MIT RF-Pose: Estimativa de Pose Humana via Wi-Fi (2018)](/posts/mit-rf-pose-estimativa-pose-humana-wifi/) — demonstração acadêmica da capacidade descrita nesta linha de desenvolvimento
 - [Da Geoengenharia à Vigilância: Cinco Patentes que Documentam a Origem Tecnológica do que a CIA já Sabe Fazer (2025)](/posts/vigilancia-eletromagnetica-patentes-cia-kiriakou/) — análise cruzada que inclui esta patente
 - [Vigilância Eletromagnética](/vigilancia/) — categoria e linha de desenvolvimento
 

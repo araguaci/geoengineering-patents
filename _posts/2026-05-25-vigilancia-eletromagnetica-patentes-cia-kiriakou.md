@@ -99,7 +99,7 @@ Este é o documento mais legível do cluster. Seu título é uma descrição fun
 | 2013 | [US20130015260](/posts/us20130015260-microwave-radar-armamento/): Radar/microondas como armamento e sensoriamento |
 | 2013 | MIT CSAIL: Primeira demonstração pública de Wi-Fi sensing através de paredes |
 | 2015 | [US20150077737](/posts/us20150077737-sistema-monitoramento-ambiental/): Sistema de monitoramento ambiental contínuo |
-| 2018 | MIT RF-Pose: Estimativa de pose humana em tempo real via Wi-Fi |
+| 2018 | [MIT RF-Pose](/posts/mit-rf-pose-estimativa-pose-humana-wifi/): Estimativa de pose humana em tempo real via Wi-Fi |
 | 2024 | Relatórios de capacidade operacional da CIA (contexto Vault 7+) |
 | 2025 | John Kiriakou declara publicamente as capacidades da CIA |
 
@@ -129,6 +129,7 @@ Esse espaço físico tem sido objeto de engenharia sistemática — e de registr
 
 ## Nesta categoria
 
+- [MIT RF-Pose: Estimativa de Pose Humana via Wi-Fi (2018)](/posts/mit-rf-pose-estimativa-pose-humana-wifi/)
 - [Vigilância Eletromagnética](/vigilancia/) — índice da categoria com linha de desenvolvimento e contexto Kiriakou
 
 ---

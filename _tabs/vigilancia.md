@@ -29,6 +29,7 @@ A física é a mesma. O alvo mudou de escala.
 ## Análise cruzada
 
 - [Da Geoengenharia à Vigilância: Cinco Patentes que Documentam a Origem Tecnológica do que a CIA já Sabe Fazer (2025)](/posts/vigilancia-eletromagnetica-patentes-cia-kiriakou/) — leitura integrada das patentes abaixo no contexto das declarações de John Kiriakou
+- [MIT RF-Pose: Estimativa de Pose Humana em Tempo Real via Wi-Fi (2018)](/posts/mit-rf-pose-estimativa-pose-humana-wifi/) — demonstração acadêmica pública de reconstrução de esqueleto humano por radiofrequência através de paredes
 
 ---
 
@@ -54,6 +55,7 @@ A física é a mesma. O alvo mudou de escala.
 2015  US20150077737 ─ Sistema de monitoramento ambiental contínuo
           │
           ▼
+2018  RF-Pose (MIT) ─ Estimativa de pose humana via RF através de paredes
 2018+ Wi-Fi Sensing / RF Tomography / Passive Radar (aplicação civil/operacional)
           │
           ▼
